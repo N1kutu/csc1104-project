@@ -1,0 +1,141 @@
+CPU Name,CPU Mark,Thread Mark,TDP (W),Category
+[Dual CPU] AMD EPYC 9174F,16,90483,3439,Server
+AMD EPYC 7R13 64-Core,48,82158,2752,Server
+ARM Neoverse-V2 72 Core 3465 MHz,72,57369,2328,Server
+AMD EPYC 9174F,16,55485,3318,Server
+Intel Xeon D-2775TE @ 2.00GHz,16,27299,2203,Server
+AMD Ryzen 5 PRO 7645,6,27106,3901,Server
+ARM Neoverse-N1 64 Core 2200 MHz,64,20250,917,Server
+Intel CC150 @ 3.50GHz,8,14459,2155,Server
+Hygon C86 3350 8-core,8,12292,1741,Desktop
+ARM Firestorm-M1-Pro 8 Core 2064 MHz,8,9872,2999,Desktop
+ZHAOXIN KaiXian KX-7000,8,9450,1523,Desktop
+Intel Core i5-3170K @ 3.20GHz,4,8882,2510,Desktop
+Intel Xeon @ 2.00GHz,6,7363,939,Server
+AMD EPYC 3101 4-Core,4,6050,1787,Server
+ARM Cortex-X1C 4 Core 2438 MHz,4,6007,1244,Mobile/Embedded
+ARM Neoverse-N2 8 Core 2500 MHz,8,5544,1361,Server
+ARM Phytium D3000 8 Core 2500 MHz,8,5528,1247,Server
+Intel Core i5-760S @ 2.53GHz,4,5440,1578,Desktop
+Intel Core i7-985 @ 3.47GHz,4,3928,1579,Desktop
+ZHAOXIN KaiXian KX-U6780@2.7GHz,8,3693,851,Desktop
+ZHAOXIN KaiXian KX-U6780A@2.7GHz,8,3643,776,Desktop
+DG1301SML87HY,8,3624,727,Mobile/Embedded
+AMD Athlon X4 850,4,3366,1575,Desktop
+ARM - 8 Core 1800 MHz,8,3292,1016,Server
+AMD FX-870K Quad Core,2,3227,1470,Desktop
+ZHAOXIN KaiXian KX-U6580@2.5GHz,8,3227,745,Desktop
+AMD Athlon X4 750K Quad Core,2,2861,1465,Desktop
+Intel Core 860 @ 2.80GHz,4,2754,1142,Desktop
+ARM Cortex-A76 4 Core 3100 MHz,4,2610,1328,Mobile/Embedded
+Intel Core i3-2140 @ 3.50GHz,2,2307,1535,Desktop
+ARM Cortex-A72 4 Core 2208 MHz,4,2290,623,Mobile/Embedded
+ARM - 8 Core 2208 MHz,8,2270,607,Server
+ARM Kryo-3XX-Gold 4 Core 1766 MHz,4,2222,877,Mobile/Embedded
+Intel Core i3-21050 @ 3.10GHz,2,2193,1429,Desktop
+ARM Cortex-A72 4 Core 2016 MHz,4,2186,614,Mobile/Embedded
+AMD Athlon X4 640,4,2115,1224,Desktop
+AMD Athlon X4 620,4,1810,1033,Desktop
+AMD Athlon X3 455,3,1783,1227,Desktop
+AMD Athlon X3 435,3,1781,1192,Desktop
+HP Hexa-Core 2.0GHz,4,1741,804,Laptop
+AMD Athlon X3 445,3,1626,1270,Desktop
+Z3-6540M@2.1GHz,4,1599,788,Desktop
+ZHAOXIN KaiXian KX-6640MA@2.2+GHz,4,1561,733,Desktop
+ZHAOXIN KaiXian ZX-C+ C4700@2.0GHz,4,1547,556,Laptop
+AMD Athlon X3 425,3,1516,845,Desktop
+AMD Athlon X2 370K Dual Core,1,1504,1514,Desktop
+ZHAOXIN KaiXian ZX-D D4600@2.0GHz,4,1492,602,Desktop
+ARM Cortex-A76 4 Core 1500 MHz,4,1488,649,Mobile/Embedded
+Pentium Dual-Core E6000 @ 3.46GHz,2,1472,1542,Desktop
+AMD Athlon X3 440,3,1438,1129,Desktop
+AMD E1-6050J APU,2,1385,787,Mobile/Embedded
+VIA QuadCore C4650@2.0GHz,4,1352,559,Mobile/Embedded
+AMD Athlon X2 280,2,1327,1258,Desktop
+ARM Cortex-A73 6 Core 1896 MHz,6,1242,483,Mobile/Embedded
+AMD Athlon II X2 B26,2,1206,1266,Desktop
+DO-Regular,1,1070,1277,Desktop
+Intel Celeron U1900 @ 1.99GHz,4,1028,527,Mobile/Embedded
+AMD Athlon X2 240e,2,1015,1092,Desktop
+AMD Athlon X2 215,2,996,1107,Desktop
+AMD Athlon X2 255,2,938,1095,Desktop
+Pentium Dual-Core T4500 @ 2.30GHz,2,932,915,Mobile/Embedded
+AMD Athlon X2 240,2,921,1017,Desktop
+Pentium Dual-Core T4300 @ 2.10GHz,2,901,883,Laptop
+AMD Sempron X2 190,2,879,977,Desktop
+AMD Athlon X2 250,2,855,1099,Desktop
+AMD Sempron X2 180,2,826,865,Desktop
+AC8257V/WAB,8,788,485,Mobile/Embedded
+ARM ARMv7 rev 1 (v7l) 4 Core 1608 MHz,4,776,445,Mobile/Embedded
+ARM Cortex-A55 4 Core 2016 MHz,4,755,327,Mobile/Embedded
+Athlon 64 Dual Core 3800+,2,736,653,Desktop
+ARM Cortex-A55 4 Core 1908 MHz,4,707,311,Mobile/Embedded
+Intel Core2 Duo L7800 @ 2.00GHz,2,680,622,Desktop
+Amlogic,4,636,457,Mobile/Embedded
+Intel U4100 @ 1.30GHz,2,610,554,Laptop
+Intel Celeron @ 1.30GHz,1,572,610,Mobile/Embedded
+Intel Pentium T2410 @ 2.00GHz,2,566,712,Mobile/Embedded
+AMD Athlon X2 Dual Core 6850e,2,564,623,Desktop
+AMD Sempron Dual Core 2200,2,563,649,Desktop
+AMD Athlon Neo X2 Dual Core L325,2,556,567,Desktop
+AMD Sempron Dual Core 2300,2,555,697,Desktop
+Intel T1400 @ 1.73GHz,2,548,648,Mobile/Embedded
+Intel T1500 @ 1.86GHz,2,548,661,Mobile/Embedded
+AMD Sempron Dual Core 2100,2,533,596,Desktop
+AMD Athlon Neo X2 Dual Core L335,2,529,570,Laptop
+Intel T2050 @ 2.00GHz,2,516,611,Mobile/Embedded
+AMD Sempron 130,1,511,1059,Desktop
+AMD Athlon Neo X2 Dual Core 6850e,2,456,566,Laptop
+Sony Mobile fusion3,4,428,234,Mobile/Embedded
+AMD Geode NX 2400+,1,400,634,Mobile/Embedded
+QCT APQ8064 MAKO,4,399,254,Mobile/Embedded
+AMD Athlon X2 Dual Core 3250e,2,357,458,Desktop
+Intel 2.80GHz,2,341,456,Desktop
+AMD Athlon TF-36,1,338,349,Laptop
+AMD Sempron M100,1,332,546,Laptop
+ARM ARMv7 rev 5 (v7l) 4 Core 1200 MHz,4,325,232,Mobile/Embedded
+Spreadtrum SC7731e,4,318,216,Mobile/Embedded
+Intel Celeron 3.06GHz,1,307,544,Mobile/Embedded
+AMD Z-01,2,305,294,Mobile/Embedded
+AMD C-60,2,290,354,Mobile/Embedded
+AMD Athlon XP 3100+,1,282,431,Desktop
+AMD Athlon XP 3200+,1,281,430,Desktop
+AMD Athlon XP 2900+,1,276,410,Desktop
+AMD Athlon Neo MV-40,1,275,485,Laptop
+AMD Sempron 210U,1,267,299,Mobile/Embedded
+Intel Celeron 3.20GHz,1,267,599,Mobile/Embedded
+AMD Athlon TF-20,1,265,454,Laptop
+Intel Celeron 3.33GHz,1,263,528,Mobile/Embedded
+AMD Athlon XP 2800+,1,260,408,Desktop
+AMD Athlon XP 2700+,1,256,398,Desktop
+AMD Athlon XP2400+,1,243,390,Desktop
+AMD Athlon XP 2600+,1,242,380,Desktop
+AMD Athlon XP 2400+,1,234,375,Desktop
+AMD Athlon XP 2500+,1,231,353,Desktop
+Intel Celeron 2.93GHz,1,230,396,Mobile/Embedded
+Intel Celeron 2.53GHz,1,222,396,Mobile/Embedded
+AMD Athlon XP 2200+,1,214,335,Desktop
+AMD Athlon XP 2100+,1,210,327,Desktop
+AMD Athlon XP 1900+,1,203,312,Desktop
+AMD Athlon L110,1,197,223,Laptop
+AMD Athlon XP1600+,1,183,272,Desktop
+Intel Celeron 2.26GHz,1,182,382,Mobile/Embedded
+AMD Athlon XP 1600+,1,174,265,Desktop
+AMD Athlon XP 1500+,1,167,251,Desktop
+Intel Celeron 2.13GHz,1,166,361,Mobile/Embedded
+Intel Celeron 2.50GHz,1,164,431,Mobile/Embedded
+Intel Celeron 1200MHz,1,159,212,Mobile/Embedded
+Intel Celeron 2.70GHz,1,159,386,Mobile/Embedded
+Intel Atom N435 @ 1.33GHz,1,153,220,Mobile/Embedded
+Intel Celeron 2.30GHz,1,148,364,Mobile/Embedded
+Intel Celeron 2.40GHz,1,143,397,Mobile/Embedded
+Intel Celeron 2.60GHz,1,143,353,Mobile/Embedded
+Intel Celeron 1000MHz,1,139,174,Mobile/Embedded
+Intel Celeron 2.20GHz,1,139,349,Mobile/Embedded
+VIA Esther 1500MHz,1,135,112,Mobile/Embedded
+Intel Celeron 2.66GHz,1,131,359,Mobile/Embedded
+AMD Sempron 200U,1,125,311,Mobile/Embedded
+Intel Celeron 1100MHz,1,113,183,Mobile/Embedded
+Intel Celeron 1.70GHz,1,101,190,Mobile/Embedded
+VIA Nehemiah,1,101,75,Desktop
+VIA Esther 1000MHz,1,95,82,Mobile/Embedded
