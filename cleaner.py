@@ -3,7 +3,6 @@ import matplotlib
 matplotlib.use('TkAgg') 
 import matplotlib.pyplot as plt
 
-
 df = pd.read_csv('Data.csv')
 
 df_filtered = df[~df["TDP (W)"].astype(str).str.contains("NA", case=False, na=False)]
