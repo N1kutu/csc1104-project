@@ -7,7 +7,13 @@ import matplotlib.pyplot as plt
 df = pd.read_csv("Data.csv")
 
 print(df.describe())
-print(df["Cores"].hist())
+# print(df.mean())
+# print(df["Cores"].hist())
+meanCpu = df.loc[
+    (df["No. Sockets"] == 1) & (df["Cores"] == 8) & (df["CPU Mark"] == 8672)
+]
+
+meanCpu.to_csv("MeanCPU.csv")
 
 """
 x = df["Cores"]
@@ -16,4 +22,4 @@ plt.scatter(x, y, label= "stars", color= "m",
             marker= "*", s=30) 
 """
 
-plt.show()
+# plt.show()
