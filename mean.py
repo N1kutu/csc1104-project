@@ -25,4 +25,3 @@ plt.scatter(x, y, label="CPU Data", color="m", marker="*", s=30)
 # Display the plot
 plt.show()
 """
-
