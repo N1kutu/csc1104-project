@@ -5,9 +5,9 @@ matplotlib.use("TkAgg")
 import matplotlib.pyplot as plt
 
 df = pd.read_csv("Data.csv")
-# print(df.mean())
+print(df.nunique())
 
-print(df.corr())
+# print(df.corr())
 meanCpu = df.loc[
     (df["No. Sockets"] == 1) & (df["Cores"] == 8) & (df["CPU Mark"] == 8672)
 ]
