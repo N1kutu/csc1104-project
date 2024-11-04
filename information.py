@@ -16,8 +16,9 @@ meanCpu = df.loc[
 # meanCpu.to_csv("MeanCPU.csv")
 
 X = df.drop("CPU Mark", axis=1)
-X = X.drop("CPU Name", axis=1)
 X = X.drop("Category", axis=1)
+cpu_names = df["CPU Name"]
+X = X.drop("CPU Name", axis=1)
 X = X.values
 y = df["CPU Mark"]
 y = y.values
@@ -40,8 +41,8 @@ nearest_neighbor_mark = y[nearest_neighbor_ids]
 prediction = nearest_neighbor_mark.mean()
 
 from sklearn.model_selection import train_test_split
-X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.2, random_state=12345
+X_train, X_test, y_train, y_test, cpu_names_train, cpu_names_test = train_test_split(
+    X, y, cpu_names, test_size=0.2, random_state=12345
 )
 
 from sklearn.neighbors import KNeighborsRegressor
@@ -78,11 +79,32 @@ test_rmse = root_mean_squared_error(y_test, test_preds_grid)
 
 best_k = gridsearch.best_params_["n_neighbors"]
 bagged_knn = KNeighborsRegressor(n_neighbors=best_k)
+
 from sklearn.ensemble import BaggingRegressor
-bagging_model = BaggingRegressor(bagged_knn, n_estimators=100)
+bagging_model = BaggingRegressor(bagged_knn, n_estimators=1000)
 bagging_model.fit(X_train, y_train)
 
 test_preds_grid = bagging_model.predict(X_test)
 test_rmse = root_mean_squared_error(y_test, test_preds_grid)
 print(test_rmse)
-print(test_preds_grid)
+
+tmp = []
+tmp2 = []
+for i in range(len(test_preds_grid)):
+    y_test1 = y_test[i] * 0.2
+    y_testmax = y_test[i] + y_test1
+    y_testmin = y_test[i] - y_test1
+    if (y_testmin < test_preds_grid[i] and test_preds_grid[i] < y_testmax):
+        tmp.append(1)
+    else:
+        tmp.append(0)
+        tmp2.append(test_preds_grid[i])
+
+predictions_with_names = pd.DataFrame({
+    "CPU Name": cpu_names_test.values,
+    "Predicted CPU Mark": test_preds_grid,
+    "Actual CPU Mark": y_test,
+    "Accuracy (%)": (tmp.count(1) / len(tmp)) * 100
+})
+
+predictions_with_names.to_csv("Predictor.csv")
