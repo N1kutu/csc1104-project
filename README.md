@@ -14,8 +14,24 @@ Week 6: Present Workshop slides
 
 Week 11: Project Final report due on the 24th November 2024
 
-Grades Achieved:
-Workshop Presentation: 66%
-Final Report:
+<table>
+  Grades Achieved:
+  <tr>
+    <th>Workshop Presentation </th>
+    <th>Final Report </th>
+    <th>Overall CA Mark </th>
+  </tr>
+  
+  <tr>
+    <td>66%</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-Overall CA Mark: 
+
+
+
+
+
+
