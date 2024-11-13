@@ -1,0 +1,2582 @@
+CPU Name,No. Sockets,Cores,CPU Mark,Thread Mark,TDP (W),Power Performance,Category
+Intel Pentium 4 1300MHz,1,1,77,203,51.6,1.49,Desktop
+VIA Eden 1000MHz,1,1,80,83,5,16,Laptop
+Intel Pentium 4 1500MHz,1,1,81,223,57.8,1.4,Desktop
+Intel Pentium 4 1400MHz,1,1,83,180,54.7,1.52,Desktop
+Intel Pentium 4 1.60GHz,1,1,84,225,38,2.21,Desktop
+Intel Pentium 4 1.50GHz,1,1,86,228,57.8,1.49,Desktop
+Intel Pentium 4 1.70GHz,1,1,86,254,64,1.34,Desktop
+VIA Eden 1200MHz,1,1,93,97,7,13.29,Laptop
+Intel Celeron 1.80GHz,1,1,96,307,66.1,1.45,Desktop
+Intel Pentium 4 1700MHz,1,1,100,266,64,1.56,Desktop
+Intel Pentium 4 1.90GHz,1,1,104,292,69.2,1.5,Desktop
+Intel Celeron B710 @ 1.60GHz,1,1,106,101,35,3.03,Laptop
+Intel Pentium 4 1800MHz,1,1,114,317,68.1,1.67,Desktop
+Intel Pentium 4 1.80GHz,1,1,115,318,68.1,1.69,Desktop
+VIA C7-M 1600MHz,1,1,116,124,15,7.73,Laptop
+AMD G-T40R,1,1,120,327,5.5,21.82,Laptop
+AMD G-T44R,1,1,120,302,9,13.33,Laptop
+Mobile Intel Celeron 1.80GHz,1,1,121,280,66.1,1.83,Laptop
+Intel Atom Z520 @ 1.33GHz,1,1,122,151,2,61,Laptop
+Intel Celeron M 410 @ 1.46GHz,1,1,123,301,27,4.56,Laptop
+AMD Sempron 200U,1,1,125,311,8,15.62,Mobile/Embedded
+Intel Celeron 2.00GHz,1,1,125,338,52.8,2.37,Desktop
+Intel Celeron M 443 @ 1.20GHz,1,1,125,288,5.5,22.73,Laptop
+Intel Core Solo U1300 @ 1.06GHz,1,1,127,340,6,21.17,Laptop
+Intel Core Solo U1400 @ 1.20GHz,1,1,130,365,5.5,23.64,Laptop
+Mobile Intel Pentium III - M 933MHz,1,1,130,177,20.1,6.47,Laptop
+Intel Pentium 4 2.40GHz,1,1,131,360,59.8,2.19,Desktop
+Intel Pentium 4 2.00GHz,1,1,133,349,54.3,2.45,Desktop
+Intel Atom N270 @ 1.60GHz,1,1,136,174,2.5,54.4,Laptop
+Intel Celeron M 420 @ 1.60GHz,1,1,139,391,27,5.15,Laptop
+Intel Pentium M 900MHz,1,1,141,200,7,20.14,Laptop
+Mobile Intel Pentium III - M 1200MHz,1,1,146,185,22,6.64,Laptop
+VIA C7-D 1800MHz,1,1,150,147,20,7.5,Desktop
+Intel Pentium 4 2.26GHz,1,1,151,409,58,2.6,Desktop
+AMD Athlon 64 2000+,1,1,154,173,8,19.25,Desktop
+Intel Pentium M 1200MHz,1,1,155,166,12,12.92,Laptop
+Intel Pentium M 1000MHz,1,1,156,222,7,22.29,Laptop
+Intel Atom N280 @ 1.66GHz,1,1,157,234,2.5,62.8,Laptop
+Intel Pentium 4 2.20GHz,1,1,157,379,57.1,2.75,Desktop
+Intel Pentium 4 2.66GHz,1,1,157,431,66.1,2.38,Desktop
+Intel Atom Z670 @ 1.50GHz,1,1,158,95,3,52.67,Laptop
+Intel Pentium 4 2.50GHz,1,1,160,385,61,2.62,Desktop
+Intel Pentium 4 2.53GHz,1,1,162,442,61.5,2.63,Desktop
+Intel Core Solo U1500 @ 1.33GHz,1,1,164,375,5.5,29.82,Laptop
+Mobile AMD Sempron 2100+,1,1,164,203,8,20.5,"Laptop, Mobile/Embedded"
+VIA Nano L2207@1600MHz,1,1,165,191,17,9.71,Laptop
+Intel Atom 230 @ 1.60GHz,1,1,169,185,4,42.25,Desktop
+Intel Celeron M 430 @ 1.73GHz,1,1,169,466,27,6.26,Laptop
+Intel Celeron M 440 @ 1.86GHz,1,1,169,485,27,6.26,Laptop
+Mobile AMD Athlon MP-M 1800+,1,1,173,262,35,4.94,Laptop
+Intel Celeron 215 @ 1.33GHz,1,1,174,440,27,6.44,Laptop
+AMD Athlon XP 1700+,1,1,176,272,64,2.75,Desktop
+AMD G-T52R,1,1,177,381,18,9.83,Laptop
+AMD C-30,1,1,178,375,9,19.78,Laptop
+Intel Atom N475 @ 1.83GHz,1,1,179,281,6.5,27.54,Laptop
+VIA Nano U2250@1300+MHz,1,1,179,156,10,17.9,Laptop
+Intel Atom D410 @ 1.66GHz,1,1,180,241,10,18,Desktop
+Mobile Intel Pentium 4 2.66GHz,1,1,182,425,66.1,2.75,Desktop
+Intel Atom Z530 @ 1.60GHz,1,1,183,161,2,91.5,Laptop
+AMD V105,1,1,184,452,9,20.44,Laptop
+Intel Atom E3815 @ 1.46GHz,1,1,184,266,5,36.8,Desktop
+VIA Nano U3500@1000MHz,1,1,184,286,5,36.8,Laptop
+VIA Nano U2250 (1.6GHz Capable),1,1,187,256,8,23.38,Laptop
+Intel Pentium M 1500MHz,1,1,188,251,24.5,7.67,Laptop
+Intel Celeron 2.80GHz,1,1,190,425,68.4,2.78,Desktop
+Intel Celeron M 1.50GHz,1,1,192,374,21,9.14,Laptop
+Intel Atom N455 @ 1.66GHz,1,1,193,266,6.5,29.69,Laptop
+Intel Pentium III 1400 @ 1400MHz,1,1,193,272,31.2,6.19,Desktop
+Intel Pentium M 1600MHz,1,1,193,313,24.5,7.88,Laptop
+Mobile AMD Athlon XP-M 1800+,1,1,193,291,45,4.29,Laptop
+Intel Core Solo T1350 @ 1.86GHz,1,1,194,413,31,6.26,Laptop
+Intel Pentium III 1400S @ 1400MHz,1,1,194,278,32.2,6.02,Desktop
+Intel Pentium M 1.60GHz,1,1,194,427,24.5,7.92,Laptop
+AMD Athlon XP 1800+,1,1,195,301,66,2.95,Desktop
+AMD Athlon XP 2000+,1,1,195,311,70,2.79,Desktop
+AMD E-240,1,1,195,403,18,10.83,Laptop
+Intel Pentium M 1.30GHz,1,1,196,250,22,8.91,Laptop
+AMD Athlon L110,1,1,197,223,13,15.15,Laptop
+Intel Pentium M 1300MHz,1,1,197,271,22,8.95,Laptop
+VIA Nano U2500@1200MHz,1,1,199,184,7,28.43,Laptop
+Intel Atom N450 @ 1.66GHz,1,1,203,277,5.5,36.91,Laptop
+Intel Atom D425 @ 1.80GHz,1,1,204,271,10,20.4,Desktop
+Intel Pentium M 1.73GHz,1,1,205,494,27,7.59,Laptop
+Mobile Intel Pentium 4 2.80GHz,1,1,205,397,69.7,2.94,Desktop
+Intel Pentium M 1400MHz,1,1,208,282,22,9.45,Laptop
+Intel Celeron 220 @ 1.20GHz,1,1,209,255,19,11,Desktop
+Intel Core Solo T1300 @ 1.66GHz,1,1,210,518,27,7.78,Laptop
+Intel Celeron 723 @ 1.20GHz,1,1,213,460,10,21.3,Laptop
+Intel Pentium 4 2.60GHz,1,1,215,494,69,3.12,Desktop
+Mobile Intel Pentium 4 3.06GHz,1,1,220,423,81.8,2.69,Desktop
+Intel Celeron M 360 1.40GHz,1,1,221,305,21,10.52,Laptop
+Intel Pentium M 1.86GHz,1,1,222,499,27,8.22,Laptop
+Intel Core Duo U2500 @ 1.20GHz,1,2,223,361,9,24.78,Laptop
+Intel Atom N470 @ 1.83GHz,1,1,224,308,6.5,34.46,Laptop
+Intel Pentium M 1.40GHz,1,1,225,264,22,10.23,Laptop
+Intel Pentium M 2.26GHz,1,1,227,508,27,8.41,Laptop
+Intel Pentium SU2700 @ 1.30GHz,1,1,228,480,10,22.8,Laptop
+Intel Celeron M 450 @ 2.00GHz,1,1,230,598,27,8.52,Laptop
+AMD Sempron 3500+,1,1,232,264,62,3.74,Desktop
+Intel Celeron D 347 @ 3.06GHz,1,1,232,565,86,2.7,Desktop
+Mobile Intel Pentium 4 3.20GHz,1,1,232,468,82,2.83,Desktop
+Intel Core2 Solo U2100 @ 1.06GHz,1,1,233,258,5.5,42.36,Laptop
+Intel Pentium M 2.13GHz,1,1,234,472,27,8.67,Laptop
+Intel Celeron 420 @ 1.60GHz,1,1,235,471,35,6.71,Desktop
+Intel Pentium 4 2.80GHz,1,1,237,509,69.7,3.4,Desktop
+Intel Pentium M 1700MHz,1,1,237,361,24.5,9.67,Laptop
+VIA Nano L2007@1600MHz,1,1,238,273,25,9.52,Laptop
+Intel Celeron M 520 @ 1.60GHz,1,1,239,505,30,7.97,Laptop
+Intel Pentium M 1.70GHz,1,1,239,318,24.5,9.76,Laptop
+Intel Pentium M 1.50GHz,1,1,240,323,24.5,9.8,Laptop
+Intel Celeron 807UE @ 1.00GHz,1,1,241,421,10,24.1,Laptop
+AMD Athlon 64 2600+,1,1,243,292,15,16.2,Desktop
+AMD Sempron 2800+,1,1,243,408,62,3.92,Desktop
+AMD Sempron SI-42,1,1,245,637,25,9.8,Laptop
+AMD Turion 64 Mobile MT-30,1,1,246,294,25,9.84,Laptop
+Intel Atom D2500 @ 1.86GHz,1,2,246,326,10,24.6,Desktop
+AMD Sempron M120,1,1,247,559,25,9.88,Laptop
+AMD GX-210JA SOC,1,2,248,231,6,41.33,Laptop
+Intel Pentium 4 3.06GHz,1,1,249,551,81.8,3.04,Desktop
+AMD Sempron 3200+,1,1,251,456,62,4.05,Desktop
+AMD Sempron LE-1150,1,1,251,477,45,5.58,Desktop
+Intel Celeron D 356 @ 3.33GHz,1,1,251,619,86,2.92,Desktop
+Intel Core2 Solo U3500 @ 1.40GHz,1,1,252,546,5.5,45.82,Laptop
+Intel Core Solo T1400 @ 1.83GHz,1,1,253,525,27,9.37,Laptop
+AMD Turion 64 Mobile ML-28,1,1,254,314,25,10.16,Laptop
+Intel Core Duo U2400 @ 1.06GHz,1,2,255,342,9,28.33,Laptop
+AMD Athlon XP 2800+,1,1,260,408,89,2.92,Desktop
+Intel Xeon 2.80GHz,1,1,260,384,103,2.52,Server
+AMD Athlon XP 3000+,1,1,262,396,62,4.23,Desktop
+AMD Z-60 APU,1,2,262,318,4.5,58.22,Laptop
+AMD Athlon TF-20,1,1,265,454,15,17.67,Laptop
+AMD C-50,1,2,265,312,9,29.44,Laptop
+AMD Sempron 210U,1,1,267,299,15,17.8,Mobile/Embedded
+Intel Celeron M 723 @ 1.20GHz,1,1,267,507,10,26.7,Laptop
+Intel Celeron 530 @ 1.73GHz,1,1,268,468,27,9.93,Laptop
+Mobile AMD Sempron 3400+,1,1,269,489,25,10.76,Laptop
+Intel Pentium M 2.00GHz,1,1,270,363,21,12.86,Laptop
+AMD Athlon 2650e,1,1,274,304,15,18.27,Desktop
+AMD Turion 64 Mobile MT-37,1,1,274,501,25,10.96,Laptop
+Intel Celeron D 352 @ 3.20GHz,1,1,274,576,86,3.19,Desktop
+AMD Athlon Neo MV-40,1,1,275,485,15,18.33,Laptop
+Intel Celeron 743 @ 1.30GHz,1,1,275,496,10,27.5,Laptop
+AMD Turion 64 Mobile ML-30,1,1,277,314,35,7.91,Laptop
+AMD Turion 64 Mobile MT-34,1,1,279,328,24,11.62,Laptop
+VIA Nano L2100@1800MHz,1,1,279,182,25,11.16,Laptop
+Intel Celeron 430 @ 1.80GHz,1,1,280,615,35,8,Desktop
+Intel Pentium M 1.80GHz,1,1,280,389,21,13.33,Laptop
+AMD Athlon XP 3200+,1,1,281,430,62,4.53,Desktop
+Intel Atom N550 @ 1.50GHz,1,2,283,239,8.5,33.29,Laptop
+Mobile AMD Sempron 3600+,1,1,284,618,25,11.36,Laptop
+AMD Turion 64 Mobile ML-32,1,1,285,321,35,8.14,Laptop
+AMD Sempron 3000+,1,1,286,462,62,4.61,Desktop
+AMD Turion 64 Mobile MT-32,1,1,286,367,24,11.92,Laptop
+AMD Sempron SI-40,1,1,288,631,25,11.52,Laptop
+AMD G-T40E,1,2,289,313,6.4,45.16,Laptop
+AMD C-60,1,2,290,354,9,32.22,Mobile/Embedded
+AMD Athlon 2800+,1,1,291,439,89,3.27,Desktop
+AMD Athlon 64 3800+,1,1,292,461,45,6.49,Desktop
+AMD Sempron 3400+,1,1,292,346,62,4.71,Desktop
+Intel Pentium M 2.10GHz,1,1,292,353,21,13.9,Laptop
+AMD Athlon 64 2800+,1,1,295,375,89,3.31,Desktop
+Intel Pentium 4 3.46GHz,1,1,295,512,110.7,2.66,Desktop
+AMD Athlon II Neo K145,1,1,298,592,12,24.83,Laptop
+AMD Sempron 3100+,1,1,298,383,62,4.81,Desktop
+Intel Pentium 4 3.40GHz,1,1,298,649,89,3.35,Desktop
+AMD G-T40N,1,2,299,323,9,33.22,Laptop
+AMD Sempron LE-1250,1,1,301,508,45,6.69,Desktop
+Intel Celeron M 530 @ 1.73GHz,1,1,302,578,30,10.07,Laptop
+Intel Atom E3826 @ 1.46GHz,1,2,304,395,7,43.43,Laptop
+AMD Athlon 64 3200+,1,1,305,621,62,4.92,Desktop
+Intel Celeron 540 @ 1.86GHz,1,1,305,550,30,10.17,Laptop
+Intel Celeron D 420 @ 1.60GHz,1,1,313,388,35,8.94,Desktop
+Mobile AMD Athlon 64 4000+,1,1,313,338,62,5.05,Laptop
+AMD Athlon II Neo K125,1,1,315,616,12,26.25,Laptop
+AMD C-70 APU,1,2,315,364,9,35,"Laptop, Mobile/Embedded"
+AMD Sempron 3300+,1,1,315,394,62,5.08,Desktop
+AMD Sempron LE-1100,1,1,315,509,45,7,Desktop
+Intel Pentium 4 3.60GHz,1,1,315,447,115,2.74,Desktop
+AMD C-60 APU,1,2,316,357,9,35.11,"Laptop, Mobile/Embedded"
+AMD Opteron 144,1,1,316,376,67,4.72,Server
+AMD Athlon 64 3400+,1,1,317,547,89,3.56,Desktop
+Intel Pentium 4 3.00GHz,1,1,317,537,81.9,3.87,Desktop
+AMD Turion 64 Mobile ML-34,1,1,319,526,35,9.11,Laptop
+Intel Core Duo T2300 @ 1.66GHz,1,2,325,509,31,10.48,Laptop
+Mobile AMD Athlon 64 3200+,1,1,326,400,81.5,4,Laptop
+AMD Athlon X2 Dual Core L310,1,2,329,395,13,25.31,Laptop
+Intel Pentium 4 3.20GHz,1,1,330,547,82,4.02,Desktop
+Intel Pentium T2060 @ 1.60GHz,1,2,330,490,31,10.65,Laptop
+AMD Athlon 2850e,1,1,333,337,22,15.14,Desktop
+Intel Core Duo T2050 @ 1.60GHz,1,2,333,498,31,10.74,Desktop
+Mobile AMD Athlon 64 3400+,1,1,333,432,81.5,4.09,Laptop
+AMD Athlon 64 3000+,1,1,334,615,89,3.75,Desktop
+AMD Turion 64 Mobile MK-36,1,1,334,735,31,10.77,Laptop
+AMD Turion 64 Mobile ML-37,1,1,334,510,35,9.54,Laptop
+Intel Celeron 550 @ 2.00GHz,1,1,334,662,31,10.77,Laptop
+Intel Celeron N2805 @ 1.46GHz,1,2,335,394,4.3,77.91,Laptop
+AMD Turion 64 Mobile ML-40,1,1,336,662,35,9.6,Laptop
+AMD V160,1,1,337,838,25,13.48,Laptop
+AMD Athlon TF-36,1,1,338,349,25,13.52,Laptop
+AMD E-300 APU,1,2,339,394,18,18.83,Laptop
+Intel Celeron 560 @ 2.13GHz,1,1,339,632,31,10.94,Laptop
+AMD Athlon 64 4000+,1,1,340,565,62,5.48,Desktop
+AMD Athlon II 170u,1,1,340,719,20,17,Desktop
+Intel Atom N570 @ 1.66GHz,1,2,341,273,8.5,40.12,Laptop
+Intel Pentium T2080 @ 1.73GHz,1,2,341,528,31,11,Laptop
+Intel Celeron 570 @ 2.26GHz,1,1,344,431,31,11.1,Laptop
+AMD Opteron 146,1,1,346,400,67,5.16,Server
+Intel Core2 Duo U7600 @ 1.20GHz,1,2,347,429,10,34.7,Laptop
+Intel Core Duo L2400 @ 1.66GHz,1,2,348,501,15,23.2,Laptop
+AMD Sempron LE-1200,1,1,349,551,45,7.76,Desktop
+Intel Core Duo T2250 @ 1.73GHz,1,2,350,530,31,11.29,Laptop
+AMD V120,1,1,352,806,25,14.08,Laptop
+Mobile AMD Athlon 64 3700+,1,1,356,485,81.5,4.37,Laptop
+AMD Athlon X2 Dual Core 3250e,1,2,357,458,22,16.23,Desktop
+AMD Athlon II 160u,1,1,358,717,20,17.9,Desktop
+Intel Pentium 4 3.80GHz,1,1,358,671,65,5.51,Desktop
+AMD Sempron 3800+,1,1,360,422,62,5.81,Desktop
+Intel Atom N2600 @ 1.60GHz,1,2,360,289,3.5,102.86,Laptop
+AMD Turion 64 Mobile MK-38,1,1,362,801,31,11.68,Laptop
+Intel Core Duo T2400 @ 1.83GHz,1,2,362,527,31,11.68,Laptop
+Intel Atom 330 @ 1.60GHz,1,2,363,255,8,45.38,Desktop
+AMD Sempron 3600+,1,1,364,377,62,5.87,Desktop
+Intel Celeron 440 @ 2.00GHz,1,1,368,444,35,10.51,Desktop
+AMD A4-1200 APU,1,2,369,303,3.9,94.62,Laptop
+Intel Celeron 827E @ 1.40GHz,1,1,371,674,17,21.82,Laptop
+Intel Celeron D 360 @ 3.46GHz,1,1,372,712,65,5.72,Desktop
+Intel Pentium D 805 @ 2.66GHz,1,2,374,497,95,3.94,Desktop
+Intel Xeon 3.40GHz,1,1,375,519,103,3.64,Server
+AMD Athlon 64 3500+,1,1,377,576,45,8.38,Desktop
+Intel Atom E3825 @ 1.33GHz,1,2,378,309,6,63,Desktop
+AMD E1-1200 APU,1,2,380,430,18,21.11,Laptop
+Intel Pentium T2130 @ 1.86GHz,1,2,382,583,31,12.32,Laptop
+AMD Turion 64 Mobile ML-44,1,1,384,469,35,10.97,Laptop
+Intel Core Duo T2350 @ 1.86GHz,1,2,385,576,31,12.42,Laptop
+Intel Pentium 4 3.73GHz,1,1,385,572,115,3.35,Desktop
+Intel Core Duo L2300 @ 1.50GHz,1,2,387,442,15,25.8,Desktop
+AMD Opteron 148,1,1,392,443,85.3,4.6,Server
+Intel Celeron 807 @ 1.50GHz,1,1,392,608,17,23.06,Laptop
+Intel Core2 Duo U7500 @ 1.06GHz,1,2,392,393,10,39.2,Laptop
+AMD Opteron 150,1,1,393,471,85.3,4.61,Server
+Intel Xeon 3.80GHz,1,1,393,594,110,3.57,Server
+AMD Athlon 64 3700+,1,1,394,435,89,4.43,Desktop
+AMD E1-1500 APU,1,2,398,458,18,22.11,Laptop
+AMD Turion 64 Mobile ML-42,1,1,400,455,35,11.43,Laptop
+Intel Atom D525 @ 1.80GHz,1,2,402,306,13,30.92,Desktop
+Intel Celeron 900 @ 2.20GHz,1,1,403,824,34.8,11.58,Laptop
+Intel Xeon 3.60GHz,1,1,403,643,110,3.66,Server
+AMD Athlon 64 FX-55,1,1,404,505,104,3.88,Desktop
+Intel Core Duo L2500 @ 1.83GHz,1,2,404,578,15,26.93,Laptop
+AMD E1-2100 APU,1,2,405,322,9,45,Laptop
+Intel Xeon 5110 @ 1.60GHz,1,2,405,423,65,6.23,Server
+AMD A4-1250 APU,1,2,406,329,8,50.75,Laptop
+Intel Atom D510 @ 1.66GHz,1,2,406,293,13,31.23,Desktop
+Intel Atom E3805 @ 1.33GHz,1,2,406,376,3,135.33,Mobile/Embedded
+Intel Core Duo T2500 @ 2.00GHz,1,2,408,613,31,13.16,Laptop
+Intel Atom D2550 @ 1.86GHz,1,2,409,322,10,40.9,Desktop
+Intel Core Duo T2450 @ 2.00GHz,1,2,411,608,31,13.26,Laptop
+AMD Athlon 1640B,1,1,412,462,45,9.16,Desktop
+AMD Athlon LE-1600,1,1,412,430,45,9.16,Desktop
+Intel Celeron 450 @ 2.20GHz,1,1,415,713,35,11.86,Desktop
+AMD Athlon LE-1660,1,1,416,428,45,9.24,Desktop
+AMD Athlon II Neo K325 Dual-Core,1,2,417,486,12,34.75,Laptop
+AMD Sempron LE-1300,1,1,417,614,45,9.27,Desktop
+Intel Celeron N2810 @ 2.00GHz,1,2,420,512,7.5,56,Laptop
+AMD Athlon LE-1620,1,1,421,475,45,9.36,Desktop
+AMD E-350,1,2,421,485,18,23.39,"Desktop, Laptop"
+AMD V140,1,1,422,860,25,16.88,Laptop
+AMD E-350 APU,1,2,423,490,18,23.5,"Desktop, Laptop"
+Intel Celeron G440 @ 1.60GHz,1,1,425,743,35,12.14,Desktop
+Intel Xeon 3.00GHz,1,1,425,607,103,4.13,Server
+AMD G-T48E,1,2,427,457,18,23.72,Laptop
+Intel Core2 Duo T5270 @ 1.40GHz,1,2,427,535,35,12.2,Laptop
+AMD Opteron 152,1,1,428,487,104,4.12,Server
+Intel Core2 Duo U7700 @ 1.33GHz,1,2,429,442,10,42.9,Laptop
+AMD Athlon LE-1640,1,1,430,489,45,9.56,Desktop
+AMD Turion Neo X2 Dual Core L625,1,2,432,486,18,24,Laptop
+Intel Atom D2560 @ 2.00GHz,1,2,433,353,10,43.3,Desktop
+AMD E-450 APU,1,2,437,499,18,24.28,Laptop
+Intel Core2 Duo U9300 @ 1.20GHz,1,2,440,502,10,44,Laptop
+AMD G-T56E,1,2,442,522,18,24.56,Laptop
+Intel Atom N2800 @ 1.86GHz,1,2,444,319,6.5,68.31,Laptop
+AMD E2-1800 APU,1,2,447,525,18,24.83,Desktop
+AMD Opteron 254,1,1,451,578,68,6.63,Server
+AMD Athlon Neo X2 Dual Core 6850e,1,2,456,566,22,20.73,Laptop
+AMD Opteron 154,1,1,457,534,104,4.39,Server
+Intel Core Duo T2600 @ 2.16GHz,1,2,460,667,31,14.84,Laptop
+Intel Atom E3827 @ 1.74GHz,1,2,463,468,8,57.88,Laptop
+Intel Pentium D 915 @ 2.80GHz,1,2,465,532,95,4.89,Desktop
+Intel Atom D2700 @ 2.13GHz,1,2,467,378,10,46.7,Desktop
+Intel Celeron G460 @ 1.80GHz,1,1,469,699,35,13.4,Desktop
+Intel Pentium Extreme Edition 955 @ 3.46GHz,1,2,469,515,130,3.61,Desktop
+Intel Core2 Duo T5200 @ 1.60GHz,1,2,470,592,34,13.82,Laptop
+AMD TurionX2 Dual Core Mobile RM-72,1,2,471,392,35,13.46,Laptop
+AMD E1-2200 APU,1,2,474,368,9,52.67,Laptop
+AMD Turion 64 X2 Mobile TL-50,1,2,474,541,31,15.29,Laptop
+Intel Celeron 925 @ 2.30GHz,1,1,477,910,35,13.63,Laptop
+Intel Xeon 3.20GHz,1,1,478,696,103,4.64,Server
+Intel Celeron SU2300 @ 1.20GHz,1,2,482,507,10,48.2,Laptop
+AMD Turion 64 X2 Mobile TL-58,1,2,483,574,31,15.58,Laptop
+AMD Athlon 64 3100+,1,1,484,600,89,5.44,Desktop
+AMD G-T56N,1,2,484,528,18,26.89,Laptop
+Intel Celeron 847 @ 1.10GHz,1,2,484,476,17,28.47,Laptop
+AMD E-350D APU,1,2,486,523,18,27,"Laptop, Mobile/Embedded"
+AMD Sempron 140,1,1,486,1037,45,10.8,Desktop
+Intel Celeron N2807 @ 1.58GHz,1,2,486,565,4.3,113.02,Laptop
+AMD Athlon II Neo N36L Dual-Core,1,2,487,524,12,40.58,Laptop
+Intel Atom Z3770D @ 1.49GHz,1,4,488,361,4.4,110.91,Laptop
+Intel Celeron N2806 @ 1.60GHz,1,2,489,537,4.5,108.67,Laptop
+Intel Pentium SU4100 @ 1.30GHz,1,2,492,524,10,49.2,Laptop
+Intel Celeron N2815 @ 1.86GHz,1,2,495,560,7.5,66,Laptop
+AMD E2-2000 APU,1,2,496,538,18,27.56,Laptop
+Intel Atom Z3736F @ 1.33GHz,1,4,496,423,4.4,112.73,Laptop
+AMD Turion X2 Dual Core Mobile RM-70,1,2,497,504,31,16.03,Laptop
+Intel Core Duo T2700 @ 2.33GHz,1,2,498,652,31,16.06,Laptop
+Intel Celeron N2820 @ 2.13GHz,1,2,502,602,7.5,66.93,Laptop
+Intel Core2 Duo SU9400 @ 1.40GHz,1,2,503,583,10,50.3,Laptop
+AMD Turion X2 Ultra Dual-Core Mobile ZM-80,1,2,506,618,32,15.81,Laptop
+Intel Celeron N2808 @ 1.58GHz,1,2,510,586,4.5,113.33,Laptop
+AMD Sempron 130,1,1,511,1059,45,11.36,Desktop
+Intel Atom D2701 @ 2.13GHz,1,2,511,384,10,51.1,Laptop
+Intel Celeron E1200 @ 1.60GHz,1,2,516,580,65,7.94,Desktop
+Intel Celeron U3400 @ 1.07GHz,1,2,516,456,18,28.67,Laptop
+Intel Core2 Duo L7400 @ 1.50GHz,1,2,516,555,17,30.35,Laptop
+Intel T2050 @ 2.00GHz,1,2,516,611,31,16.65,Mobile/Embedded
+AMD Athlon 64 FX-57,1,1,517,552,104,4.97,Desktop
+AMD Athlon 64 X2 Dual-Core TK-55,1,2,518,609,35,14.8,Desktop
+AMD Sempron 145,1,1,518,1015,45,11.51,Desktop
+AMD Turion 64 X2 Mobile TL-56,1,2,519,586,31,16.74,Laptop
+Intel Atom C2350 @ 1.74GHz,1,2,520,493,6,86.67,Server
+Intel Core2 Duo U7300 @ 1.30GHz,1,2,522,531,10,52.2,Laptop
+AMD Athlon 64 X2 QL-62,1,2,525,623,35,15,Laptop
+Intel Atom S1260 @ 2.00GHz,1,2,526,313,8.5,61.88,Server
+AMD Athlon II Neo K345 Dual-Core,1,2,527,552,12,43.92,Laptop
+AMD Athlon Neo X2 Dual Core L335,1,2,529,570,18,29.39,Laptop
+Intel Core2 Duo T5300 @ 1.73GHz,1,2,530,533,34,15.59,Laptop
+AMD Athlon 64 X2 Dual Core 3400+,1,2,531,505,89,5.97,Desktop
+AMD Opteron 165,1,2,531,638,110,4.83,Server
+Intel Pentium T2310 @ 1.46GHz,1,2,531,559,35,15.17,Laptop
+AMD Sempron Dual Core 2100,1,2,533,596,65,8.2,Desktop
+AMD Turion 64 X2 Mobile TL-52,1,2,534,564,31,17.23,Laptop
+AMD E1-6010 APU,1,2,535,425,10,53.5,Laptop
+AMD TurionX2 Dual Core Mobile RM-70,1,2,536,674,31,17.29,Laptop
+Intel Core2 Duo L7300 @ 1.40GHz,1,2,536,551,17,31.53,Laptop
+Intel Pentium T2330 @ 1.60GHz,1,2,538,572,35,15.37,Laptop
+Intel Pentium E2140 @ 1.60GHz,1,2,539,599,65,8.29,Desktop
+Intel Atom Z3735F @ 1.33GHz,1,4,541,387,4.4,122.95,Laptop
+Intel Core2 Duo T5500 @ 1.66GHz,1,2,543,605,34,15.97,Laptop
+Intel Celeron G465 @ 1.90GHz,1,1,547,819,35,15.63,Desktop
+Intel Core2 Duo T5250 @ 1.50GHz,1,2,549,567,35,15.69,Laptop
+Intel Celeron N2830 @ 2.16GHz,1,2,550,627,7.5,73.33,Laptop
+AMD Sempron 2650 APU,1,2,551,477,25,22.04,Desktop
+Intel Celeron T1600 @ 1.66GHz,1,2,551,629,35,15.74,Laptop
+Intel Pentium D 940 @ 3.20GHz,1,2,552,609,130,4.25,Desktop
+Intel Pentium U5400 @ 1.20GHz,1,2,552,501,18,30.67,Laptop
+AMD Sempron Dual Core 2300,1,2,555,697,65,8.54,Desktop
+Intel Core i3-330UM @ 1.20GHz,1,2,555,392,18,30.83,Laptop
+AMD Athlon Neo X2 Dual Core L325,1,2,556,567,18,30.89,Desktop
+Intel Atom Z3735E @ 1.33GHz,1,4,557,478,4.4,126.59,Laptop
+AMD Athlon 64 X2 Dual-Core TK-53,1,2,558,602,31,18,Desktop
+Intel Pentium T2370 @ 1.73GHz,1,2,558,594,35,15.94,Laptop
+AMD Turion Dual-Core RM-70,1,2,561,548,31,18.1,Laptop
+AMD Turion X2 Dual-Core Mobile RM-77,1,2,562,735,35,16.06,Laptop
+Intel Celeron 867 @ 1.30GHz,1,2,562,584,17,33.06,Laptop
+AMD Sempron Dual Core 2200,1,2,563,649,65,8.66,Desktop
+AMD Athlon X2 Dual Core 6850e,1,2,564,623,22,25.64,Desktop
+Intel Pentium D 830 @ 3.00GHz,1,2,564,574,95,5.94,Desktop
+AMD Athlon 64 X2 3800+,1,2,566,745,89,6.36,Desktop
+Intel Pentium T2390 @ 1.86GHz,1,2,568,651,35,16.23,Laptop
+Intel Celeron 857 @ 1.20GHz,1,2,569,476,17,33.47,Laptop
+AMD Athlon X2 Dual Core BE-2300,1,2,570,644,45,12.67,Desktop
+Intel Celeron G470 @ 2.00GHz,1,1,570,837,35,16.29,Desktop
+Intel Celeron J1800 @ 2.41GHz,1,2,572,658,10,57.2,Desktop
+AMD Athlon 64 X2 Dual Core BE-2350,1,2,573,674,45,12.73,Desktop
+Intel Celeron 1019Y @ 1.00GHz,1,2,576,521,10,57.6,Desktop
+AMD Athlon 64 X2 Dual-Core TK-42,1,2,577,537,20,28.85,Desktop
+Intel Core2 Duo U9600 @ 1.60GHz,1,2,577,659,10,57.7,Laptop
+Intel Atom C2358 @ 1.74GHz,1,2,578,391,7,82.57,Laptop
+Intel Celeron U3600 @ 1.20GHz,1,2,579,523,18,32.17,Laptop
+AMD Athlon 64 X2 QL-67,1,2,582,515,35,16.63,Laptop
+Intel Xeon MV 3.20GHz,1,2,582,378,90,6.47,Server
+Intel Core2 Duo T5450 @ 1.66GHz,1,2,583,592,35,16.66,Laptop
+Intel Atom C2338 @ 1.74GHz,1,2,584,233,7,83.43,Laptop
+Intel Celeron 847E @ 1.10GHz,1,2,584,520,17,34.35,Laptop
+Intel Celeron N2840 @ 2.16GHz,1,2,587,671,7,83.86,Laptop
+Intel Celeron N3050 @ 1.60GHz,1,2,587,552,6,97.83,Laptop
+Intel Core2 Duo T5670 @ 1.80GHz,1,2,587,664,35,16.77,Laptop
+Intel Pentium 2129Y @ 1.10GHz,1,2,587,564,10,58.7,Laptop
+AMD Turion Dual-Core RM-74,1,2,588,595,35,16.8,Laptop
+Intel Core2 Duo T5470 @ 1.60GHz,1,2,590,636,35,16.86,Laptop
+AMD Athlon X2 Dual Core BE-2350,1,2,591,705,45,13.13,Desktop
+AMD E1-2500 APU,1,2,591,453,15,39.4,Laptop
+AMD E1-7010 APU,1,2,592,484,10,59.2,Laptop
+AMD Opteron 1212,1,2,593,729,103,5.76,Server
+Intel Core2 Duo E4300 @ 1.80GHz,1,2,593,662,65,9.12,Desktop
+AMD Athlon 64 X2 Dual Core BE-2300,1,2,594,624,45,13.2,Desktop
+Intel Celeron J1750 @ 2.41GHz,1,2,595,659,10,59.5,Desktop
+AMD Athlon II X2 250u,1,2,597,638,25,23.88,Desktop
+AMD Sempron 150,1,1,597,1117,45,13.27,Desktop
+AMD TurionX2 Ultra DualCore Mobile ZM-87,1,2,599,770,35,17.11,Mobile/Embedded
+Celeron Dual-Core T3100 @ 1.90GHz,1,2,599,637,35,17.11,Laptop
+Intel Atom Z3745D @ 1.33GHz,1,4,599,415,4.4,136.14,Laptop
+AMD E1 Micro-6200T APU,1,2,600,498,3.95,151.9,Laptop
+AMD Turion X2 Dual Core L510,1,2,603,593,20,30.15,Laptop
+Intel Core2 Duo T7100 @ 1.80GHz,1,2,604,688,35,17.26,Laptop
+Intel Celeron N3010 @ 1.04GHz,1,2,605,588,4,151.25,Laptop
+Intel Core2 Duo L7700 @ 1.80GHz,1,2,607,748,17,35.71,Laptop
+AMD Turion X2 Dual-Core Mobile RM-70,1,2,612,672,31,19.74,Laptop
+Intel Atom Z3740D @ 1.33GHz,1,4,614,459,4.4,139.55,Laptop
+Intel Celeron N3000 @ 1.04GHz,1,2,616,566,4,154,Laptop
+AMD Turion II Neo N40L Dual-Core,1,2,617,635,15,41.13,Laptop
+AMD Turion II Neo K625 Dual-Core,1,2,618,631,15,41.2,Laptop
+AMD Athlon 64 X2 Dual-Core TK-57,1,2,620,626,31,20,Desktop
+Intel Atom Z3745 @ 1.33GHz,1,4,621,435,4,155.25,Laptop
+Intel Pentium 957 @ 1.20GHz,1,2,622,574,17,36.59,Laptop
+AMD Athlon 64 X2 QL-64,1,2,624,731,35,17.83,Laptop
+Intel Pentium U5600 @ 1.33GHz,1,2,624,588,18,34.67,Laptop
+Intel Celeron E1500 @ 2.20GHz,1,2,626,764,65,9.63,Desktop
+Intel Core i5-430UM @ 1.20GHz,1,2,627,481,18,34.83,Laptop
+Intel Core2 Duo T5800 @ 2.00GHz,1,2,628,725,35,17.94,Laptop
+AMD Athlon 64 X2 Dual Core 3800+,1,2,629,718,89,7.07,Desktop
+Intel Pentium T3200 @ 2.00GHz,1,2,631,711,35,18.03,Laptop
+AMD Athlon 64 X2 Dual Core 3600+,1,2,633,666,65,9.74,Desktop
+Celeron Dual-Core T3300 @ 2.00GHz,1,2,633,711,35,18.09,Laptop
+Intel Atom Z3740 @ 1.33GHz,1,4,634,419,4,158.5,Laptop
+Intel Core2 Duo E6300 @ 1.86GHz,1,2,634,690,65,9.75,Desktop
+AMD Athlon 64 X2 QL-65,1,2,637,681,35,18.2,Laptop
+Intel Core2 Duo T5550 @ 1.83GHz,1,2,637,680,35,18.2,Laptop
+AMD Turion 64 X2 Mobile TL-60,1,2,639,703,31,20.61,Laptop
+AMD Athlon 64 X2 QL-66,1,2,641,751,35,18.31,Laptop
+Intel Pentium 967 @ 1.30GHz,1,2,643,616,17,37.82,Laptop
+Intel Pentium E2160 @ 1.80GHz,1,2,643,680,65,9.89,Desktop
+AMD GX-212JC SOC,1,2,646,452,6,107.67,Laptop
+AMD Opteron 170,1,2,648,715,110,5.89,Server
+AMD Turion 64 X2 Mobile TL-62,1,2,649,724,35,18.54,Laptop
+AMD Turion Dual-Core RM-72,1,2,649,725,35,18.54,Laptop
+AMD GX-412TC SOC,1,4,650,250,6,108.33,Mobile/Embedded
+AMD Athlon 64 X2 QL-60,1,2,652,654,35,18.63,Laptop
+Intel Celeron B800 @ 1.50GHz,1,2,652,637,35,18.63,Laptop
+AMD Athlon 64 X2 Dual Core 5800+,1,2,653,746,89,7.34,Desktop
+AMD Turion X2 Dual-Core Mobile RM-72,1,2,653,756,35,18.66,Laptop
+Intel Pentium T3400 @ 2.16GHz,1,2,653,732,35,18.66,Laptop
+AMD Turion X2 Dual-Core Mobile RM-74,1,2,655,738,35,18.71,Laptop
+Intel Core2 Duo L7500 @ 1.60GHz,1,2,657,664,17,38.65,Laptop
+Intel Pentium 987 @ 1.50GHz,1,2,657,625,17,38.65,Laptop
+Intel Core2 Duo T5600 @ 1.83GHz,1,2,658,678,34,19.35,Laptop
+AMD Turion Dual-Core RM-75,1,2,659,444,35,18.83,Laptop
+Intel Celeron N3060 @ 1.60GHz,1,2,664,631,6,110.67,Laptop
+AMD Athlon II N330 Dual-Core,1,2,665,813,35,19,Laptop
+VIA QuadCore U4650 @ 1.0+ GHz,1,4,666,296,27.5,24.22,Desktop
+AMD A4-3320M APU,1,2,668,708,35,19.09,Laptop
+AMD E2-3000M APU,1,2,668,731,35,19.09,Laptop
+AMD Athlon II Dual-Core M300,1,2,670,776,35,19.14,Laptop
+Athlon Dual Core 4050e,1,2,670,744,45,14.89,Desktop
+AMD Athlon Dual Core 4050e,1,2,674,751,45,14.98,Desktop
+AMD Athlon X2 Dual Core BE-2400,1,2,674,749,18,37.44,Desktop
+AMD Athlon 64 X2 Dual Core 4400+,1,2,675,764,65,10.38,Desktop
+AMD Athlon II X2 270u,1,2,675,791,25,27,Desktop
+AMD Turion 64 X2 Mobile TL-64,1,2,675,702,35,19.29,Laptop
+AMD Athlon 64 X2 Dual Core 4800+,1,2,679,876,65,10.45,Desktop
+Intel Celeron J3060 @ 1.60GHz,1,2,679,636,6,113.17,Desktop
+Intel Core2 Duo T7300 @ 2.00GHz,1,2,680,762,35,19.43,Laptop
+Athlon Dual Core 4450e,1,2,681,792,45,15.13,Desktop
+Intel Pentium D 950 @ 3.40GHz,1,2,681,695,130,5.24,Desktop
+AMD Opteron 175,1,2,682,773,110,6.2,Server
+Intel Pentium E2180 @ 2.00GHz,1,2,683,736,65,10.51,Desktop
+AMD Turion II Neo K685 Dual-Core,1,2,684,729,15,45.6,Laptop
+Intel Celeron 2961Y @ 1.10GHz,1,2,684,634,11.5,59.48,Laptop
+Celeron Dual-Core T3000 @ 1.80GHz,1,2,687,748,35,19.63,Laptop
+Intel Celeron P4505 @ 1.87GHz,1,2,689,820,35,19.69,Laptop
+Intel Core2 Duo L9300 @ 1.60GHz,1,2,690,703,17,40.59,Laptop
+AMD Turion X2 Dual Core Mobile RM-76,1,2,691,729,35,19.74,Laptop
+AMD Athlon 64 X2 Dual Core 4000+,1,2,692,737,65,10.65,Desktop
+Intel Celeron 877 @ 1.40GHz,1,2,692,645,17,40.71,Laptop
+Intel Core2 Duo T5750 @ 2.00GHz,1,2,693,741,35,19.8,Laptop
+AMD Opteron 185,1,2,695,884,110,6.32,Server
+AMD Turion X2 Ultra Dual-Core Mobile ZM-86,1,2,695,820,35,19.86,Laptop
+AMD Opteron 1214,1,2,696,830,103,6.76,Server
+AMD Turion 64 X2 Mobile TL-66,1,2,696,846,35,19.89,Laptop
+AMD Athlon II P340 Dual-Core,1,2,697,840,25,27.88,Laptop
+Intel Core2 Duo T5870 @ 2.00GHz,1,2,698,740,35,19.94,Laptop
+Intel Core2 Duo E4400 @ 2.00GHz,1,2,701,779,65,10.78,Desktop
+AMD Athlon II P320 Dual-Core,1,2,702,820,25,28.08,Laptop
+Intel Pentium E2210 @ 2.20GHz,1,2,702,946,65,10.8,Desktop
+Intel Atom Z3735D @ 1.33GHz,1,4,704,544,4.4,160,Laptop
+Intel Atom Z3775 @ 1.46GHz,1,4,704,505,4,176,Laptop
+AMD Athlon Dual Core 4450e,1,2,705,801,45,15.67,Desktop
+AMD Turion X2 Dual-Core Mobile RM-75,1,2,708,770,35,20.23,Laptop
+Intel Core2 Duo T7250 @ 2.00GHz,1,2,708,771,35,20.23,Laptop
+AMD Athlon 64 FX-60 Dual Core,1,2,709,912,110,6.45,Desktop
+AMD Athlon Dual Core 4450B,1,2,711,792,45,15.8,Desktop
+Intel Pentium T4200 @ 2.00GHz,1,2,712,778,35,20.34,Laptop
+AMD Athlon II X2 260u,1,2,713,716,25,28.52,Desktop
+AMD A4-3300M APU,1,2,714,790,65,10.98,Laptop
+Intel Core2 Duo E6320 @ 1.86GHz,1,2,717,712,65,11.03,Desktop
+AMD Athlon 64 X2 Dual Core 4600+,1,2,720,835,65,11.08,Desktop
+AMD Athlon 64 X2 Dual Core 4200+,1,2,725,804,89,8.15,Desktop
+AMD E2-3000 APU,1,2,726,547,15,48.4,Laptop
+Intel Core2 Duo T6400 @ 2.00GHz,1,2,726,796,35,20.74,Laptop
+AMD Athlon Dual Core 4850B,1,2,727,887,45,16.16,Desktop
+AMD Opteron 1216 HE,1,2,727,847,65,11.18,Server
+AMD Athlon II P360 Dual-Core,1,2,730,861,25,29.2,Laptop
+Intel Pentium E2200 @ 2.20GHz,1,2,730,819,65,11.23,Desktop
+Intel Celeron B815 @ 1.60GHz,1,2,731,705,35,20.89,Laptop
+AMD Turion X2 Ultra Dual-Core Mobile ZM-82,1,2,733,770,35,20.94,Laptop
+Intel Celeron E1400 @ 2.00GHz,1,2,735,758,65,11.31,Desktop
+AMD Opteron 270,1,2,736,587,95,7.75,Server
+Athlon 64 Dual Core 3800+,1,2,736,653,35,21.03,Desktop
+Intel Atom Z3770 @ 1.46GHz,1,4,736,539,4,184,Laptop
+AMD Athlon Dual Core 5600B,1,2,737,1003,65,11.34,Desktop
+Intel Core2 Duo T7200 @ 2.00GHz,1,2,738,743,34,21.71,Laptop
+Intel Core2 Duo E4500 @ 2.20GHz,1,2,739,813,65,11.37,Desktop
+AMD Turion X2 Ultra Dual-Core Mobile ZM-87,1,2,741,730,35,21.17,Laptop
+Intel Core2 Duo T6500 @ 2.10GHz,1,2,742,835,35,21.2,Laptop
+AMD Athlon II Dual-Core M320,1,2,743,850,35,21.23,Laptop
+Intel Core i3-380UM @ 1.33GHz,1,2,745,581,18,41.39,Laptop
+Intel Pentium Dual T2390 @ 1.86GHz,1,2,745,712,35,21.29,Laptop
+AMD Opteron 180,1,2,746,874,110,6.78,Server
+Dual-Core AMD Opteron 1220 SE,1,2,748,900,103,7.26,Server
+Intel Celeron 1047UE @ 1.40GHz,1,2,748,526,17,44,Desktop
+Intel Core2 Duo P7350 @ 2.00GHz,1,2,748,796,25,29.92,Laptop
+AMD GX-218GL SOC,1,2,754,627,15,50.27,Laptop
+Intel Celeron 887 @ 1.50GHz,1,2,754,703,17,44.35,Laptop
+AMD A4-3330MX APU,1,2,756,908,45,16.8,Laptop
+AMD Turion II Dual-Core Mobile M500,1,2,756,847,35,21.6,Laptop
+Celeron Dual-Core T3500 @ 2.10GHz,1,2,756,862,35,21.6,Laptop
+Intel Pentium T4300 @ 2.10GHz,1,2,757,811,35,21.63,Laptop
+AMD A4-3305M APU,1,2,758,837,35,21.66,Laptop
+Intel Core2 Duo T6570 @ 2.10GHz,1,2,758,843,35,21.66,Laptop
+Intel Core2 Duo SL9400 @ 1.86GHz,1,2,759,786,17,44.65,Laptop
+Intel Core2 Duo E6420 @ 2.13GHz,1,2,760,785,65,11.69,Desktop
+Intel Core2 Duo T7400 @ 2.16GHz,1,2,761,757,34,22.38,Laptop
+Intel Xeon 5120 @ 1.86GHz,1,2,763,748,65,11.74,Server
+AMD A4-5150M APU,1,2,765,800,35,21.86,Laptop
+AMD Opteron 280,1,2,765,430,95,8.05,Server
+AMD Athlon II N350 Dual-Core,1,2,767,945,35,21.91,Laptop
+Intel Core2 Duo T8100 @ 2.10GHz,1,2,768,832,35,21.94,Laptop
+Athlon Dual Core 4850e,1,2,769,861,45,17.09,Desktop
+Intel Pentium T4400 @ 2.20GHz,1,2,769,842,35,21.97,Laptop
+AMD Opteron 1212 HE,1,2,771,731,65,11.86,Server
+Intel Atom Z3735G @ 1.33GHz,1,4,772,476,4.4,175.45,Laptop
+Intel Celeron N2910 @ 1.60GHz,1,4,773,447,7.5,103.07,Laptop
+VIA QuadCore L4700 @ 1.2+ GHz,1,4,773,355,27.5,28.11,Laptop
+Intel Celeron B810 @ 1.60GHz,1,2,775,754,35,22.14,Laptop
+Intel Core i5-470UM @ 1.33GHz,1,2,778,727,18,43.22,Laptop
+Intel Core2 Duo E6400 @ 2.13GHz,1,2,780,825,65,12,Desktop
+AMD Opteron 1216,1,2,781,810,103,7.58,Server
+AMD A4-3310MX APU,1,2,782,832,45,17.38,Laptop
+AMD Athlon Dual Core 4850e,1,2,783,903,45,17.4,Desktop
+Intel Core2 Duo P7450 @ 2.13GHz,1,2,783,837,25,31.32,Laptop
+AMD Athlon 64 X2 Dual Core 5000+,1,2,786,898,65,12.09,Desktop
+[Dual CPU] Intel Xeon 3.20GHz,2,1,786,673,103,7.63,Server
+Intel Core i3-2357M @ 1.30GHz,1,2,788,601,17,46.35,Laptop
+Intel Core2 Duo L9600 @ 2.13GHz,1,2,788,849,17,46.35,Laptop
+AMD Athlon 7450 Dual-Core,1,2,789,853,95,8.31,Desktop
+Intel Core2 Duo P7370 @ 2.00GHz,1,2,790,793,25,31.6,Laptop
+Intel Xeon 3040 @ 1.86GHz,1,2,790,621,65,12.15,Server
+AMD A6-4455M APU,1,1,793,786,17,46.65,Laptop
+Intel Core2 Duo T6600 @ 2.20GHz,1,2,793,860,35,22.66,Laptop
+AMD GX-217GA SOC,1,2,794,565,15,52.93,Laptop
+Intel Atom Z3775D @ 1.49GHz,1,4,794,646,4.4,180.45,Laptop
+Intel Celeron E3300 @ 2.50GHz,1,2,795,967,65,12.23,Desktop
+Intel Xeon 5130 @ 2.00GHz,1,2,795,796,65,12.23,Server
+AMD Turion X2 Dual-Core Mobile RM-76,1,2,799,761,35,22.83,Laptop
+AMD Turion II P520 Dual-Core,1,2,801,875,25,32.04,Laptop
+AMD Turion X2 Ultra Dual-Core Mobile ZM-84,1,2,802,787,35,22.91,Laptop
+AMD Athlon64 X2 Dual Core 4600+,1,2,803,755,110,7.3,Desktop
+Intel Xeon E5503 @ 2.00GHz,1,2,804,845,80,10.05,Server
+AMD A4-4355M APU,1,2,806,813,17,47.41,Laptop
+AMD Opteron 1214 HE,1,2,806,811,65,12.4,Server
+AMD Athlon II Dual-Core M340,1,2,807,858,35,23.06,Laptop
+Intel Pentium D 960 @ 3.60GHz,1,2,807,782,130,6.21,Desktop
+Intel Core2 Duo E6540 @ 2.33GHz,1,2,808,969,65,12.43,Desktop
+Intel Atom x5-Z8330 @ 1.44GHz,1,4,809,458,4,202.25,Laptop
+Intel Pentium 997 @ 1.60GHz,1,2,809,746,17,47.59,Desktop
+Intel Pentium P6000 @ 1.87GHz,1,2,810,735,35,23.14,Laptop
+Intel Celeron B820 @ 1.70GHz,1,2,811,757,35,23.17,Laptop
+AMD Turion II Ultra Dual-Core Mobile M620,1,2,814,945,35,23.26,Laptop
+Intel Atom x5-Z8300 @ 1.44GHz,1,4,814,455,4,203.5,"Laptop, Mobile/Embedded"
+Intel Core2 Duo T6670 @ 2.20GHz,1,2,818,881,35,23.37,Laptop
+Intel Xeon 3050 @ 2.13GHz,1,2,818,711,65,12.58,Server
+Intel Core i3-2365M @ 1.40GHz,1,2,820,608,17,48.24,Laptop
+AMD Athlon Dual Core 5200B,1,2,823,966,65,12.66,Desktop
+Intel Core2 Duo T7600 @ 2.33GHz,1,2,824,874,34,24.24,Laptop
+Intel Pentium T4500 @ 2.30GHz,1,2,824,904,35,23.54,Laptop
+AMD Sempron X2 180,1,2,826,865,45,18.36,Desktop
+AMD Turion X2 Ultra Dual-Core Mobile ZM-85,1,2,828,864,35,23.66,Laptop
+Intel Core2 Duo T7500 @ 2.20GHz,1,2,828,863,35,23.66,Laptop
+Intel Core i3-2377M @ 1.50GHz,1,2,833,613,17,49,Laptop
+Intel Pentium P6300 @ 2.27GHz,1,2,834,772,35,23.83,Laptop
+Intel Celeron 1007U @ 1.50GHz,1,2,837,772,17,49.24,Laptop
+Intel Xeon E5502 @ 1.87GHz,1,2,837,799,80,10.46,Server
+Intel Xeon E5205 @ 1.86GHz,1,2,838,788,65,12.89,Server
+AMD Opteron 275,1,2,839,445,95,8.83,Server
+Intel Celeron E3200 @ 2.40GHz,1,2,839,970,65,12.91,Desktop
+Intel Celeron E1600 @ 2.40GHz,1,2,840,916,65,12.92,Desktop
+AMD TurionX2 Ultra DualCore Mobile ZM-85,1,2,841,686,35,24.03,Laptop
+Intel Pentium E2220 @ 2.40GHz,1,2,842,915,65,12.95,Desktop
+[Dual CPU] Intel Xeon 3.40GHz,2,1,843,723,103,8.18,Server
+AMD Turion II Dual-Core Mobile M520,1,2,844,923,35,24.11,Laptop
+Intel Core2 Duo P7570 @ 2.26GHz,1,2,845,930,25,33.8,Laptop
+Intel Core2 Duo P8600 @ 2.40GHz,1,2,845,943,25,33.8,Laptop
+AMD Athlon 64 X2 Dual Core 5200+,1,2,846,932,65,13.02,Desktop
+AMD Athlon Dual Core 5050e,1,2,846,917,45,18.8,Desktop
+Intel Celeron P4600 @ 2.00GHz,1,2,846,784,35,24.17,Laptop
+Intel Core i3-2367M @ 1.40GHz,1,2,847,621,17,49.82,Laptop
+Intel Celeron P4500 @ 1.87GHz,1,2,848,747,35,24.23,Laptop
+Intel Pentium 3560Y @ 1.20GHz,1,2,849,700,11.5,73.83,Laptop
+Intel Pentium B940 @ 2.00GHz,1,2,849,849,35,24.26,Laptop
+Athlon 64 Dual Core 5000+,1,2,850,924,89,9.55,Desktop
+Intel Core2 Duo P8400 @ 2.26GHz,1,2,850,921,25,34,Laptop
+AMD A4-9120C,1,2,852,891,6,142,Laptop
+AMD Turion II Neo N54L Dual-Core,1,2,853,894,25,34.12,Laptop
+AMD Athlon X2 250,1,2,855,1099,65,13.15,Desktop
+AMD Turion II N530 Dual-Core,1,2,855,968,35,24.43,Laptop
+AMD Athlon Dual Core 5000B,1,2,856,942,65,13.17,Desktop
+Intel Core2 Duo P7550 @ 2.26GHz,1,2,856,969,25,34.24,Laptop
+Intel Xeon 5140 @ 2.33GHz,1,2,857,870,65,13.18,Server
+Intel Celeron 2957U @ 1.40GHz,1,2,858,781,15,57.2,Laptop
+Intel Celeron B830 @ 1.80GHz,1,2,863,828,35,24.66,Laptop
+Intel Core2 Duo SP9400 @ 2.40GHz,1,2,863,929,25,34.52,Laptop
+AMD Turion 64 X2 Mobile TL-68,1,2,866,882,35,24.74,Laptop
+AMD Athlon II X2 4450e,1,2,867,1066,45,19.27,Desktop
+Intel Core2 Duo E4600 @ 2.40GHz,1,2,867,926,65,13.34,Desktop
+Intel Xeon 3065 @ 2.33GHz,1,2,867,836,65,13.34,Server
+AMD Athlon 5200 Dual-Core,1,2,869,915,75,11.59,Desktop
+Intel Celeron E3400 @ 2.60GHz,1,2,869,1001,65,13.37,Desktop
+AMD Athlon 5000 Dual-Core,1,2,872,898,65,13.42,Desktop
+Athlon 64 Dual Core 5600+,1,2,875,993,65,13.46,Desktop
+AMD Turion II N550 Dual-Core,1,2,877,891,35,25.06,Laptop
+Intel Celeron 2955U @ 1.40GHz,1,2,877,781,15,58.47,Laptop
+AMD Turion II P560 Dual-Core,1,2,878,1001,25,35.12,Laptop
+Intel Pentium N3510 @ 1.99GHz,1,4,878,534,7.5,117.07,Laptop
+AMD Sempron X2 190,1,2,879,977,45,19.53,Desktop
+Intel Pentium P6100 @ 2.00GHz,1,2,880,831,35,25.14,Laptop
+Intel Xeon 5133 @ 2.20GHz,1,2,887,838,40,22.18,Server
+AMD E2-9000e,1,2,890,753,6,148.33,Laptop
+Intel Atom x5-Z8350 @ 1.44GHz,1,4,891,471,4,222.75,Laptop
+Intel Celeron 1017U @ 1.60GHz,1,2,893,810,17,52.53,Laptop
+Intel Core2 Duo T8300 @ 2.40GHz,1,2,896,970,35,25.6,Laptop
+Intel Pentium G620T @ 2.20GHz,1,2,896,961,35,25.6,Desktop
+Intel Core2 Duo E6550 @ 2.33GHz,1,2,898,909,65,13.82,Desktop
+AMD Athlon II N370 Dual-Core,1,2,899,913,35,25.69,Laptop
+AMD Athlon 7550 Dual-Core,1,2,900,934,95,9.47,Desktop
+Intel Pentium E5300 @ 2.60GHz,1,2,901,1013,65,13.86,Desktop
+Intel Core i3-2375M @ 1.50GHz,1,2,903,693,17,53.12,Laptop
+Intel Pentium P6200 @ 2.13GHz,1,2,906,856,35,25.89,Laptop
+AMD Athlon 64 X2 Dual Core 5400+,1,2,907,999,65,13.95,Desktop
+AMD Athlon 64 X2 Dual Core 5600+,1,2,907,1024,89,10.19,Desktop
+Intel Core i5-520UM @ 1.07GHz,1,2,908,699,18,50.44,Laptop
+Intel Core2 Duo E4700 @ 2.60GHz,1,2,908,990,65,13.97,Desktop
+AMD Opteron 2220 SE,1,2,909,519,119,7.64,Server
+AMD Opteron 1218,1,2,910,962,103,8.83,Server
+AMD A4-1350 APU,1,4,911,345,8,113.88,Laptop
+AMD Turion II Dual-Core Mobile M540,1,2,912,967,35,26.06,Laptop
+Intel Xeon 5148 @ 2.33GHz,1,2,912,868,40,22.8,Server
+AMD Athlon Dual Core 5400B,1,2,914,985,65,14.06,Desktop
+AMD Athlon X2 240,1,2,921,1017,65,14.17,Desktop
+Intel Xeon 5150 @ 2.66GHz,1,2,924,1023,65,14.22,Server
+Intel Atom x5-E3930 @ 1.30GHz,1,2,928,642,6.5,142.77,Laptop
+Intel Xeon L3406 @ 2.27GHz,1,2,928,647,30,30.93,Server
+AMD Sempron X2 198 Dual-Core,1,2,930,1070,65,14.31,Desktop
+Intel Pentium E5200 @ 2.50GHz,1,2,931,1002,65,14.32,Desktop
+Intel Core2 Duo T7800 @ 2.60GHz,1,2,932,945,35,26.63,Laptop
+AMD Phenom II P650 Dual-Core,1,2,933,985,35,26.66,Laptop
+AMD Athlon 64 X2 Dual Core 6000+,1,2,934,1036,89,10.49,Desktop
+Intel Celeron E3500 @ 2.70GHz,1,2,935,1154,65,14.38,Desktop
+Intel Core2 Duo P8800 @ 2.66GHz,1,2,937,1075,25,37.48,Laptop
+AMD Athlon X2 255,1,2,938,1095,65,14.43,Desktop
+AMD A4-3300 APU,1,2,942,973,65,14.49,Desktop
+Intel Celeron J1850 @ 1.99GHz,1,4,942,455,10,94.2,Desktop
+Intel Core2 Duo E6600 @ 2.40GHz,1,2,942,946,65,14.49,Desktop
+Intel Core2 Duo E7300 @ 2.66GHz,1,2,942,1065,65,14.49,Desktop
+AMD Athlon II X2 4400e,1,2,944,1063,37,25.51,Desktop
+Intel Celeron 3205U @ 1.50GHz,1,2,947,907,15,63.13,Laptop
+Intel Core2 Duo T7700 @ 2.40GHz,1,2,948,969,35,27.09,Laptop
+Intel Celeron N2920 @ 1.86GHz,1,4,950,552,7.5,126.67,Laptop
+AMD Opteron 290,1,2,952,570,95,10.02,Server
+AMD R-260H APU,1,2,954,902,17,56.12,Laptop
+AMD Turion II Ultra Dual-Core Mobile M600,1,2,955,987,35,27.29,Laptop
+AMD Opteron 285,1,2,956,509,95,10.06,Server
+Intel Atom C2538 @ 2.40GHz,1,4,960,491,15,64,Laptop
+Intel Core2 Duo P8700 @ 2.53GHz,1,2,961,1024,25,38.44,Laptop
+Intel Atom x5-E8000 @ 1.04GHz,1,4,962,509,5,192.4,Laptop
+Intel Xeon 5160 @ 3.00GHz,1,2,963,1134,80,12.04,Server
+AMD Phenom II N640 Dual-Core,1,2,965,1039,35,27.57,Laptop
+Intel Celeron B840 @ 1.90GHz,1,2,967,882,35,27.63,Laptop
+AMD E2-3200 APU,1,2,968,971,65,14.89,Desktop
+AMD Athlon 64 FX-74,1,2,972,617,125,7.78,Desktop
+Intel Core2 Duo T9550 @ 2.66GHz,1,2,972,1068,35,27.77,Laptop
+AMD Athlon II X2 215,1,2,973,1023,65,14.97,Desktop
+Intel Core i3-2340UE @ 1.30GHz,1,2,976,620,17,57.41,Laptop
+Intel Pentium B960 @ 2.20GHz,1,2,977,968,35,27.91,Laptop
+Intel Pentium E5400 @ 2.70GHz,1,2,977,1083,65,15.03,Desktop
+AMD E2-9000,1,2,979,827,10,97.9,Laptop
+AMD Opteron 1218 HE,1,2,979,940,65,15.06,Server
+Intel Core2 Duo T9300 @ 2.50GHz,1,2,979,1025,35,27.97,Laptop
+Intel Xeon 3060 @ 2.40GHz,1,2,983,957,65,15.12,Server
+AMD Athlon 7750 Dual-Core,1,2,987,1043,95,10.39,Desktop
+AMD Athlon II X2 240e,1,2,987,1091,45,21.93,Desktop
+Intel Pentium Extreme Edition 965 @ 3.73GHz,1,2,987,818,130,7.59,Desktop
+AMD Athlon II X2 4300e,1,2,990,1074,13,76.15,Desktop
+Intel Core2 Duo E6700 @ 2.66GHz,1,2,990,1023,65,15.23,Desktop
+AMD Phenom II N620 Dual-Core,1,2,992,1092,35,28.34,Laptop
+AMD Athlon 64 FX-62 Dual Core,1,2,993,1022,125,7.94,Desktop
+Intel Core2 Duo P9500 @ 2.53GHz,1,2,993,1057,25,39.72,Laptop
+AMD Athlon X2 215,1,2,996,1107,65,15.32,Desktop
+Intel Core2 Duo E7200 @ 2.53GHz,1,2,996,1059,65,15.32,Desktop
+Intel Core2 Duo E8300 @ 2.83GHz,1,2,997,1075,65,15.34,Desktop
+AMD Athlon 64 X2 Dual Core 6400+,1,2,998,1141,125,7.98,Desktop
+Intel Celeron 1037U @ 1.80GHz,1,2,998,936,17,58.71,Laptop
+Intel Pentium B950 @ 2.10GHz,1,2,998,941,35,28.51,Laptop
+AMD A4-4300M APU,1,1,1000,1014,35,28.57,Laptop
+Intel Core i5-540UM @ 1.20GHz,1,2,1002,818,18,55.67,Laptop
+AMD Phenom II P920 Quad-Core,1,4,1006,597,25,40.24,Laptop
+Intel Core2 Duo T9400 @ 2.53GHz,1,2,1006,1045,35,28.74,Laptop
+Intel Core i3-3229Y @ 1.40GHz,1,2,1008,692,13,77.54,Desktop
+AMD A6 PRO-7050B APU,1,2,1009,875,17,59.35,Laptop
+AMD A6-4400M APU,1,1,1010,1027,35,28.86,Laptop
+AMD A6-7000,1,2,1010,857,17,59.41,Laptop
+Intel Core i7-620UM @ 1.07GHz,1,2,1010,820,18,56.11,Laptop
+AMD Turion II Ultra Dual-Core Mobile M660,1,2,1011,1103,35,28.89,Laptop
+Intel Core2 Duo E6750 @ 2.66GHz,1,2,1013,1028,65,15.58,Desktop
+AMD Athlon X2 240e,1,2,1015,1092,45,22.56,Desktop
+Intel Core i5-560UM @ 1.33GHz,1,2,1015,898,18,56.39,Laptop
+Intel Pentium J2850 @ 2.41GHz,1,4,1016,646,10,101.6,Desktop
+Intel Celeron N2930 @ 1.83GHz,1,4,1018,584,7.5,135.73,Laptop
+Intel Celeron G1820TE @ 2.20GHz,1,2,1020,978,35,29.14,Desktop
+AMD Turion II P540 Dual-Core,1,2,1021,957,35,29.17,Laptop
+Intel Pentium 2117U @ 1.80GHz,1,2,1021,930,17,60.06,Laptop
+Intel Core i3-330M @ 2.13GHz,1,2,1023,815,35,29.23,Laptop
+Intel Xeon 3070 @ 2.66GHz,1,2,1025,1024,65,15.77,Server
+Intel Celeron 2981U @ 1.60GHz,1,2,1027,892,15,68.47,Laptop
+Intel Core2 Duo E7400 @ 2.80GHz,1,2,1027,1108,65,15.8,Desktop
+Intel Atom C3338 @ 1.50GHz,1,2,1028,806,8.5,120.94,"Server, Mobile/Embedded"
+Intel Pentium E6300 @ 2.80GHz,1,2,1032,1143,65,15.88,Desktop
+AMD Turion II Ultra Dual-Core Mobile M640,1,2,1034,1067,35,29.54,Laptop
+AMD Opteron 1220,1,2,1036,1077,103,10.06,Server
+AMD Opteron 2218,1,2,1036,491,95,10.91,Server
+Intel Pentium 3558U @ 1.70GHz,1,2,1036,946,15,69.07,Laptop
+AMD Athlon II X2 240,1,2,1037,1078,65,15.95,Desktop
+Intel Pentium E5500 @ 2.80GHz,1,2,1037,1133,65,15.95,Desktop
+Intel Core2 Duo P9600 @ 2.53GHz,1,2,1040,1082,25,41.6,Laptop
+AMD Athlon II X2 220,1,2,1041,1091,65,16.02,Desktop
+Intel Celeron N2940 @ 1.83GHz,1,4,1042,606,7.5,138.93,Laptop
+AMD GX-222GC SOC,1,2,1044,783,15,69.6,"Laptop, Mobile/Embedded"
+AMD A6-1450 APU,1,4,1045,458,8,130.62,Laptop
+Intel Core2 Duo T9500 @ 2.60GHz,1,2,1046,1074,35,29.89,Laptop
+Intel Atom E3845 @ 1.91GHz,1,4,1052,536,10,105.2,Desktop
+AMD A6-9220C,1,2,1053,995,6,175.5,Laptop
+AMD Athlon II X2 B22,1,2,1053,1129,65,16.2,Desktop
+AMD A4-3420 APU,1,2,1054,1113,65,16.22,Desktop
+Intel Celeron 2980U @ 1.60GHz,1,2,1056,929,15,70.4,Laptop
+Intel Celeron G530T @ 2.00GHz,1,2,1056,962,35,30.17,Desktop
+AMD Athlon 7850 Dual-Core,1,2,1058,1118,95,11.14,Desktop
+Intel Pentium 3556U @ 1.70GHz,1,2,1058,951,15,70.53,Laptop
+AMD Embedded G-Series GX-215JJ Radeon R2E,1,2,1064,861,10,106.4,"Laptop, Mobile/Embedded"
+Intel Pentium 2127U @ 1.90GHz,1,2,1064,969,17,62.59,Laptop
+AMD Phenom II P820 Triple-Core,1,3,1068,717,25,42.72,Laptop
+Intel Celeron 1000M @ 1.80GHz,1,2,1070,974,35,30.57,Laptop
+Intel Xeon 3085 @ 3.00GHz,1,2,1070,1124,65,16.46,Server
+Intel Celeron G550T @ 2.20GHz,1,2,1074,1018,35,30.69,Desktop
+Intel Core2 Duo T9600 @ 2.80GHz,1,2,1074,1120,35,30.69,Laptop
+AMD Athlon II X2 235e,1,2,1079,1098,45,23.98,Desktop
+AMD Phenom II P840 Triple-Core,1,3,1079,760,35,30.83,Laptop
+AMD Phenom X3 8550,1,3,1079,835,95,11.36,Desktop
+AMD A4 Micro-6400T APU,1,4,1082,540,4.5,240.44,Laptop
+Intel Pentium B980 @ 2.40GHz,1,2,1082,1047,35,30.91,Laptop
+AMD Phenom II N660 Dual-Core,1,2,1083,1093,35,30.94,Laptop
+Intel Celeron 3215U @ 1.70GHz,1,2,1083,1015,15,72.2,Laptop
+AMD Phenom 8250e Triple-Core,1,3,1084,729,65,16.68,Desktop
+Intel Pentium E5700 @ 3.00GHz,1,2,1084,1197,65,16.68,Desktop
+AMD A4-3400 APU,1,2,1086,1082,65,16.71,Desktop
+Intel Celeron G1101 @ 2.27GHz,1,2,1086,929,73,14.88,Desktop
+Intel Core i3-350M @ 2.27GHz,1,2,1086,878,35,31.03,Laptop
+Intel Core2 Duo P9600 @ 2.66GHz,1,2,1088,1120,25,43.52,Laptop
+Intel Pentium B970 @ 2.30GHz,1,2,1088,1031,35,31.09,Laptop
+AMD Opteron 1222,1,2,1089,1128,103,10.57,Server
+Intel Pentium G630T @ 2.30GHz,1,2,1090,1058,35,31.14,Desktop
+Intel Celeron 2002E @ 1.50GHz,1,2,1091,871,25,43.64,Laptop
+AMD E2-9010,1,2,1093,909,15,72.87,Laptop
+AMD GX-412HC,1,4,1095,414,7,156.43,Laptop
+Intel Core2 Extreme X6800 @ 2.93GHz,1,2,1095,1107,75,14.6,Desktop
+Intel Core2 Extreme X9000 @ 2.80GHz,1,2,1099,1098,44,24.98,Laptop
+Intel Core2 Extreme X7900 @ 2.80GHz,1,2,1104,1085,44,25.09,Laptop
+AMD Athlon II X2 210e,1,2,1105,1105,45,24.56,Desktop
+Intel Celeron N3350 @ 1.10GHz,1,2,1105,800,6,184.17,Laptop
+AMD Opteron 2220,1,2,1106,553,95,11.64,Server
+Intel Celeron 1005M @ 1.90GHz,1,2,1106,1015,35,31.6,Laptop
+Intel Core2 Duo E8200 @ 2.66GHz,1,2,1108,1144,65,17.05,Desktop
+Intel Atom x6214RE @ 1.40GHz,1,2,1109,754,6,184.83,Mobile/Embedded
+AMD Athlon II X2 245,1,2,1110,1150,65,17.08,Desktop
+AMD Phenom 8250 Triple-Core,1,3,1114,752,65,17.14,Desktop
+AMD A6-9200,1,2,1116,970,10,111.6,Laptop
+Intel Xeon L5320 @ 1.86GHz,1,4,1118,281,50,22.36,Server
+Intel Xeon W3503 @ 2.40GHz,1,2,1118,1025,130,8.6,Server
+AMD Athlon II X2 B24,1,2,1120,1206,65,17.23,Desktop
+Intel Pentium E6600 @ 3.06GHz,1,2,1121,1192,65,17.25,Desktop
+AMD A6-5345M APU,1,2,1122,1094,17,66,Laptop
+Intel Celeron G530 @ 2.40GHz,1,2,1123,1099,65,17.28,Desktop
+AMD PRO A6-8530B,1,2,1127,1149,15,75.13,Laptop
+AMD E2-6110 APU,1,4,1128,474,15,75.2,Laptop
+Intel Core i3-2312M @ 2.10GHz,1,2,1128,893,35,32.23,Laptop
+Intel Core2 Duo E6850 @ 3.00GHz,1,2,1130,1183,65,17.38,Desktop
+AMD PRO A4-4350B,1,2,1134,952,15,75.6,Laptop
+Intel Core2 Duo E7500 @ 2.93GHz,1,2,1136,1206,65,17.48,Desktop
+AMD Phenom II X2 B53,1,2,1137,1161,80,14.21,Desktop
+Intel Celeron G540T @ 2.10GHz,1,2,1137,995,35,32.49,Desktop
+Intel Core2 Extreme X7800 @ 2.60GHz,1,2,1138,1077,44,25.86,Laptop
+Intel Pentium G640T @ 2.40GHz,1,2,1139,1102,35,32.54,Desktop
+AMD Phenom 8850 Triple-Core,1,3,1142,982,95,12.02,Desktop
+AMD A4-4000 APU,1,1,1143,1134,65,17.58,Desktop
+Intel Pentium N3520 @ 2.16GHz,1,4,1145,663,7.5,152.67,Laptop
+Intel Core2 Duo P9700 @ 2.80GHz,1,2,1149,1157,28,41.04,Laptop
+AMD Sempron 3850 APU,1,4,1150,448,25,46,Desktop
+AMD A8-7050,1,2,1152,945,15,76.8,Laptop
+AMD E2-3800 APU,1,4,1152,436,15,76.8,Laptop
+Intel Celeron J1900 @ 1.99GHz,1,4,1154,653,10,115.4,Desktop
+Intel Core i3-370M @ 2.40GHz,1,2,1154,974,35,32.97,Laptop
+AMD Athlon II X2 250e,1,2,1155,1201,45,25.67,Desktop
+AMD QC-4000,1,4,1155,449,15,77,Laptop
+Intel Atom x5-Z8550 @ 1.44GHz,1,4,1156,667,4,289,"Laptop, Mobile/Embedded"
+AMD Phenom II X2 550,1,2,1158,1228,80,14.48,Desktop
+AMD Athlon II X2 250,1,2,1160,1197,65,17.85,Desktop
+Intel Xeon W3505 @ 2.53GHz,1,2,1161,1106,130,8.93,Server
+AMD Phenom 8400 Triple-Core,1,3,1164,819,95,12.25,Desktop
+Intel Pentium E6800 @ 3.33GHz,1,2,1164,1301,65,17.91,Desktop
+AMD A6-5357M APU,1,2,1165,1243,35,33.29,Laptop
+AMD Phenom II X640 Dual-Core,1,2,1165,1142,45,25.89,Desktop
+Intel Core2 Duo E7600 @ 3.06GHz,1,2,1165,1263,65,17.92,Desktop
+Intel Pentium E5800 @ 3.20GHz,1,2,1165,1270,65,17.92,Desktop
+AMD Athlon II X2 245e,1,2,1171,1182,45,26.02,Desktop
+Intel Core2 Extreme X9100 @ 3.06GHz,1,2,1171,1178,44,26.61,Laptop
+Intel Celeron G540 @ 2.50GHz,1,2,1172,1144,65,18.03,Desktop
+Intel Pentium E6500 @ 2.93GHz,1,2,1172,1244,65,18.03,Desktop
+AMD Athlon II X2 255,1,2,1175,1234,65,18.08,Desktop
+AMD Athlon II X2 260,1,2,1178,1256,65,18.12,Desktop
+Intel Pentium 3805U @ 1.90GHz,1,2,1180,1099,15,78.67,Laptop
+Intel Celeron 3755U @ 1.70GHz,1,2,1182,1022,15,78.8,Laptop
+Intel Celeron N3160 @ 1.60GHz,1,4,1182,560,6,197,Laptop
+Intel Pentium E6700 @ 3.20GHz,1,2,1182,1311,65,18.18,Desktop
+AMD Phenom II X2 B55,1,2,1183,1201,80,14.79,Desktop
+Intel Core i7-640UM @ 1.20GHz,1,2,1183,879,18,65.72,Laptop
+Intel Core2 Duo T9900 @ 3.06GHz,1,2,1187,1183,35,33.91,Laptop
+AMD Phenom 8750B Triple-Core,1,3,1188,901,95,12.51,Desktop
+Intel Atom Z3795 @ 1.60GHz,1,4,1188,640,4,297,Laptop
+Intel Pentium N3530 @ 2.16GHz,1,4,1189,699,7.5,158.53,Laptop
+AMD A6-3400M APU,1,4,1191,691,35,34.03,Laptop
+Intel Celeron N3150 @ 1.60GHz,1,4,1191,568,6,198.5,Laptop
+Intel Celeron 3965Y @ 1.50GHz,1,2,1194,901,6,199,Laptop
+Intel Core i7-680UM @ 1.47GHz,1,2,1196,911,18,66.44,Laptop
+Intel Celeron J3355 @ 2.00GHz,1,2,1197,826,10,119.7,"Desktop, Laptop"
+AMD Opteron 2222,1,2,1198,618,95,12.61,Server
+Intel Core i3-380M @ 2.53GHz,1,2,1200,1022,35,34.29,Laptop
+Intel Pentium N3540 @ 2.16GHz,1,4,1201,707,7.5,160.13,Laptop
+Intel Core i5-430M @ 2.27GHz,1,2,1202,980,35,34.34,Laptop
+Intel Core2 Duo E8400 @ 3.00GHz,1,2,1203,1237,65,18.51,Desktop
+AMD Athlon II X2 B26,1,2,1206,1266,65,18.55,Desktop
+AMD A4-9125,1,2,1210,1041,15,80.67,Laptop
+AMD Phenom 8600 Triple-Core,1,3,1210,898,95,12.74,Desktop
+Intel Pentium A1018 @ 2.10GHz,1,2,1210,1085,35,34.57,Laptop
+Intel Pentium G620 @ 2.60GHz,1,2,1211,1181,65,18.63,Desktop
+AMD R-272F APU,1,2,1215,1087,35,34.71,"Desktop, Laptop"
+AMD Phenom 8450 Triple-Core,1,3,1216,835,95,12.8,Desktop
+Intel Core2 Duo T9800 @ 2.93GHz,1,2,1216,1236,35,34.74,Laptop
+AMD PRO A6-7350B,1,2,1218,1154,15,81.2,Laptop
+Intel Core i3-2310M @ 2.10GHz,1,2,1221,944,35,34.89,Laptop
+AMD Phenom II N830 Triple-Core,1,3,1222,823,35,34.91,Laptop
+AMD Phenom II X2 545,1,2,1222,1183,80,15.28,Desktop
+AMD Phenom II X3 705e,1,3,1222,962,65,18.8,Desktop
+Intel Core i5-2537M @ 1.40GHz,1,2,1223,954,17,71.94,Laptop
+AMD A4-9120,1,2,1224,1046,15,81.6,Laptop
+Intel Core i3-3217U @ 1.80GHz,1,2,1227,913,17,72.18,Laptop
+Intel Core i3-2330M @ 2.20GHz,1,2,1228,964,35,35.09,Laptop
+Intel Pentium G645T @ 2.50GHz,1,2,1228,1131,35,35.09,Desktop
+AMD A6-9210,1,2,1230,1076,15,82,Laptop
+AMD A6-5350M APU,1,2,1232,1236,35,35.2,Laptop
+Intel Celeron 2950M @ 2.00GHz,1,2,1234,1143,37,33.35,Laptop
+Intel Atom x5-Z8500 @ 1.44GHz,1,4,1236,631,4,309,Laptop
+Intel Core i5-450M @ 2.40GHz,1,2,1238,1044,35,35.37,Laptop
+Intel Pentium G6950 @ 2.80GHz,1,2,1238,1109,73,16.96,Desktop
+Intel Xeon X5260 @ 3.33GHz,1,2,1238,1406,80,15.48,Server
+Intel Core i3-2328M @ 2.20GHz,1,2,1239,981,35,35.4,Laptop
+Intel Xeon E3110 @ 3.00GHz,1,2,1242,1331,65,19.11,Server
+AMD A4-5300B APU,1,2,1243,1233,65,19.12,Desktop
+AMD Phenom II X2 B57,1,2,1247,1273,80,15.59,Desktop
+Intel Pentium A1020 @ 2.41GHz,1,4,1249,726,10,124.9,Laptop
+Intel Pentium J2900 @ 2.41GHz,1,4,1249,733,10,124.9,Desktop
+AMD Phenom II P860 Triple-Core,1,3,1250,831,35,35.71,Laptop
+Intel Core i3-2350M @ 2.30GHz,1,2,1251,967,35,35.74,Laptop
+Intel Celeron 3765U @ 1.90GHz,1,2,1252,1171,15,83.47,Laptop
+Intel Pentium N3700 @ 1.60GHz,1,4,1252,631,6,208.67,Laptop
+Intel Pentium G840 @ 2.80GHz,1,2,1253,1271,65,19.28,Desktop
+AMD Phenom 8650 Triple-Core,1,3,1254,878,95,13.2,Desktop
+AMD Phenom 8450e Triple-Core,1,3,1257,826,65,19.34,Desktop
+Intel Celeron G550 @ 2.60GHz,1,2,1259,1210,65,19.37,Desktop
+Intel Core i3-390M @ 2.67GHz,1,2,1259,1068,35,35.97,Laptop
+Intel Core i3-330E @ 2.13GHz,1,2,1260,934,35,36,Laptop
+AMD Phenom II X620 Dual-Core,1,2,1262,1339,45,28.04,Laptop
+AMD A6-3410MX APU,1,4,1263,732,45,28.07,Laptop
+AMD Phenom II X2 511,1,2,1265,1295,65,19.46,Desktop
+Intel Celeron J3160 @ 1.60GHz,1,4,1266,603,6,211,Desktop
+AMD Athlon II X2 265,1,2,1267,1336,65,19.49,Desktop
+AMD A4-4020 APU,1,2,1268,1220,65,19.51,Desktop
+Intel Core2 Duo E8500 @ 3.16GHz,1,2,1268,1322,65,19.51,Desktop
+AMD Athlon II X2 B28,1,2,1269,1350,65,19.52,Desktop
+AMD A6-5400K APU,1,1,1270,1272,65,19.54,Desktop
+AMD Embedded G-Series GX-224IJ Radeon R4E,1,2,1271,1119,15,84.73,"Laptop, Mobile/Embedded"
+Intel Celeron 1020M @ 2.10GHz,1,2,1275,1176,35,36.43,Laptop
+Intel Celeron 3855U @ 1.60GHz,1,2,1275,950,15,85,Laptop
+AMD Sempron 240,1,2,1278,1300,65,19.66,Desktop
+Intel Core i3-4012Y @ 1.50GHz,1,2,1278,726,11.5,111.13,Laptop
+AMD Phenom 9100e Quad-Core,1,4,1279,734,65,19.68,Desktop
+Intel Core i3-2348M @ 2.30GHz,1,2,1279,1008,35,36.54,Laptop
+AMD A6-9220,1,2,1280,1135,15,85.33,Laptop
+AMD Phenom 8850B Triple-Core,1,3,1281,972,95,13.48,Desktop
+Intel Core i7-660UM @ 1.33GHz,1,2,1284,925,18,71.33,Laptop
+Intel Atom x7-Z8750 @ 1.60GHz,1,4,1289,679,4,322.25,Laptop
+Intel Core i3-3227U @ 1.90GHz,1,2,1290,950,17,75.88,Laptop
+Intel Xeon X3210 @ 2.13GHz,1,4,1293,816,105,12.31,Server
+AMD A6-3420M APU,1,4,1294,773,35,36.97,Laptop
+AMD Athlon X2 450,1,2,1295,878,65,19.92,Desktop
+AMD Phenom II X2 555,1,2,1296,1307,80,16.2,Desktop
+AMD A4-5000 APU,1,4,1297,508,15,86.47,Laptop
+AMD Phenom X4 Quad-Core GP-9500,1,4,1297,711,95,13.65,Desktop
+AMD Phenom II N850 Triple-Core,1,3,1298,895,35,37.09,Laptop
+Intel Core i5-460M @ 2.53GHz,1,2,1299,1127,35,37.11,Laptop
+AMD Athlon II X2 270,1,2,1301,1360,65,20.02,Desktop
+AMD A6-9230,1,2,1303,1124,15,86.87,Desktop
+Intel Xeon E5310 @ 1.60GHz,1,4,1306,640,80,16.32,Server
+AMD Athlon X2 340 Dual Core,1,2,1307,1296,65,20.11,Desktop
+AMD Opteron 2393 SE,1,2,1317,1237,105,12.54,Server
+AMD Phenom II P940 Quad-Core,1,4,1319,679,35,37.69,Laptop
+AMD Athlon II X3 400e,1,3,1320,908,45,29.33,Desktop
+Intel Celeron 3865U @ 1.80GHz,1,2,1321,1034,15,88.07,Laptop
+Intel Core i5-480M @ 2.67GHz,1,2,1323,1156,35,37.8,Laptop
+AMD Phenom II N870 Triple-Core,1,3,1324,900,35,37.83,Laptop
+Intel Xeon @ 2.20GHz,1,1,1324,1383,61,21.7,Server
+Intel Core i5 750S @ 2.40GHz,1,4,1326,1039,82,16.17,Desktop
+AMD Athlon X2 280,1,2,1327,1258,65,20.42,Desktop
+Intel Celeron G1610T @ 2.30GHz,1,2,1327,1207,35,37.91,Desktop
+AMD A4-5050 APU,1,4,1328,538,13.5,98.37,Laptop
+AMD A4-6300B APU,1,1,1328,1373,65,20.43,Desktop
+Intel Atom x7-Z8700 @ 1.60GHz,1,4,1328,650,4,332,Laptop
+AMD A6-9225,1,2,1329,1157,15,88.6,Laptop
+Intel Pentium 3550M @ 2.30GHz,1,2,1330,1184,37,35.95,Laptop
+AMD A8-4555M APU,1,2,1331,789,19,70.05,Laptop
+AMD Athlon II X3 405e,1,3,1331,973,45,29.58,Desktop
+Intel Pentium G630 @ 2.70GHz,1,2,1336,1246,65,20.55,Desktop
+Intel Xeon L5240 @ 3.00GHz,1,2,1337,1299,40,33.42,Server
+Intel Xeon L3110 @ 3.00GHz,1,2,1338,1279,45,29.73,Server
+Intel Pentium 3560M @ 2.40GHz,1,2,1345,1221,37,36.35,Laptop
+AMD A4-5100 APU,1,4,1346,540,15,89.73,Laptop
+Intel Core i3-2332M @ 2.20GHz,1,2,1353,936,35,38.66,Laptop
+AMD Athlon II X2 280,1,2,1355,1462,65,20.85,Desktop
+Intel Core i3-4010Y @ 1.30GHz,1,2,1358,748,11.5,118.09,Desktop
+Intel Pentium G640 @ 2.80GHz,1,2,1358,1307,65,20.89,Desktop
+Intel Core i3-3217UE @ 1.60GHz,1,2,1362,711,17,80.12,Laptop
+AMD A9-9400,1,2,1363,1230,10,136.3,Laptop
+AMD A4-5300 APU,1,2,1365,1336,65,21,Desktop
+Intel Celeron 4205U @ 1.80GHz,1,2,1366,1039,15,91.07,Laptop
+Intel Core i3-2370M @ 2.40GHz,1,2,1369,1052,35,39.11,Laptop
+AMD PRO A6-9500B,1,2,1371,1235,15,91.4,Laptop
+[Dual CPU] Intel Xeon 5110 @ 1.60GHz,2,2,1373,652,65,21.12,Server
+AMD Phenom II X2 521,1,2,1374,1409,65,21.14,Desktop
+AMD Phenom II X2 560,1,2,1375,1389,80,17.19,Desktop
+Intel Core2 Duo E8600 @ 3.33GHz,1,2,1376,1401,65,21.17,Desktop
+Intel Pentium 2020M @ 2.40GHz,1,2,1379,1268,35,39.4,Laptop
+Intel Pentium G6951 @ 2.80GHz,1,2,1383,1173,73,18.95,Desktop
+Intel Pentium 4410Y @ 1.50GHz,1,2,1384,755,6,230.67,Laptop
+AMD E1-6050J APU,1,2,1385,787,10,138.5,Mobile/Embedded
+Intel Xeon L5310 @ 1.60GHz,1,4,1385,662,50,27.7,Server
+AMD Phenom II P960 Quad-Core,1,4,1386,737,35,39.6,Laptop
+AMD Athlon 5150 APU,1,4,1388,546,25,55.52,Desktop
+Intel Celeron G555 @ 2.70GHz,1,2,1388,1289,65,21.35,Desktop
+Intel Pentium N3710 @ 1.60GHz,1,4,1391,687,6,231.83,Laptop
+AMD Phenom II X2 570,1,2,1395,1412,80,17.44,Desktop
+Intel Pentium 3825U @ 1.90GHz,1,2,1399,1103,15,93.27,Laptop
+AMD A8-3500M APU,1,4,1400,813,35,40,Laptop
+Intel Celeron 1020E @ 2.20GHz,1,2,1406,1224,35,40.17,Laptop
+Intel Celeron N4000C @ 1.10GHz,1,2,1406,1004,6,234.33,Laptop
+Intel Core i7-620LM @ 2.00GHz,1,2,1406,1010,25,56.24,Laptop
+Intel Xeon E3-1220L v3 @ 1.10GHz,1,2,1407,777,13,108.23,Server
+Intel Core2 Duo E8290 @ 2.83GHz,1,2,1408,1302,65,21.66,Desktop
+Intel Xeon E3120 @ 3.16GHz,1,2,1408,1370,65,21.66,Server
+Intel Core i7-2610UE @ 1.50GHz,1,2,1409,972,17,82.88,Laptop
+Intel Pentium 2030M @ 2.50GHz,1,2,1413,1222,35,40.37,Laptop
+AMD GX-415GA SOC,1,4,1414,515,15,94.27,Laptop
+AMD Phenom 9150e Quad-Core,1,4,1414,721,65,21.75,Desktop
+Intel Pentium G645 @ 2.90GHz,1,2,1418,1337,65,21.82,Desktop
+AMD A6-3500 APU,1,3,1420,963,65,21.85,Desktop
+Intel Atom C2550 @ 2.40GHz,1,4,1422,554,14,101.57,Server
+Intel Celeron N4000 @ 1.10GHz,1,2,1423,1037,6,237.17,Laptop
+AMD Phenom II X3 740,1,3,1424,982,95,14.99,Desktop
+Intel Atom C2558 @ 2.40GHz,1,4,1424,512,15,94.93,"Laptop, Mobile/Embedded"
+AMD A10 Micro-6700T APU,1,4,1426,722,5,285.2,Laptop
+AMD A4-6300 APU,1,1,1426,1403,65,21.94,Desktop
+Intel Celeron 5205U @ 1.90GHz,1,2,1427,1102,15,95.13,Laptop
+Intel Xeon E3113 @ 3.00GHz,1,2,1429,1282,65,21.98,Server
+[Dual CPU] AMD Opteron 290,2,2,1430,1046,95,15.05,Server
+Intel Pentium G2020T @ 2.50GHz,1,2,1430,1298,35,40.86,Desktop
+AMD Phenom II X2 B59,1,2,1431,1395,80,17.89,Desktop
+Intel Pentium G6960 @ 2.93GHz,1,2,1433,1279,73,19.63,Desktop
+Intel Pentium G850 @ 2.90GHz,1,2,1435,1349,65,22.08,Desktop
+AMD Athlon X3 440,1,3,1438,1129,95,15.14,Desktop
+AMD Athlon II X3 415e,1,3,1441,1028,45,32.02,Desktop
+[Dual CPU] AMD Opteron 285,2,2,1441,989,95,15.17,Server
+AMD Phenom II X2 565,1,2,1442,1376,80,18.02,Desktop
+Intel Core i5-2467M @ 1.60GHz,1,2,1444,847,17,84.94,Laptop
+AMD A6-8500P,1,2,1445,1253,15,96.33,Laptop
+AMD Phenom 8750 Triple-Core,1,3,1445,976,95,15.21,Desktop
+AMD A6-3430MX APU,1,4,1448,822,45,32.18,Laptop
+AMD A8-3520M APU,1,4,1448,845,35,41.37,Laptop
+Intel Xeon E5240 @ 3.00GHz,1,2,1448,1312,65,22.28,Server
+AMD Opteron 1354,1,4,1449,859,75,19.32,Server
+AMD Phenom II X3 700e,1,3,1451,961,65,22.32,Desktop
+Intel Xeon X5272 @ 3.40GHz,1,2,1451,1411,80,18.14,Server
+AMD Phenom 9450e Quad-Core,1,4,1455,841,65,22.38,Desktop
+Intel Pentium J3710 @ 1.60GHz,1,4,1455,709,6.5,223.85,Desktop
+AMD A4 PRO-7300B APU,1,1,1458,1445,65,22.43,Desktop
+AMD A6-5400B APU,1,1,1459,1408,65,22.45,Desktop
+Intel Pentium G860 @ 3.00GHz,1,2,1459,1393,65,22.45,Desktop
+Intel Core i3-4020Y @ 1.50GHz,1,2,1462,788,11.5,127.13,Desktop
+AMD Phenom 8600B Triple-Core,1,3,1464,969,95,15.41,Desktop
+Intel Celeron 3867U @ 1.80GHz,1,2,1467,1092,15,97.8,Laptop
+Intel Celeron J4025 @ 2.00GHz,1,2,1467,1139,10,146.7,Desktop
+Intel Xeon E5320 @ 1.86GHz,1,4,1469,770,80,18.36,Server
+Intel Xeon E7320 @ 2.13GHz,1,4,1469,776,80,18.36,Server
+AMD Opteron X3216 APU,1,2,1475,1264,15,98.33,Server
+[Dual CPU] Intel Xeon 5120 @ 1.86GHz,2,2,1486,770,65,22.86,Server
+AMD A4-6210 APU,1,4,1499,610,15,99.93,Laptop
+Intel Core i3-530 @ 2.93GHz,1,2,1500,1168,73,20.55,Desktop
+AMD A6-6400K APU,1,1,1501,1449,65,23.09,Desktop
+AMD A9-9420,1,2,1501,1296,15,100.07,Laptop
+Intel Celeron 2970M @ 2.20GHz,1,2,1501,1245,37,40.57,Laptop
+Intel Core i3-2100T @ 2.50GHz,1,2,1501,1100,35,42.89,Desktop
+AMD Athlon X2 370K Dual Core,1,1,1504,1514,65,23.14,Desktop
+AMD Phenom II X4 900e,1,4,1505,917,65,23.15,Desktop
+Intel Core i5-4300Y @ 1.60GHz,1,2,1505,1008,11.5,130.87,Desktop
+Intel Celeron 3955U @ 2.00GHz,1,2,1507,1204,15,100.47,Laptop
+AMD Opteron 2354,1,4,1509,857,115,13.12,Server
+AMD A9-9425,1,2,1510,1316,15,100.67,Laptop
+Intel Core i5-4202Y @ 1.60GHz,1,2,1511,966,11.5,131.39,Desktop
+AMD E2-7110 APU,1,4,1515,611,15,101,Laptop
+AMD Athlon X3 425,1,3,1516,845,95,15.96,Desktop
+Intel Core i5-4302Y @ 1.60GHz,1,2,1516,920,11.5,131.83,Desktop
+Intel Celeron G1610 @ 2.60GHz,1,2,1518,1376,55,27.6,Desktop
+Intel Xeon E5504 @ 2.00GHz,1,4,1519,825,80,18.99,Server
+AMD Phenom 9750B Quad-Core,1,4,1520,913,95,16,Desktop
+AMD A9-9410,1,2,1523,1338,25,60.92,Laptop
+Intel Core i3-2120T @ 2.60GHz,1,2,1524,1162,35,43.54,Desktop
+Intel Xeon X5270 @ 3.50GHz,1,2,1524,1485,80,19.05,Server
+Intel Core i7-640LM @ 2.13GHz,1,2,1525,1053,25,61,Laptop
+Intel Pentium 4405Y @ 1.50GHz,1,2,1526,886,6,254.33,Laptop
+AMD A8 PRO-7150B APU,1,4,1528,763,19,80.42,Laptop
+AMD A4-7300 APU,1,1,1529,1477,65,23.52,Desktop
+AMD A4-6320 APU,1,1,1530,1529,65,23.54,Desktop
+Intel Celeron N4020C @ 1.10GHz,1,2,1532,1117,6,255.33,"Laptop, Mobile/Embedded"
+[Dual CPU] AMD Opteron 2220,2,2,1533,1013,95,16.14,Server
+Intel Core i3-540 @ 3.07GHz,1,2,1533,1271,73,21,Desktop
+Intel Pentium G870 @ 3.10GHz,1,2,1537,1465,65,23.65,Desktop
+AMD Phenom II X3 B73,1,3,1538,1056,95,16.19,Desktop
+AMD R-460L APU,1,4,1538,928,25,61.52,Laptop
+Intel Celeron G1620T @ 2.40GHz,1,2,1541,1332,35,44.03,Desktop
+AMD A4 PRO-7350B,1,1,1544,1438,65,23.75,Desktop
+Intel Atom x6414RE @ 1.50GHz,1,4,1544,608,9,171.56,Mobile/Embedded
+AMD Opteron 1352,1,4,1547,857,75,20.63,Server
+AMD Phenom 9500 Quad-Core,1,4,1549,861,95,16.31,Desktop
+Intel Xeon E5335 @ 2.00GHz,1,4,1549,817,80,19.36,Server
+AMD A6-6420B APU,1,1,1550,1629,65,23.85,Desktop
+Intel Celeron J4005 @ 2.00GHz,1,2,1550,1082,10,155,Desktop
+AMD Phenom II X3 710,1,3,1551,1070,95,16.33,Desktop
+Intel Celeron N4020 @ 1.10GHz,1,2,1553,1150,6,258.83,Laptop
+AMD Athlon II X3 420e,1,3,1557,1058,45,34.6,Desktop
+Intel Core i5-4200Y @ 1.40GHz,1,2,1558,944,11.5,135.48,Desktop
+Intel Celeron G1620 @ 2.70GHz,1,2,1560,1451,55,28.36,Desktop
+Intel Celeron G1830 @ 2.80GHz,1,2,1560,1513,53,29.43,Desktop
+ZHAOXIN KaiXian KX-6640MA@2.2+GHz,1,4,1561,733,70,22.3,Desktop
+AMD A8-5545M APU,1,4,1567,832,19,82.47,Laptop
+Intel Pentium G3320TE @ 2.30GHz,1,2,1570,1312,35,44.86,Desktop
+AMD Phenom II X3 720,1,3,1575,1105,95,16.58,Desktop
+Intel Core2 Quad Q9000 @ 2.00GHz,1,4,1575,881,45,35,Laptop
+AMD A6-6420K APU,1,2,1576,1553,65,24.25,Desktop
+AMD Athlon II X3 425,1,3,1576,1084,95,16.59,Desktop
+Intel Celeron G1840T @ 2.50GHz,1,2,1576,1431,35,45.03,Desktop
+Intel Core i5-4210Y @ 1.50GHz,1,2,1577,980,11,143.36,Desktop
+Intel Pentium 4415Y @ 1.60GHz,1,2,1581,866,6,263.5,Laptop
+Intel Pentium G2030T @ 2.60GHz,1,2,1581,1442,35,45.17,Desktop
+AMD Phenom II N930 Quad-Core,1,4,1584,817,35,45.26,Laptop
+AMD Embedded G-Series GX-420GI Radeon R7E,1,4,1587,834,16.1,98.57,"Laptop, Mobile/Embedded"
+AMD Phenom II N950 Quad-Core,1,4,1587,859,35,45.34,Laptop
+Intel Core i5-3339Y @ 1.50GHz,1,2,1589,905,13,122.23,Desktop
+AMD Phenom 9350e Quad-Core,1,4,1590,795,65,24.46,Desktop
+Intel Core i5-4220Y @ 1.60GHz,1,2,1591,952,11.5,138.35,Laptop
+AMD Phenom 9600 Quad-Core,1,4,1597,887,95,16.81,Desktop
+AMD Phenom FX-5000 Quad-Core,1,4,1599,826,65,24.6,Desktop
+Intel Pentium G2010 @ 2.80GHz,1,2,1599,1500,55,29.07,Desktop
+AMD PRO A6-8500B,1,2,1601,1340,15,106.73,Laptop
+AMD A6-8550,1,2,1604,1474,65,24.68,Desktop
+Intel Celeron 2000E @ 2.20GHz,1,2,1607,1282,37,43.43,Laptop
+AMD A8-3530MX APU,1,4,1608,938,45,35.73,Laptop
+Intel Core i3-550 @ 3.20GHz,1,2,1608,1339,73,22.03,Desktop
+Intel Pentium G3220T @ 2.60GHz,1,2,1609,1466,35,45.97,Desktop
+Intel Pentium G2120T @ 2.70GHz,1,2,1613,1493,35,46.09,Desktop
+AMD A8-3510MX APU,1,4,1614,890,45,35.87,Laptop
+AMD A6-6400B APU,1,1,1616,1608,65,24.86,Desktop
+Intel Core i5 E 520 @ 2.40GHz,1,2,1619,1032,35,46.26,Desktop
+AMD Athlon X3 445,1,3,1626,1270,95,17.12,Desktop
+AMD Embedded R-Series RX-216GD,1,2,1628,1313,15,108.53,"Laptop, Mobile/Embedded"
+Intel Core M-5Y10 @ 0.80GHz,1,2,1628,955,4.5,361.78,Laptop
+AMD Athlon II X3 435,1,3,1630,1166,95,17.16,Desktop
+Intel Pentium G3240T @ 2.70GHz,1,2,1630,1473,35,46.57,Desktop
+Intel Celeron G1820T @ 2.40GHz,1,2,1631,1394,35,46.6,Desktop
+AMD A6-7400K APU,1,2,1634,1440,65,25.14,Desktop
+Intel Core i3-3110M @ 2.40GHz,1,2,1634,1239,35,46.69,Laptop
+AMD A8-7100 APU,1,4,1638,840,19,86.21,Laptop
+AMD PRO A6-8570E,1,2,1642,1349,35,46.91,Desktop
+AMD A4 PRO-3340B,1,4,1645,676,25,65.8,Laptop
+AMD Phenom X4 Quad-Core GP-9600,1,4,1649,764,95,17.36,Desktop
+AMD PRO A4-8350B,1,1,1651,1433,65,25.4,Desktop
+Intel Core i7-720QM @ 1.60GHz,1,4,1652,923,45,36.71,Laptop
+Intel Core i3-4010U @ 1.70GHz,1,2,1654,901,15,110.27,Laptop
+Intel Core i3-4030Y @ 1.60GHz,1,2,1654,901,11.5,143.83,Laptop
+AMD A4-6250J APU,1,4,1656,698,25,66.24,"Laptop, Mobile/Embedded"
+AMD A4-7210 APU,1,4,1656,725,25,66.24,Laptop
+AMD Phenom 9550 Quad-Core,1,4,1656,862,95,17.43,Desktop
+AMD A10-4655M APU,1,2,1658,909,25,66.32,Laptop
+[Dual CPU] Intel Xeon 5130 @ 2.00GHz,2,2,1660,818,65,25.54,Server
+AMD PRO A6-9500E,1,2,1662,1493,35,47.49,Desktop
+Intel Core i3-560 @ 3.33GHz,1,2,1662,1359,73,22.77,Desktop
+Intel Core i3-4005U @ 1.70GHz,1,2,1663,912,15,110.87,Laptop
+AMD A6-5200 APU,1,4,1665,664,25,66.6,Laptop
+AMD Phenom II X920 Quad-Core,1,4,1669,944,45,37.09,Laptop
+AMD A6-6310 APU,1,4,1675,741,15,111.67,Laptop
+AMD A8-4500M APU,1,2,1683,919,35,48.09,Laptop
+Intel Pentium G2020 @ 2.90GHz,1,2,1686,1555,55,30.65,Desktop
+AMD A8-3550MX APU,1,4,1687,962,45,37.49,Laptop
+AMD Phenom II N970 Quad-Core,1,4,1687,904,35,48.2,Laptop
+Intel Core i7-2617M @ 1.50GHz,1,2,1687,1092,17,99.24,Laptop
+Intel Pentium G2100T @ 2.60GHz,1,2,1691,1460,35,48.31,Desktop
+Intel Atom x6211E @ 1.20GHz,1,2,1695,1304,6,282.5,Mobile/Embedded
+AMD A6 PRO-7400B,1,1,1696,1505,65,26.09,Desktop
+AMD A6-3600 APU,1,4,1697,909,65,26.11,Desktop
+AMD Phenom FX-5200 Quad-Core,1,4,1699,919,65,26.14,Desktop
+Intel Celeron 4305UE @ 2.00GHz,1,2,1699,1163,15,113.27,"Laptop, Mobile/Embedded"
+Intel Core i3-3120M @ 2.50GHz,1,2,1700,1283,35,48.57,Laptop
+AMD Opteron 1356,1,4,1703,918,75,22.71,Server
+Intel Pentium 4425Y @ 1.70GHz,1,2,1704,958,6,284,Laptop
+Intel Celeron G1630 @ 2.80GHz,1,2,1707,1553,55,31.04,Desktop
+AMD Athlon II X3 440,1,3,1712,1194,95,18.02,Desktop
+AMD Phenom 9850 Quad-Core,1,4,1712,938,125,13.7,Desktop
+AMD Phenom 9650 Quad-Core,1,4,1713,904,95,18.03,Desktop
+Intel Core i5-2557M @ 1.70GHz,1,2,1713,1081,17,100.76,Laptop
+Intel Celeron G1820 @ 2.70GHz,1,2,1715,1539,53,32.36,Desktop
+Intel Xeon E5405 @ 2.00GHz,1,4,1718,877,80,21.48,Server
+Intel Core i5-520M @ 2.40GHz,1,2,1723,1096,35,49.23,Laptop
+AMD A6-7310 APU,1,4,1724,775,25,68.96,Laptop
+Intel Celeron 3965U @ 2.20GHz,1,2,1732,1339,15,115.47,Laptop
+AMD Opteron 2356,1,4,1733,849,75,23.11,Server
+Intel Xeon L5335 @ 2.00GHz,1,4,1737,822,50,34.74,Server
+AMD A10-7300 APU,1,4,1739,861,19,91.53,Laptop
+AMD Opteron 2373 EE,1,4,1744,876,60,29.07,Server
+Intel Pentium G2030 @ 3.00GHz,1,2,1747,1606,55,31.76,Desktop
+AMD A6-9500E,1,2,1756,1347,35,50.17,Desktop
+AMD A10-4657M APU,1,4,1759,940,35,50.26,Laptop
+AMD Phenom II N830 3+1,1,4,1768,935,35,50.51,Laptop
+Intel Xeon L5408 @ 2.13GHz,1,4,1769,936,40,44.22,Server
+AMD PRO A6-9500,1,2,1770,1520,65,27.23,Desktop
+AMD A8-6410 APU,1,4,1771,783,15,118.07,Laptop
+[Dual CPU] AMD Opteron 2216,2,2,1771,865,95,18.64,Server
+AMD R-464L APU,1,4,1773,1123,35,50.66,"Laptop, Mobile/Embedded"
+Intel Core i7-820QM @ 1.73GHz,1,4,1774,1022,45,39.42,Laptop
+AMD A10-5745M APU,1,4,1775,949,25,71,Laptop
+AMD Phenom II X4 910,1,4,1776,988,95,18.69,Desktop
+Intel Core2 Quad Q8200 @ 2.33GHz,1,4,1777,999,95,18.71,Desktop
+Intel Celeron G1840 @ 2.80GHz,1,2,1778,1582,53,33.55,Desktop
+AMD Athlon 5350 APU,1,4,1780,699,25,71.2,Desktop
+AMD GX-420CA SOC,1,4,1780,676,25,71.2,Laptop
+AMD Athlon X3 435,1,3,1781,1192,95,18.75,Desktop
+AMD Phenom II X3 B75,1,3,1781,1256,95,18.75,Desktop
+AMD Athlon X3 455,1,3,1783,1227,95,18.77,Desktop
+Intel Core i3-4000M @ 2.40GHz,1,2,1784,1267,37,48.22,Laptop
+AMD Athlon X4 530,1,4,1786,690,25,71.44,Desktop
+[Dual CPU] Intel Xeon 5140 @ 2.33GHz,2,2,1786,921,65,27.48,Server
+[Dual CPU] Intel Xeon E5503 @ 2.00GHz,2,2,1787,783,80,22.34,Server
+AMD Athlon II X4 600e,1,4,1795,913,45,39.89,Desktop
+AMD GX-420MC SOC,1,4,1796,695,17.5,102.63,Laptop
+AMD GX-424CC SOC,1,4,1796,802,25,71.84,Laptop
+Intel Atom C3508 @ 1.60GHz,1,4,1796,636,11.5,156.17,Server
+AMD Opteron 1381,1,4,1797,1011,75,23.96,Server
+AMD Phenom II X940 Quad-Core,1,4,1797,785,45,39.93,Laptop
+AMD A6-7470K,1,1,1799,1576,65,27.68,Desktop
+AMD A8-5557M APU,1,4,1801,1037,35,51.46,Laptop
+Intel Core i5-540M @ 2.53GHz,1,2,1803,1156,35,51.51,Laptop
+AMD PRO A4-3350B APU,1,4,1805,795,15,120.33,Laptop
+Intel Celeron 4305U @ 2.20GHz,1,2,1807,1365,15,120.47,Mobile/Embedded
+Intel Pentium G3250T @ 2.80GHz,1,2,1809,1594,35,51.69,Desktop
+AMD Athlon X4 620,1,4,1810,1033,95,19.05,Desktop
+AMD A8-7410 APU,1,4,1816,805,25,72.64,Laptop
+Intel Core2 Quad Q6600 @ 2.40GHz,1,4,1816,951,105,17.3,Desktop
+AMD Phenom 9600B Quad-Core,1,4,1822,934,95,19.18,Desktop
+AMD Athlon II X3 445,1,3,1823,1274,95,19.19,Desktop
+Intel Core i3-2330E @ 2.20GHz,1,2,1823,1063,35,52.09,Desktop
+Intel Core M-5Y70 @ 1.10GHz,1,2,1823,1081,4.5,405.11,Laptop
+Intel Core i7-740QM @ 1.73GHz,1,4,1824,1012,45,40.53,Laptop
+Intel Atom x6211E @ 1.30GHz,1,2,1833,1208,6,305.5,Mobile/Embedded
+AMD A6-7480,1,2,1836,1558,65,28.25,Desktop
+Intel Core i3-2105 @ 3.10GHz,1,2,1837,1415,65,28.26,Desktop
+Intel Pentium G3260T @ 2.90GHz,1,2,1837,1609,35,52.49,Desktop
+Intel Xeon X3323 @ 2.50GHz,1,4,1837,1059,80,22.96,Server
+AMD Phenom 9750 Quad-Core,1,4,1843,949,125,14.74,Desktop
+AMD Phenom II X3 B77,1,3,1844,1310,95,19.41,Desktop
+Intel Core i3-2310E @ 2.10GHz,1,2,1845,733,35,52.71,Laptop
+AMD Athlon II X3 450,1,3,1847,1301,95,19.44,Desktop
+Intel Core i3-4100E @ 2.40GHz,1,2,1848,1390,37,49.95,Mobile/Embedded
+Intel Celeron G3900TE @ 2.30GHz,1,2,1850,1402,35,52.86,Laptop
+AMD A6-3620 APU,1,4,1851,985,65,28.48,Desktop
+Intel Pentium 1403 @ 2.60GHz,1,2,1851,990,80,23.14,Server
+Intel Core i5-4230U @ 1.90GHz,1,2,1853,1620,15,123.53,Laptop
+[Dual CPU] Intel Xeon E5502 @ 1.87GHz,2,2,1853,825,80,23.16,Server
+Intel Core i7-2637M @ 1.70GHz,1,2,1854,1144,17,109.06,Laptop
+Intel Core i3-2100 @ 3.10GHz,1,2,1855,1421,65,28.54,Desktop
+AMD A8-5550M APU,1,4,1862,1036,35,53.2,Laptop
+AMD Opteron 2378,1,4,1864,936,75,24.85,Server
+AMD Athlon 5370 APU,1,4,1867,755,25,74.68,Desktop
+Intel Xeon E5345 @ 2.33GHz,1,4,1868,954,80,23.35,Server
+AMD A6-9500,1,2,1869,1624,65,28.75,Desktop
+Intel Core i3-5015U @ 2.10GHz,1,2,1869,1036,15,124.6,Laptop
+Intel Core i3-4030U @ 1.90GHz,1,2,1873,1023,15,124.87,Laptop
+AMD Athlon II X3 455,1,3,1879,1332,95,19.78,Desktop
+AMD PRO A6-8550B,1,1,1882,1631,65,28.95,Desktop
+Intel Core i5-2515E @ 2.50GHz,1,2,1882,1189,35,53.77,Desktop
+AMD Phenom 9950 Quad-Core,1,4,1884,1027,125,15.07,Desktop
+Intel Atom C3538 @ 2.10GHz,1,4,1889,744,15,125.93,Server
+Intel Core i5-2510E @ 2.50GHz,1,2,1889,1183,35,53.97,Laptop
+Intel Core2 Quad Q8300 @ 2.50GHz,1,4,1891,1060,95,19.91,Desktop
+Intel Pentium G2120 @ 3.10GHz,1,2,1892,1715,55,34.4,Desktop
+Intel Pentium G3220 @ 3.00GHz,1,2,1894,1702,54,35.07,Desktop
+AMD Opteron 1385,1,4,1898,1035,115,16.5,Server
+Intel Core M-5Y10c @ 0.80GHz,1,2,1899,1121,4.5,422,Laptop
+Intel Core M-5Y31 @ 0.90GHz,1,2,1899,1241,4.5,422,Laptop
+Intel Celeron G1850 @ 2.90GHz,1,2,1900,1567,54,35.19,Desktop
+Intel Core i3-3130M @ 2.60GHz,1,2,1900,1285,35,54.29,Laptop
+AMD Opteron 2419 EE,1,6,1902,396,60,31.7,Server
+Intel Core i5-560M @ 2.67GHz,1,2,1902,1239,35,54.34,Laptop
+Intel Core M-5Y10a @ 0.80GHz,1,2,1905,993,4.5,423.33,Laptop
+AMD PRO A6-8570,1,2,1906,1646,65,29.32,Desktop
+Intel Core i5-3439Y @ 1.50GHz,1,2,1907,1197,13,146.69,Desktop
+Intel Core i5-4422E @ 1.80GHz,1,2,1907,1048,25,76.28,Laptop
+AMD Opteron X2170 APU,1,4,1911,832,25,76.44,Server
+Intel Core i7-2677M @ 1.80GHz,1,2,1912,1260,17,112.47,Laptop
+Intel Pentium G3420T @ 2.70GHz,1,2,1912,1570,35,54.63,Desktop
+AMD A10 PRO-7350B APU,1,4,1915,917,19,100.79,Laptop
+Intel Core2 Quad Q9100 @ 2.26GHz,1,4,1915,986,45,42.56,Laptop
+AMD Opteron 3320 EE,1,2,1918,838,25,76.72,Server
+Intel Core i3-4158U @ 2.00GHz,1,2,1921,1075,28,68.61,Laptop
+Intel Pentium G2130 @ 3.20GHz,1,2,1926,1748,55,35.02,Desktop
+Intel Xeon E5507 @ 2.27GHz,1,4,1928,997,80,24.1,Server
+AMD A8-6500T APU,1,2,1929,1111,45,42.87,Desktop
+Intel Pentium G3420 @ 3.20GHz,1,2,1933,1753,54,35.8,Desktop
+Intel Xeon E5603 @ 1.60GHz,1,4,1935,712,80,24.19,Server
+AMD Phenom II X4 905e,1,4,1936,1012,65,29.78,Desktop
+Intel Xeon X6550 @ 2.00GHz,1,4,1936,390,130,14.89,Server
+AMD A10-4600M APU,1,2,1938,1080,35,55.37,Laptop
+Intel Core i3-3220T @ 2.80GHz,1,2,1940,1489,35,55.43,Desktop
+Intel Pentium G3240 @ 3.10GHz,1,2,1940,1746,53,36.6,Desktop
+Intel Xeon L5410 @ 2.33GHz,1,4,1940,1029,50,38.8,Server
+Intel Atom x5-E3940 @ 1.60GHz,1,4,1941,672,9.5,204.32,Laptop
+Intel Core i5-2410M @ 2.30GHz,1,2,1941,1201,35,55.46,Laptop
+Intel Core i5-2415M @ 2.30GHz,1,2,1944,1205,35,55.54,Desktop
+Intel Xeon E5506 @ 2.13GHz,1,4,1944,928,80,24.3,Server
+Intel Core i7-840QM @ 1.87GHz,1,4,1945,1132,45,43.22,Laptop
+AMD Phenom 9850B Quad-Core,1,4,1946,992,95,20.48,Desktop
+Intel Core i3-4120U @ 2.00GHz,1,2,1948,1177,15,129.87,Laptop
+Intel Core i7-920XM @ 2.00GHz,1,4,1950,1022,55,35.45,Laptop
+Intel Core i5-580M @ 2.67GHz,1,2,1951,1284,35,55.74,Laptop
+Intel Core i3-2120 @ 3.30GHz,1,2,1957,1512,65,30.11,Desktop
+AMD Phenom II X4 805,1,4,1959,1017,95,20.62,Desktop
+Intel Core i3-4025U @ 1.90GHz,1,2,1959,1091,15,130.6,Laptop
+AMD Athlon II X4 605e,1,4,1963,986,45,43.62,Desktop
+AMD Athlon II X4 610e,1,4,1964,1037,45,43.64,Desktop
+Intel Core2 Extreme Q9300 @ 2.53GHz,1,4,1966,1081,45,43.69,Desktop
+Intel Core i7-3689Y @ 1.50GHz,1,2,1967,1209,13,151.31,Laptop
+Intel Celeron N4500 @ 1.10GHz,1,2,1973,1377,6,328.83,Mobile/Embedded
+Intel Xeon X3220 @ 2.40GHz,1,4,1973,926,105,18.79,Server
+AMD FX-7500 APU,1,4,1977,976,19,104.05,Laptop
+Intel Celeron N3450 @ 1.10GHz,1,4,1979,767,6,329.83,Laptop
+Intel Core i7-620M @ 2.67GHz,1,2,1979,1288,35,56.54,Laptop
+Intel Xeon X5355 @ 2.66GHz,1,4,1979,1060,120,16.49,Server
+Intel Core2 Quad Q9300 @ 2.50GHz,1,4,1984,1081,95,20.88,Desktop
+Intel Pentium G3250 @ 3.20GHz,1,2,1986,1803,53,37.47,Desktop
+Intel Xeon X3320 @ 2.50GHz,1,4,1986,1097,95,20.91,Server
+Intel Core M-5Y51 @ 1.10GHz,1,2,1992,1297,4.5,442.67,Laptop
+[Dual CPU] AMD Opteron 2218,2,2,1994,964,95,20.99,Server
+AMD Opteron 2427,1,6,1995,386,75,26.6,Server
+Intel Celeron N6210 @ 1.20GHz,1,2,1995,1360,6.5,306.92,Mobile/Embedded
+AMD A10-5757M APU,1,4,1998,1151,35,57.09,Laptop
+Intel Core i7-2655LE @ 2.20GHz,1,2,1999,1231,25,79.96,Desktop
+AMD Athlon II X4 615e,1,4,2000,1037,45,44.44,Desktop
+AMD Phenom II X4 810,1,4,2003,1047,95,21.08,Desktop
+Intel Core i5-2430M @ 2.40GHz,1,2,2004,1240,35,57.26,Laptop
+Intel Xeon E5410 @ 2.33GHz,1,4,2007,1023,80,25.09,Server
+AMD Athlon II X3 460,1,3,2008,1395,95,21.14,Desktop
+Intel Celeron 6305E @ 1.80GHz,1,2,2008,1176,15,133.87,Mobile/Embedded
+Intel Pentium G3450T @ 2.90GHz,1,2,2016,1135,35,57.6,Desktop
+Intel Core i5-3317U @ 1.70GHz,1,2,2017,1256,17,118.65,Laptop
+Intel Core i5-655K @ 3.20GHz,1,2,2017,1446,73,27.63,Desktop
+AMD Athlon II X4 620,1,4,2018,1062,95,21.24,Desktop
+Intel Celeron G3900T @ 2.60GHz,1,2,2020,1560,35,57.71,Desktop
+Intel Core i3-4330TE @ 2.40GHz,1,2,2022,1327,35,57.77,Desktop
+Intel Xeon E5420 @ 2.50GHz,1,4,2022,1060,80,25.28,Server
+Intel Core i3-5005U @ 2.00GHz,1,2,2023,1146,15,134.87,Laptop
+Intel Xeon E7- 2830 @ 2.13GHz,1,4,2027,559,105,19.3,Server
+Intel Core i3-2102 @ 3.10GHz,1,2,2029,1400,65,31.22,Desktop
+Intel Core M-5Y71 @ 1.20GHz,1,2,2032,1281,4.5,451.56,Laptop
+Intel Celeron G3900E @ 2.40GHz,1,2,2034,1499,35,58.11,Laptop
+Intel Core i3-3240T @ 2.90GHz,1,2,2037,1547,35,58.2,Desktop
+Intel Celeron G3930T @ 2.70GHz,1,2,2040,1657,35,58.29,Desktop
+Intel Core i3-2130 @ 3.40GHz,1,2,2042,1562,65,31.42,Desktop
+[Dual CPU] Intel Xeon 5150 @ 2.66GHz,2,2,2043,1065,65,31.43,Server
+AMD A10-5750M APU,1,4,2044,1161,35,58.4,Laptop
+AMD A8-3800 APU,1,4,2049,1068,65,31.52,Desktop
+Intel Xeon X3230 @ 2.66GHz,1,4,2052,1091,95,21.6,Server
+AMD Opteron 4162 EE,1,6,2058,382,35,58.8,Server
+AMD Opteron 3250 HE,1,2,2061,1003,45,45.8,Server
+Intel Core2 Quad Q8400 @ 2.66GHz,1,4,2068,1144,95,21.77,Desktop
+AMD A6-3650 APU,1,4,2070,1038,100,20.7,Desktop
+AMD Phenom II X4 830,1,4,2070,1084,95,21.79,Desktop
+Intel Core i7-610E @ 2.53GHz,1,2,2071,1420,35,59.17,Laptop
+Intel Core i7-640M @ 2.80GHz,1,2,2071,1373,35,59.17,Laptop
+AMD Opteron 2384,1,4,2074,1074,75,27.65,Server
+Intel Pentium G3258 @ 3.20GHz,1,2,2076,1857,53,39.17,Desktop
+Intel Core i5-2450M @ 2.50GHz,1,2,2077,1284,35,59.34,Laptop
+AMD A10-7400P,1,4,2078,1033,35,59.37,Laptop
+AMD Athlon II X4 655,1,4,2078,1473,95,21.87,Desktop
+AMD Opteron 1389,1,4,2079,1102,75,27.72,Server
+AMD Phenom II X4 820,1,4,2081,1121,95,21.91,Desktop
+Intel Core i3-2125 @ 3.30GHz,1,2,2083,1570,65,32.05,Desktop
+Intel Core i7-3517U @ 1.90GHz,1,2,2083,1328,17,122.53,Laptop
+Intel Core i5-3337U @ 1.80GHz,1,2,2088,1281,17,122.82,Laptop
+Intel Pentium G2140 @ 3.30GHz,1,2,2092,1842,55,38.04,Desktop
+Intel Pentium G3260 @ 3.30GHz,1,2,2092,1868,53,39.47,Desktop
+Intel Core2 Quad Q6700 @ 2.66GHz,1,4,2093,1077,105,19.93,Desktop
+Intel Atom x7-E3950 @ 1.60GHz,1,4,2096,742,12,174.67,Laptop
+[Dual CPU] AMD Opteron 2222,2,2,2098,964,95,22.08,Server
+AMD 3015Ce,1,2,2099,1337,6,349.83,Mobile/Embedded
+Intel Pentium G3440T @ 2.80GHz,1,2,2107,1615,35,60.2,Desktop
+Intel Core i5-2435M @ 2.40GHz,1,2,2108,1330,35,60.23,Laptop
+Intel Xeon X3330 @ 2.66GHz,1,4,2111,1152,95,22.22,Server
+AMD Athlon X4 640,1,4,2115,1224,95,22.26,Desktop
+Intel Pentium 4405U @ 2.10GHz,1,2,2117,1203,15,141.13,Laptop
+AMD Athlon II X4 631 Quad-Core,1,4,2122,1115,100,21.22,Desktop
+Intel Pentium G3430 @ 3.30GHz,1,2,2127,1912,54,39.39,Desktop
+Intel Core2 Quad Q9400 @ 2.66GHz,1,4,2129,1139,95,22.41,Desktop
+AMD Phenom II X4 910e,1,4,2131,1082,65,32.78,Desktop
+Intel Xeon L5420 @ 2.50GHz,1,4,2143,1100,50,42.86,Server
+Intel Core2 Extreme Q6800 @ 2.93GHz,1,4,2145,1124,75,28.6,Desktop
+Intel Xeon E5462 @ 2.80GHz,1,4,2146,1148,80,26.82,Server
+Intel Core i5-4250U @ 1.30GHz,1,2,2149,1339,15,143.27,Laptop
+AMD Athlon II X4 630,1,4,2153,1129,95,22.66,Desktop
+AMD FirePro A320 APU,1,4,2153,1193,100,21.53,Desktop
+AMD A8-7200P,1,4,2154,1054,35,61.54,Laptop
+Intel Celeron G5900T @ 3.20GHz,1,2,2155,1640,35,61.57,Desktop
+AMD Phenom II X4 920,1,4,2156,1130,125,17.25,Desktop
+Intel Core2 Quad Q9505 @ 2.83GHz,1,4,2156,1184,95,22.69,Desktop
+AMD A8-7690K,1,4,2157,1441,95,22.71,Desktop
+AMD Phenom II X4 B93,1,4,2159,1142,95,22.73,Desktop
+Intel Celeron G3900 @ 2.80GHz,1,2,2165,1706,51,42.45,Desktop
+Intel Core m3-6Y30 @ 0.90GHz,1,2,2166,1170,4.5,481.33,Laptop
+[Quad CPU] Intel Xeon @ 2.20GHz,4,1,2167,1177,61,35.52,Server
+Intel Pentium N4200 @ 1.10GHz,1,4,2170,858,6,361.67,Laptop
+AMD A6-3670 APU,1,4,2171,1144,100,21.71,Desktop
+AMD A8-3820 APU,1,4,2174,1131,65,33.45,Desktop
+Intel Atom C2750 @ 2.41GHz,1,8,2174,291,20,108.7,Server
+Intel Core i5-8200Y @ 1.30GHz,1,2,2174,1385,5,434.8,Laptop
+Intel Pentium G3450 @ 3.40GHz,1,2,2178,1897,53,41.09,Desktop
+Intel Core i5-4200U @ 1.60GHz,1,2,2181,1288,15,145.4,Laptop
+Intel Core i7-940XM @ 2.13GHz,1,4,2187,1122,55,39.76,Laptop
+Intel Core2 Quad Q9450 @ 2.66GHz,1,4,2189,1128,95,23.04,Desktop
+AMD PRO A8-8600B,1,4,2190,1090,15,146,Laptop
+Intel Pentium G4400TE @ 2.40GHz,1,2,2190,1481,35,62.57,Laptop
+Intel Celeron J3455E @ 1.50GHz,1,4,2193,846,10,219.3,Desktop
+Intel Core i3-5010U @ 2.10GHz,1,2,2194,1236,15,146.27,Laptop
+Intel Xeon X5472 @ 3.00GHz,1,4,2197,1220,120,18.31,Server
+Intel Pentium G3440 @ 3.30GHz,1,2,2202,1917,53,41.55,Desktop
+Intel Core i3-5020U @ 2.20GHz,1,2,2203,1247,15,146.87,Laptop
+Intel Celeron G5905T @ 3.30GHz,1,2,2206,1809,35,63.03,Desktop
+Snapdragon 835,1,8,2211,1035,9,245.67,"Laptop, Mobile/Embedded"
+AMD PRO A10-8700B,1,2,2212,1122,15,147.47,Laptop
+Intel Celeron G3930TE @ 2.70GHz,1,2,2218,1706,35,63.37,Desktop
+Intel Core2 Quad Q9500 @ 2.83GHz,1,4,2224,1215,95,23.41,Desktop
+Intel Core i3-3210 @ 3.20GHz,1,2,2227,1705,55,40.49,Desktop
+Intel Xeon X3353 @ 2.66GHz,1,4,2229,1173,80,27.86,Server
+Intel Pentium G3460 @ 3.50GHz,1,2,2231,1986,53,42.09,Desktop
+Intel Pentium 4415U @ 2.30GHz,1,2,2232,1280,15,148.8,Laptop
+Intel Xeon E5430 @ 2.66GHz,1,4,2233,1158,80,27.91,Server
+AMD Athlon II X4 635,1,4,2237,1168,95,23.55,Desktop
+Intel Core i7-3555LE @ 2.50GHz,1,2,2238,1336,25,89.52,Laptop
+Intel Celeron G4900T @ 2.90GHz,1,2,2239,1737,35,63.97,Desktop
+Intel Core i3-3225 @ 3.30GHz,1,2,2239,1700,55,40.71,Desktop
+Intel Core i5-2520M @ 2.50GHz,1,2,2239,1356,35,63.97,Laptop
+AMD A8-8600P,1,2,2240,1103,15,149.33,Laptop
+AMD A10-8700P,1,2,2245,1146,35,64.14,Laptop
+AMD Athlon II X4 640,1,4,2245,1212,95,23.63,Desktop
+Intel Celeron N6211 @ 1.20GHz,1,2,2245,1586,6.5,345.38,Mobile/Embedded
+Intel Pentium 4417U @ 2.30GHz,1,2,2245,1297,15,149.67,Laptop
+Intel Core i5-650 @ 3.20GHz,1,2,2247,1369,73,30.78,Desktop
+Intel Xeon E3-1220L V2 @ 2.30GHz,1,2,2248,1505,17,132.24,Server
+Intel Celeron G3930 @ 2.90GHz,1,2,2249,1780,51,44.1,Desktop
+AMD Athlon II X4 638 Quad-Core,1,4,2250,1163,65,34.62,Desktop
+Intel Core i5-3427U @ 1.80GHz,1,2,2252,1359,17,132.47,Laptop
+Intel Celeron J3455 @ 1.50GHz,1,4,2254,812,10,225.4,Desktop
+Intel Pentium 5405U @ 2.30GHz,1,2,2257,1310,15,150.47,Laptop
+Intel Xeon L5430 @ 2.66GHz,1,4,2260,1154,50,45.2,Server
+Intel Xeon X3350 @ 2.66GHz,1,4,2263,1158,95,23.82,Server
+Intel Core i3-3220 @ 3.30GHz,1,2,2265,1729,55,41.18,Desktop
+Intel Core m5-6Y54 @ 1.10GHz,1,2,2265,1303,7,323.57,Laptop
+Intel Celeron N4505 @ 2.00GHz,1,2,2266,1509,10,226.6,Mobile/Embedded
+AMD Phenom II X4 925,1,4,2271,1151,95,23.91,Desktop
+Intel Core i7-4550U @ 1.50GHz,1,2,2272,1290,15,151.47,Laptop
+Intel Xeon L5520 @ 2.27GHz,1,4,2274,1001,60,37.9,Server
+AMD Athlon X4 730,1,2,2278,937,65,35.05,Desktop
+Intel Core i7-860S @ 2.53GHz,1,4,2280,1093,82,27.8,Desktop
+Intel Core i3-6006U @ 2.00GHz,1,2,2281,1161,15,152.07,Laptop
+AMD Opteron 3260 HE,1,2,2283,900,45,50.73,Server
+Intel Pentium 1403 v2 @ 2.60GHz,1,2,2284,1391,80,28.55,Server
+Intel Xeon E5472 @ 3.00GHz,1,4,2286,1211,80,28.58,Server
+AMD PRO A8-9600B,1,4,2292,1194,15,152.8,Laptop
+Intel Xeon X3430 @ 2.40GHz,1,4,2293,1028,95,24.14,Server
+Intel Xeon E3-1220L @ 2.20GHz,1,2,2295,1604,20,114.75,Server
+Intel Celeron G4930T @ 3.00GHz,1,2,2297,1769,35,65.63,Desktop
+AMD A10-6700T APU,1,2,2299,1290,45,51.09,Desktop
+Intel Core i5-3437U @ 1.90GHz,1,2,2301,1424,17,135.35,Laptop
+AMD Phenom II X4 B70,1,4,2303,1209,65,35.43,Desktop
+Intel Core i5-4260U @ 1.40GHz,1,2,2303,1453,15,153.53,Laptop
+Intel Core2 Extreme Q6850 @ 3.00GHz,1,4,2304,1231,130,17.72,Desktop
+Intel Core i3-2140 @ 3.50GHz,1,2,2307,1535,65,35.49,Desktop
+Intel Core i5-4210U @ 1.70GHz,1,2,2310,1378,15,154,Laptop
+AMD Athlon II X4 641 Quad-Core,1,4,2313,1189,100,23.13,Desktop
+AMD A8-3870K APU,1,4,2319,1210,100,23.19,Desktop
+Intel Xeon E5-2603 @ 1.80GHz,1,4,2319,871,80,28.99,Server
+Intel Core i3-3240 @ 3.40GHz,1,2,2320,1785,55,42.18,Desktop
+Intel Celeron G3950 @ 3.00GHz,1,2,2322,1851,51,45.53,Desktop
+Intel Core m7-6Y75 @ 1.20GHz,1,2,2326,1355,7,332.29,Laptop
+AMD Phenom II X4 840T,1,4,2330,1264,95,24.53,Desktop
+Intel Xeon X5365 @ 3.00GHz,1,4,2331,1223,150,15.54,Server
+Intel Core i7-3537U @ 2.00GHz,1,2,2337,1441,17,137.47,Laptop
+AMD A10-9600P,1,4,2339,1148,15,155.93,Laptop
+AMD PRO A10-8730B,1,4,2344,1185,15,156.27,Laptop
+AMD Phenom II X4 940,1,4,2345,1212,125,18.76,Desktop
+Intel Pentium G4400T @ 2.90GHz,1,2,2345,1757,35,67,Desktop
+Intel Core2 Quad Q9550 @ 2.83GHz,1,4,2346,1221,95,24.69,Desktop
+AMD Opteron 4130,1,4,2347,1149,95,24.71,Server
+AMD Athlon II X4 645,1,4,2348,1256,95,24.72,Desktop
+Intel Core i3-6102E @ 1.90GHz,1,2,2349,1068,25,93.96,Laptop
+Intel Core m5-6Y57 @ 1.10GHz,1,2,2352,1339,7,336,Laptop
+AMD Phenom II X4 960T,1,4,2353,1299,95,24.77,Desktop
+Intel Pentium 6405U @ 2.40GHz,1,2,2356,1378,15,157.07,Laptop
+Intel Celeron G3920 @ 2.90GHz,1,2,2358,1781,51,46.24,Desktop
+Intel Xeon X3363 @ 2.83GHz,1,4,2358,1240,80,29.48,Server
+Intel Core i5-2540M @ 2.60GHz,1,2,2361,1407,35,67.46,Laptop
+[Dual CPU] Intel Xeon 5160 @ 3.00GHz,2,2,2361,1198,80,29.51,Server
+Intel Xeon E5606 @ 2.13GHz,1,4,2365,942,80,29.56,Server
+Intel Xeon E5-2403 @ 1.80GHz,1,4,2367,802,80,29.59,Server
+Intel Celeron G6900TE,1,2,2373,1393,35,67.8,Mobile/Embedded
+AMD A8-3850 APU,1,4,2374,1214,100,23.74,Desktop
+Intel Xeon E5440 @ 2.83GHz,1,4,2374,1228,80,29.68,Server
+AMD Phenom II X4 977,1,4,2377,1368,95,25.02,Desktop
+Intel Core i3-3245 @ 3.40GHz,1,2,2379,1791,55,43.25,Desktop
+AMD Opteron 4170 HE,1,6,2382,476,65,36.65,Server
+Intel Core i7-3517UE @ 1.70GHz,1,2,2384,1433,17,140.24,Laptop
+AMD Phenom II X4 945,1,4,2385,1233,125,19.08,Desktop
+Intel Xeon X5450 @ 3.00GHz,1,4,2389,1256,120,19.91,Server
+Intel Celeron G4900 @ 3.10GHz,1,2,2394,1836,54,44.33,Desktop
+Intel Core i5-660 @ 3.33GHz,1,2,2394,1424,73,32.79,Desktop
+Intel Atom C2758 @ 2.40GHz,1,8,2397,576,20,119.85,"Laptop, Mobile/Embedded"
+Intel Xeon X3360 @ 2.83GHz,1,4,2398,1237,95,25.24,Server
+Intel Pentium G4500T @ 3.00GHz,1,2,2399,1865,35,68.54,Desktop
+AMD Phenom II X4 850,1,4,2400,1230,95,25.26,Desktop
+AMD Phenom II X4 840,1,4,2401,1297,95,25.27,Desktop
+AMD Phenom II X4 B95,1,4,2401,1242,95,25.27,Desktop
+Intel Celeron 7305E,1,5,2404,805,15,160.27,Mobile/Embedded
+Intel Core2 Extreme X9650 @ 3.00GHz,1,4,2404,1258,130,18.49,Desktop
+Intel Pentium J4205 @ 1.50GHz,1,4,2406,916,10,240.6,Desktop
+Intel Xeon L3360 @ 2.83GHz,1,4,2412,1224,65,37.11,Server
+Intel Core i7-3667U @ 2.00GHz,1,2,2422,1508,17,142.47,Laptop
+Intel Core i7-2620M @ 2.70GHz,1,2,2423,1459,35,69.23,Laptop
+Intel Core i5-4350U @ 1.40GHz,1,2,2425,1585,15,161.67,Laptop
+AMD Athlon II X4 650,1,4,2426,1305,95,25.54,Desktop
+Intel Atom C3558 @ 2.20GHz,1,4,2426,855,16,151.62,Server
+Intel Pentium G3470 @ 3.60GHz,1,2,2428,2089,53,45.81,Desktop
+AMD A12-9700P,1,4,2437,1214,15,162.47,Laptop
+Intel Core i3-3250 @ 3.50GHz,1,2,2442,1837,55,44.4,Desktop
+Intel Core i5-5250U @ 1.60GHz,1,2,2444,1517,15,162.93,Laptop
+Intel Core i7-4610Y @ 1.70GHz,1,2,2446,1583,11.5,212.7,Desktop
+AMD 3020e,1,2,2448,1416,6,408,Laptop
+Intel Celeron N4100 @ 1.10GHz,1,4,2454,1008,6,409,Laptop
+Intel Core i7-4650U @ 1.70GHz,1,2,2456,1569,15,163.73,Laptop
+Intel Xeon D-1602 @ 2.50GHz,1,2,2459,1435,27,91.07,Server
+Intel Core i7-2640M @ 2.80GHz,1,2,2465,1496,35,70.43,Laptop
+Intel Xeon X3370 @ 3.00GHz,1,4,2465,1253,95,25.95,Server
+Intel Core i5-3210M @ 2.50GHz,1,2,2468,1527,35,70.51,Laptop
+Intel Core i5-661 @ 3.33GHz,1,2,2469,1446,87,28.38,Desktop
+Intel Celeron 7305,1,5,2470,814,15,164.67,Laptop
+Intel Core2 Quad Q9650 @ 3.00GHz,1,4,2470,1283,95,26,Desktop
+Intel Xeon L3426 @ 1.87GHz,1,4,2470,1231,45,54.89,Server
+Intel Core i7-8500Y @ 1.50GHz,1,2,2474,1448,5,494.8,Laptop
+AMD Opteron 8439 SE,1,6,2479,590,105,23.61,Server
+Intel Celeron N4120 @ 1.10GHz,1,4,2480,1087,6,413.33,Laptop
+Intel Core i7-4500U @ 1.80GHz,1,2,2481,1489,15,165.4,Laptop
+Intel Core i5-2390T @ 2.70GHz,1,2,2493,1516,35,71.23,Desktop
+Intel Xeon L7455 @ 2.13GHz,1,6,2494,601,65,38.37,Server
+Intel Core i5-4300U @ 1.90GHz,1,2,2496,1483,15,166.4,Laptop
+AMD Athlon II X4 651 Quad-Core,1,4,2500,1287,100,25,Desktop
+Intel Celeron G4920 @ 3.20GHz,1,2,2500,1960,54,46.3,Desktop
+Intel Core i5-5200U @ 2.20GHz,1,2,2500,1498,15,166.67,Laptop
+AMD Phenom II X4 955,1,4,2510,1292,125,20.08,Desktop
+AMD PRO A12-8830B,1,4,2517,1321,15,167.8,Laptop
+Intel Core i3-4100M @ 2.50GHz,1,2,2518,1402,37,68.05,Laptop
+Intel Core i3-7102E @ 2.10GHz,1,2,2521,1292,25,100.84,Laptop
+Intel Xeon L5530 @ 2.40GHz,1,4,2522,1169,60,42.03,Server
+Intel Core i5-4310U @ 2.00GHz,1,2,2524,1507,15,168.27,Laptop
+Intel Xeon E5520 @ 2.27GHz,1,4,2524,1053,80,31.55,Server
+Intel Core i5-670 @ 3.47GHz,1,2,2533,1530,73,34.7,Desktop
+AMD Phenom II X4 975,1,4,2536,1350,125,20.29,Desktop
+AMD Phenom II X4 B99,1,4,2536,1377,95,26.69,Desktop
+Intel Core i5-750 @ 2.67GHz,1,4,2538,1233,95,26.72,Desktop
+AMD Phenom II X4 B97,1,4,2539,1320,95,26.73,Desktop
+AMD A10-9620P,1,4,2540,1269,15,169.33,Laptop
+AMD FX-9800P,1,4,2543,1228,15,169.53,Laptop
+AMD PRO A10-9700B,1,4,2545,1294,15,169.67,Laptop
+Intel Core i5-3230M @ 2.60GHz,1,2,2562,1579,35,73.2,Laptop
+AMD Athlon II X4 557,1,4,2567,1345,160,16.04,Desktop
+Intel Xeon X3380 @ 3.16GHz,1,4,2568,1357,95,27.03,Server
+Intel Core i5-5350U @ 1.80GHz,1,2,2569,1644,15,171.27,Laptop
+Intel Pentium Silver N5030 @ 1.10GHz,1,4,2570,1238,6,428.33,Laptop
+Intel Xeon X5460 @ 3.16GHz,1,4,2572,1349,120,21.43,Server
+Intel Celeron G5920 @ 3.50GHz,1,2,2577,2123,58,44.43,Desktop
+Intel Xeon E5450 @ 3.00GHz,1,4,2579,1287,80,32.24,Server
+AMD PRO A12-8800B,1,2,2580,1315,15,172,Laptop
+Intel Core i3-7020U @ 2.30GHz,1,2,2581,1322,15,172.07,Laptop
+Intel Pentium G4400 @ 3.30GHz,1,2,2582,2006,54,47.81,Desktop
+Intel Core m3-7Y30 @ 1.00GHz,1,2,2586,1409,4.5,574.67,Laptop
+Intel Core i5-7Y57 @ 1.20GHz,1,2,2590,1618,4.5,575.56,Laptop
+Intel Celeron G4930 @ 3.20GHz,1,2,2591,1987,54,47.98,Desktop
+Intel Core i7-4510U @ 2.00GHz,1,2,2592,1538,15,172.8,Laptop
+Intel Core i3-5157U @ 2.50GHz,1,2,2593,1392,28,92.61,Laptop
+Intel Pentium Silver N5000 @ 1.10GHz,1,4,2605,1134,6,434.17,Laptop
+AMD A8-5500 APU,1,2,2610,1336,65,40.15,Desktop
+AMD FX-4100 Quad-Core,1,2,2610,1286,95,27.47,Desktop
+AMD FX-7600P,1,4,2611,1265,35,74.6,Laptop
+AMD A8-5500B APU,1,2,2612,1327,65,40.18,Desktop
+AMD Opteron 6172,1,12,2615,564,115,22.74,Server
+AMD Athlon PRO 3045B,1,2,2618,1493,15,174.53,Laptop
+Intel Core i5-680 @ 3.60GHz,1,2,2618,1580,73,35.86,Desktop
+AMD Athlon X4 750 Quad Core,1,4,2625,1497,65,40.38,Desktop
+AMD Athlon X4 740 Quad Core,1,2,2626,1355,65,40.4,Desktop
+Intel Core i5-760 @ 2.80GHz,1,4,2628,1291,95,27.66,Desktop
+[Dual CPU] Intel Xeon E5310 @ 1.60GHz,2,4,2629,641,80,32.86,Server
+AMD Phenom II X4 965,1,4,2633,1363,125,21.06,Desktop
+Intel Core i3-6100U @ 2.30GHz,1,2,2635,1333,15,175.67,Laptop
+Intel Core i5-4288U @ 2.60GHz,1,2,2635,1631,28,94.11,Laptop
+Intel Core i5-4258U @ 2.40GHz,1,2,2637,1585,28,94.18,Laptop
+Intel Core i7-7Y75 @ 1.30GHz,1,2,2637,1583,4.5,586,"Desktop, Laptop"
+Intel Celeron G5900 @ 3.40GHz,1,2,2643,2107,58,45.57,Desktop
+Intel Core i5-7Y54 @ 1.20GHz,1,2,2645,1514,4.5,587.78,Laptop
+Intel Core i7-3687U @ 2.10GHz,1,2,2645,1598,17,155.59,Laptop
+AMD RX-425BB,1,4,2648,1192,35,75.66,Mobile/Embedded
+Intel Core i3-3250T @ 3.00GHz,1,2,2650,1684,35,75.71,Desktop
+Intel Xeon E5-2407 @ 2.20GHz,1,4,2658,940,80,33.22,Server
+AMD A12-9720P,1,4,2661,1317,15,177.4,Laptop
+Intel Core i5-3320M @ 2.60GHz,1,2,2666,1619,35,76.17,Laptop
+Intel Core i5-3610ME @ 2.70GHz,1,2,2666,1579,35,76.17,Laptop
+Intel Core i3-4110M @ 2.60GHz,1,2,2678,1389,37,72.38,Laptop
+Intel Core i5-4402E @ 1.60GHz,1,2,2681,1510,25,107.24,Laptop
+AMD FX-4130 Quad-Core,1,2,2686,1336,125,21.49,Desktop
+Intel Xeon E5607 @ 2.27GHz,1,4,2686,1002,80,33.58,Server
+Intel Core2 Extreme X9770 @ 3.20GHz,1,4,2689,1395,136,19.77,Desktop
+Intel Xeon E5530 @ 2.40GHz,1,4,2690,1144,80,33.62,Server
+AMD PRO A12-9800B,1,4,2691,1392,15,179.4,Laptop
+Intel Core i5-3340M @ 2.70GHz,1,2,2694,1647,35,76.97,Laptop
+AMD Opteron 3350 HE,1,4,2699,1263,45,59.98,Server
+Intel Pentium G4520 @ 3.60GHz,1,2,2707,2008,51,53.08,Desktop
+Intel Core i7-4600U @ 2.10GHz,1,2,2713,1653,15,180.87,Laptop
+Intel Celeron G4950 @ 3.30GHz,1,2,2714,2041,54,50.26,Desktop
+AMD A6-9400,1,2,2717,1664,10,271.7,Laptop
+Intel Core i3-7100U @ 2.40GHz,1,2,2722,1385,15,181.47,Laptop
+AMD 3015e,1,2,2724,1353,6,454,Laptop
+Intel Core i5-5300U @ 2.30GHz,1,2,2733,1633,15,182.2,Laptop
+Intel Core m3-7Y32 @ 1.10GHz,1,2,2733,1628,4.5,607.33,Laptop
+Intel Xeon E5-2603 v2 @ 1.80GHz,1,4,2735,993,80,34.19,Server
+AMD Phenom II X4 970,1,4,2739,1417,125,21.91,Desktop
+AMD A10-5700 APU,1,2,2741,1430,65,42.17,Desktop
+Intel Xeon X5482 @ 3.20GHz,1,4,2755,1400,150,18.37,Server
+Intel Core i5-8210Y @ 1.60GHz,1,2,2765,1675,7,395,Laptop
+Intel Core i7-870S @ 2.67GHz,1,4,2765,1493,82,33.72,Desktop
+Intel Core i3-6157U @ 2.40GHz,1,2,2767,1435,28,98.82,Laptop
+Intel Xeon X3440 @ 2.53GHz,1,4,2773,1147,95,29.19,Server
+Intel Pentium G4500 @ 3.50GHz,1,2,2776,2152,51,54.43,Desktop
+Intel Core2 Extreme X9775 @ 3.20GHz,1,4,2780,1451,150,18.53,Desktop
+Intel Xeon E5540 @ 2.53GHz,1,4,2783,1203,80,34.79,Server
+Intel Core i7-5500U @ 2.40GHz,1,2,2784,1653,15,185.6,Laptop
+Intel Celeron G5905 @ 3.50GHz,1,2,2785,2164,58,48.02,Desktop
+AMD RX-427BB,1,4,2788,1301,35,79.66,Laptop
+Intel Atom C2750 @ 2.40GHz,1,8,2789,694,20,139.45,Server
+Intel Core i5-4200M @ 2.50GHz,1,2,2806,1622,37,75.84,Laptop
+Intel Core i5-5257U @ 2.70GHz,1,2,2809,1725,23,122.13,Laptop
+AMD A8-6500 APU,1,2,2822,1473,65,43.42,Desktop
+Intel Xeon E5-2609 @ 2.40GHz,1,4,2823,1114,80,35.29,Server
+AMD Opteron 6128,1,8,2826,447,115,24.57,Server
+Intel Core i5-4278U @ 2.60GHz,1,2,2831,1712,28,101.11,Laptop
+AMD Phenom II X4 980,1,4,2839,1511,125,22.71,Desktop
+Intel Core i7-920 @ 2.67GHz,1,4,2839,1217,130,21.84,Desktop
+Intel Celeron G5925 @ 3.60GHz,1,2,2849,2229,58,49.12,Desktop
+AMD FX-8800P,1,2,2851,1380,35,81.46,Laptop
+Intel Xeon X3450 @ 2.67GHz,1,4,2853,1221,95,30.03,Server
+AMD A8-5600K APU,1,4,2854,1430,100,28.54,Desktop
+AMD FX-7600P APU,1,4,2856,1436,35,81.6,Laptop
+AMD Athlon X4 750K Quad Core,1,2,2861,1465,100,28.61,Desktop
+Intel Core i3-4150T @ 3.00GHz,1,2,2864,1591,35,81.83,Desktop
+Intel Core i7-5550U @ 2.00GHz,1,2,2864,1703,15,190.93,Laptop
+Intel Core i7-3520M @ 2.90GHz,1,2,2867,1742,35,81.91,Laptop
+AMD Opteron 4184,1,6,2872,630,95,30.23,Server
+Intel Core i5-3360M @ 2.80GHz,1,2,2873,1755,35,82.09,Laptop
+Intel Xeon E5-2403 v2 @ 1.80GHz,1,4,2873,991,80,35.91,Server
+Intel Core m3-8100Y @ 1.10GHz,1,2,2874,1717,5,574.8,Laptop
+AMD A8-6500B APU,1,2,2876,1500,65,44.25,Desktop
+AMD Athlon Silver 3050C,1,2,2879,1809,15,191.93,Laptop
+AMD PRO A10-8750B,1,2,2879,1303,65,44.29,Desktop
+Intel Core i3-4130T @ 2.90GHz,1,2,2885,1623,35,82.43,Desktop
+Intel Core i5-4210M @ 2.60GHz,1,2,2888,1692,37,78.05,Laptop
+Intel Core i3-10100Y @ 1.30GHz,1,2,2896,1635,5,579.2,Mobile/Embedded
+AMD Athlon X4 830,1,2,2901,1292,65,44.63,Desktop
+Intel Xeon X5470 @ 3.33GHz,1,4,2901,1400,120,24.18,Server
+Intel N50,1,2,2907,1790,6,484.5,Mobile/Embedded
+Intel Celeron J4105 @ 1.50GHz,1,4,2908,1093,10,290.8,Desktop
+AMD A10-9630P,1,4,2909,1397,35,83.11,Laptop
+[Dual CPU] Intel Xeon E5320 @ 1.86GHz,2,4,2911,762,80,36.39,Server
+Intel Xeon X5492 @ 3.40GHz,1,4,2912,1464,150,19.41,Server
+Intel Core i5-3380M @ 2.90GHz,1,2,2916,1775,35,83.31,Laptop
+Intel Core i5-2500T @ 2.30GHz,1,4,2929,1485,45,65.09,Desktop
+AMD Opteron 6128 HE,1,8,2932,823,85,34.49,Server
+Intel Core i5-4308U @ 2.80GHz,1,2,2935,1827,28,104.82,Laptop
+Intel Xeon W3520 @ 2.67GHz,1,4,2935,1276,130,22.58,Server
+AMD Opteron 2431,1,6,2936,570,75,39.15,Server
+Intel Core i7-940 @ 2.93GHz,1,4,2947,1310,130,22.67,Desktop
+AMD Athlon X4 760K Quad Core,1,2,2951,1526,100,29.51,Desktop
+AMD Athlon Silver 3050e,1,2,2952,1448,6,492,Laptop
+AMD Ryzen Embedded R1305G,1,2,2953,1587,8,369.12,"Laptop, Mobile/Embedded"
+Intel Celeron J4125 @ 2.00GHz,1,4,2957,1161,10,295.7,Desktop
+Intel Xeon X3460 @ 2.80GHz,1,4,2957,1250,95,31.13,Server
+AMD A10-5800K APU,1,2,2960,1493,100,29.6,Desktop
+AMD A8 PRO-7600B APU,1,4,2962,1387,65,45.57,Desktop
+Intel Core i7-930 @ 2.80GHz,1,4,2962,1270,130,22.78,Desktop
+Intel Core i5-4300M @ 2.60GHz,1,2,2970,1730,37,80.27,Laptop
+Intel Pentium G4560T @ 2.90GHz,1,2,2974,1708,35,84.97,Desktop
+Intel Core i7-3540M @ 3.00GHz,1,2,2977,1791,35,85.06,Laptop
+AMD FX-770K Quad-Core,1,2,2978,1449,65,45.82,Desktop
+Intel Xeon E5-2637 @ 3.00GHz,1,2,2978,1526,80,37.22,Server
+AMD A12-9730P,1,4,2980,1386,35,85.14,Laptop
+AMD FX-670K Quad-Core,1,2,2980,1578,65,45.85,Desktop
+AMD PRO A10-9700E,1,2,2985,1418,35,85.29,Desktop
+AMD FX-4300 Quad-Core,1,2,2986,1481,95,31.43,Desktop
+AMD Opteron 4174 HE,1,6,2986,1035,65,45.94,Server
+AMD PRO A8-8670E,1,4,2989,1382,35,85.4,Desktop
+Intel Atom x6425RE @ 1.90GHz,1,4,2990,1020,12,249.17,Mobile/Embedded
+AMD Athlon Silver 3050U,1,2,2993,1705,15,199.53,Laptop
+Intel Core i7-860 @ 2.80GHz,1,4,2993,1329,95,31.51,Desktop
+Intel Core i5-6200U @ 2.30GHz,1,2,2995,1553,15,199.67,Laptop
+AMD A8-8650,1,4,2996,1483,65,46.09,Desktop
+AMD Phenom II X6 1035T,1,6,3000,1226,95,31.58,Desktop
+Intel Core i5-3470T @ 2.90GHz,1,2,3002,1838,35,85.77,Desktop
+AMD A8-6600K APU,1,2,3007,1538,100,30.07,Desktop
+[Dual CPU] AMD Opteron 2356,2,4,3009,894,75,40.12,Server
+Intel Core i7-5650U @ 2.20GHz,1,2,3011,1897,15,200.73,Laptop
+Intel Core i7-4558U @ 2.80GHz,1,2,3013,1841,28,107.61,Laptop
+Intel Pentium GOLD 6500Y @ 1.10GHz,1,2,3016,1758,5,603.2,Mobile/Embedded
+Intel Core i3-7130U @ 2.70GHz,1,2,3018,1563,15,201.2,Laptop
+Intel Xeon L5630 @ 2.13GHz,1,4,3018,1033,40,75.45,Server
+AMD Embedded R-Series RX-421ND,1,4,3024,1337,35,86.4,Mobile/Embedded
+Intel Xeon X5550 @ 2.67GHz,1,4,3027,1270,95,31.86,Server
+AMD A10-5800B APU,1,2,3034,1579,100,30.34,Desktop
+AMD FX-4170 Quad-Core,1,2,3034,1464,125,24.27,Desktop
+AMD PRO A10-8770E,1,4,3036,1446,35,86.74,Desktop
+Intel Core i7-5600U @ 2.60GHz,1,2,3037,1776,15,202.47,Laptop
+Intel Core i3-6100H @ 2.70GHz,1,2,3041,1543,35,86.89,Laptop
+AMD Opteron X3418 APU,1,4,3043,1427,25,121.72,Server
+AMD PRO A12-8870E,1,4,3043,1440,35,86.94,Desktop
+Intel Pentium Silver N6000 @ 1.10GHz,1,4,3059,1411,6,509.83,Mobile/Embedded
+AMD Opteron 2435,1,6,3061,593,75,40.81,Server
+Intel Core i5-24050S @ 2.50GHz,1,4,3061,1397,65,47.09,Desktop
+Intel Pentium G4600T @ 3.00GHz,1,2,3062,1775,35,87.49,Desktop
+Intel Core i3-9100HL @ 1.60GHz,1,4,3065,1008,25,122.6,Mobile/Embedded
+[Quad CPU] Intel Xeon E5-2420 @ 1.90GHz,4,6,3065,1108,95,32.26,Server
+Intel Core i5-4210H @ 2.90GHz,1,2,3068,1781,47,65.28,Laptop
+Intel Xeon W3530 @ 2.80GHz,1,4,3068,1338,130,23.6,Server
+[Dual CPU] Intel Xeon E5335 @ 2.00GHz,2,4,3069,815,80,38.36,Server
+AMD A10-6790K APU,1,2,3071,1551,100,30.71,Desktop
+Intel Core i5-4570TE @ 2.70GHz,1,2,3074,1622,35,87.83,Desktop
+Intel Core i5-4200H @ 2.80GHz,1,2,3085,1790,47,65.64,Desktop
+Intel Core i7-875K @ 2.93GHz,1,4,3090,1352,95,32.53,Desktop
+Intel Core i7-5557U @ 3.10GHz,1,2,3092,1916,28,110.43,Laptop
+AMD FX-4330,1,2,3098,1559,95,32.61,Desktop
+Intel Core i5-4310M @ 2.70GHz,1,2,3100,1802,37,83.78,Laptop
+Intel Core i7-4578U @ 3.00GHz,1,2,3100,1932,28,110.71,Laptop
+Intel Pentium Silver J5005 @ 1.50GHz,1,4,3101,1206,10,310.1,Desktop
+AMD A10-6700 APU,1,4,3104,1604,65,47.75,Desktop
+AMD A10-6800B APU,1,2,3106,1654,100,31.06,Desktop
+Intel Core i5-5287U @ 2.90GHz,1,2,3108,1943,28,111,Laptop
+Intel Xeon W3540 @ 2.93GHz,1,4,3109,1297,130,23.92,Server
+Intel Core i5-6360U @ 2.00GHz,1,2,3110,1740,15,207.33,Laptop
+Intel Core i3-4160T @ 3.10GHz,1,2,3112,1748,35,88.91,Desktop
+Intel Core i3-4330T @ 3.00GHz,1,2,3115,1726,35,89,Desktop
+Intel Core i5-6198DU @ 2.30GHz,1,2,3115,1645,15,207.67,Laptop
+AMD FX-4200 Quad-Core,1,4,3119,1313,125,24.95,Desktop
+Intel Xeon X5560 @ 2.80GHz,1,4,3124,1384,95,32.88,Server
+AMD A8-7650K,1,2,3129,1405,65,48.14,Desktop
+Intel Core i7-870 @ 2.93GHz,1,4,3129,1382,95,32.94,Desktop
+AMD FX-4320,1,2,3140,1564,95,33.05,Desktop
+Intel Core i3-4350T @ 3.10GHz,1,2,3142,1762,35,89.77,Laptop
+Intel Core i3-6100TE @ 2.70GHz,1,2,3152,1636,35,90.06,Desktop
+AMD Ryzen 3 3250C,1,2,3153,1911,15,210.2,"Laptop, Mobile/Embedded"
+AMD Athlon Silver 7120U,1,2,3155,1946,15,210.33,Laptop
+Intel Xeon Gold 6262V @ 1.90GHz,1,3,3155,1486,135,23.37,Server
+Intel Core i5-2400S @ 2.50GHz,1,4,3157,1473,65,48.57,Desktop
+Intel Core i5-2405S @ 2.50GHz,1,4,3157,1434,65,48.57,Desktop
+Intel Pentium Gold G5400T @ 3.10GHz,1,2,3165,1815,35,90.43,Server
+Intel Atom C1110,1,4,3170,1233,13,243.85,Mobile/Embedded
+AMD PRO A12-9800E,1,4,3171,1518,35,90.6,Desktop
+Intel Core i7-4600M @ 2.90GHz,1,2,3186,1857,37,86.11,Laptop
+AMD A10-6800K APU,1,2,3189,1596,100,31.89,Desktop
+AMD A8-7670K,1,4,3192,1485,95,33.6,Desktop
+Intel Atom x6427FE @ 1.90GHz,1,4,3196,1016,12,266.33,Mobile/Embedded
+AMD Phenom II X6 1045T,1,6,3200,1282,95,33.68,Desktop
+AMD A10-7700K APU,1,2,3203,1435,95,33.72,Desktop
+Intel Core i5-6260U @ 1.80GHz,1,2,3207,1651,15,213.8,Laptop
+AMD A10-7800 APU,1,2,3208,1462,65,49.35,Desktop
+AMD A10-9700E,1,4,3211,1493,35,91.74,Desktop
+AMD PRO A8-8650B,1,4,3211,1490,65,49.4,Desktop
+Intel Core i7-950 @ 3.07GHz,1,4,3212,1378,130,24.71,Desktop
+Intel Xeon W3550 @ 3.07GHz,1,4,3214,1407,130,24.72,Server
+AMD A8-7600 APU,1,2,3215,1447,65,49.46,Desktop
+Intel Core i7-4610M @ 3.00GHz,1,2,3217,1875,37,86.95,Laptop
+Intel Core i3-4170T @ 3.20GHz,1,2,3218,1824,35,91.94,Desktop
+Intel Core i5-4330M @ 2.80GHz,1,2,3219,1878,37,87,Laptop
+Intel Core i7-2715QE @ 2.10GHz,1,4,3221,1287,45,71.58,Laptop
+Intel Core i5-4570T @ 2.90GHz,1,2,3224,1913,35,92.11,Desktop
+AMD A10-8750,1,2,3228,1516,65,49.66,Desktop
+Intel Core i5-6300U @ 2.40GHz,1,2,3230,1658,15,215.33,Laptop
+Intel Pentium D1508 @ 2.20GHz,1,2,3240,1760,25,129.6,Server
+[Dual CPU] AMD Opteron 2354,2,4,3242,899,115,28.19,Server
+Intel Core i3-4570T @ 2.90GHz,1,2,3244,1693,35,92.69,Desktop
+Intel Core i5-4400E @ 2.70GHz,1,2,3251,1804,37,87.86,Desktop
+Intel Pentium Silver J5040 @ 2.00GHz,1,4,3252,1347,10,325.2,Desktop
+Intel Core i3-6167U @ 2.70GHz,1,2,3255,1636,28,116.25,Laptop
+Intel Xeon W3570 @ 3.20GHz,1,4,3267,1466,130,25.13,Server
+Intel Xeon X3470 @ 2.93GHz,1,4,3267,1400,95,34.39,Server
+Intel Xeon X3480 @ 3.07GHz,1,4,3273,1409,95,34.45,Server
+Intel Core i7-6500U @ 2.50GHz,1,2,3274,1694,15,218.27,Laptop
+AMD A10-7860K,1,2,3281,1498,65,50.48,Desktop
+Intel Celeron 6600HE @ 2.60GHz,1,2,3286,1764,35,93.89,Mobile/Embedded
+Intel Core i3-4360T @ 3.20GHz,1,2,3286,1873,35,93.89,Desktop
+AMD Athlon Gold 3150C,1,2,3292,1706,15,219.47,"Laptop, Mobile/Embedded"
+Intel Xeon X5570 @ 2.93GHz,1,4,3294,1392,95,34.67,Server
+Intel Core i3-10110Y @ 1.00GHz,1,2,3297,2020,7,471,Laptop
+Intel Xeon L5609 @ 1.87GHz,1,4,3298,1160,40,82.45,Server
+AMD Embedded R-Series RX-421BD,1,4,3302,1477,35,94.34,"Laptop, Mobile/Embedded"
+AMD A8-9600,1,4,3304,1487,65,50.83,Desktop
+[Dual CPU] Intel Xeon E5504 @ 2.00GHz,2,4,3305,870,80,41.31,Server
+AMD FX-4350 Quad-Core,1,2,3310,1617,125,26.48,Desktop
+AMD FX-9830P,1,4,3310,1575,35,94.57,Laptop
+Intel Pentium Gold G5500T @ 3.20GHz,1,2,3311,1951,35,94.6,Desktop
+Intel Core i3-4130 @ 3.40GHz,1,2,3314,1883,54,61.37,Desktop
+Intel Celeron N5100 @ 1.10GHz,1,4,3315,1392,6,552.5,Laptop
+Intel Core i3-6100E @ 2.70GHz,1,2,3315,1688,35,94.71,Laptop
+AMD A10 PRO-7800B APU,1,2,3319,1493,65,51.06,Desktop
+Intel Core i7-880 @ 3.07GHz,1,4,3319,1442,95,34.94,Desktop
+AMD Athlon X4 840,1,2,3321,1487,65,51.09,Desktop
+AMD PRO A8-9600,1,2,3322,1513,65,51.11,Desktop
+AMD Phenom II X6 1055T,1,6,3323,1328,125,26.58,Desktop
+Snapdragon 850 @ 2.96 GHz,1,8,3326,1424,5,665.2,"Laptop, Mobile/Embedded"
+AMD FX-4150 Quad-Core,1,4,3327,1465,125,26.62,Desktop
+AMD Phenom II X6 1405T,1,6,3335,1247,95,35.11,Desktop
+Intel Pentium Gold G6405T @ 3.50GHz,1,2,3341,1936,35,95.46,Desktop
+Intel Xeon W5590 @ 3.33GHz,1,4,3342,1564,130,25.71,Server
+Intel Core i7-960 @ 3.20GHz,1,4,3347,1458,130,25.75,Desktop
+Intel Core i7-6560U @ 2.20GHz,1,2,3358,1694,15,223.87,Laptop
+Intel Core i3-4370T @ 3.30GHz,1,2,3361,1911,35,96.03,Desktop
+AMD Ryzen Embedded R1600,1,2,3365,1779,25,134.6,Mobile/Embedded
+AMD Athlon X4 850,1,4,3366,1575,65,51.78,Desktop
+Intel Xeon W3565 @ 3.20GHz,1,4,3366,1504,130,25.89,Server
+Intel Core i3-7167U @ 2.80GHz,1,2,3368,1705,28,120.29,Laptop
+Intel Xeon W5580 @ 3.20GHz,1,4,3368,1499,130,25.91,Server
+AMD FX-B4150 Quad-Core,1,2,3369,1425,95,35.46,Desktop
+Intel Xeon E5-2609 v2 @ 2.50GHz,1,4,3369,1356,80,42.11,Server
+Intel Core i5-4340M @ 2.90GHz,1,2,3376,2036,37,91.24,Laptop
+AMD Opteron 6136,1,8,3381,549,115,29.4,Server
+Intel Core i5-6267U @ 2.90GHz,1,2,3384,1844,28,120.86,Laptop
+Intel Core i5-L16G7 @ 1.40GHz,1,5,3386,1612,7,483.71,Laptop
+AMD Phenom II X6 1065T,1,6,3387,1362,95,35.65,Desktop
+Intel Core i5-7200U @ 2.50GHz,1,2,3387,1750,15,225.8,Laptop
+Intel Core i5-2500S @ 2.70GHz,1,4,3391,1644,65,52.17,Desktop
+Intel Xeon E5-4603 @ 2.00GHz,1,4,3391,953,95,35.69,Server
+AMD A10-7850K APU,1,2,3393,1497,95,35.72,Desktop
+Snapdragon 7c @ 2.40 GHz,1,8,3395,1225,9,377.22,"Laptop, Mobile/Embedded"
+Intel Core i3-4150 @ 3.50GHz,1,2,3398,1940,54,62.93,Desktop
+AMD Opteron 4226,1,3,3400,1157,95,35.79,Server
+[Dual CPU] Intel Xeon E5405 @ 2.00GHz,2,4,3402,875,80,42.52,Server
+Intel Pentium Silver N5020 @ 1.10GHz,1,4,3404,1307,6,567.33,Laptop
+Intel Core i7-2635QM @ 2.00GHz,1,4,3406,1206,45,75.69,Laptop
+AMD Athlon X4 870K,1,2,3410,1558,95,35.89,Desktop
+AMD Phenom II X6 1075T,1,6,3423,1379,125,27.38,Desktop
+Intel Core i7-965 @ 3.20GHz,1,4,3424,1475,130,26.34,Desktop
+AMD A8-7500,1,2,3425,1403,65,52.69,Desktop
+AMD Embedded R-Series RX-418GD Radeon R6,1,4,3426,1467,35,97.89,"Laptop, Mobile/Embedded"
+Intel Core i3-7100H @ 3.00GHz,1,2,3430,1668,35,98,Laptop
+Intel Core i5-2300 @ 2.80GHz,1,4,3430,1428,95,36.11,Desktop
+AMD Athlon X4 860K,1,2,3432,1528,95,36.13,Desktop
+Intel Core i7-6600U @ 2.60GHz,1,2,3432,1798,15,228.8,Laptop
+AMD Opteron X3421 APU,1,4,3440,1515,35,98.29,Server
+AMD A10-7870K,1,2,3442,1506,95,36.23,Desktop
+Intel Xeon X5698 @ 4.40GHz,1,2,3447,1922,130,26.52,Server
+Intel Pentium Gold G5420T @ 3.20GHz,1,2,3452,1956,35,98.63,Desktop
+AMD A10 PRO-7850B APU,1,2,3453,1572,95,36.35,Desktop
+Intel Core i7-6498DU @ 2.50GHz,1,2,3454,1808,15,230.27,Laptop
+[Dual CPU] Intel Xeon E5345 @ 2.33GHz,2,4,3458,946,80,43.22,Server
+Intel Core i3-4340 @ 3.60GHz,1,2,3460,1979,54,64.07,Desktop
+Intel Xeon E5-1603 @ 2.80GHz,1,4,3463,1338,130,26.64,Server
+AMD A12-9800E,1,4,3471,1617,35,99.17,Desktop
+AMD Opteron 6164 HE,1,12,3478,399,85,40.92,Server
+AMD Opteron 4365 EE,1,4,3485,958,40,87.12,Server
+Intel Core i7-975 @ 3.33GHz,1,4,3493,1499,130,26.87,Desktop
+Intel Xeon E5-2407 v2 @ 2.40GHz,1,4,3504,1068,80,43.8,Server
+AMD Ryzen Embedded V1202B,1,2,3512,1624,15,234.13,"Laptop, Mobile/Embedded"
+Intel Xeon E5-2418L @ 2.00GHz,1,4,3518,977,50,70.36,Server
+AMD A10-7890K,1,2,3519,1570,95,37.04,Desktop
+[Dual CPU] AMD Opteron 2373 EE,2,4,3521,865,60,58.68,Server
+Intel Core i3-4160 @ 3.60GHz,1,2,3522,1998,54,65.22,Desktop
+Intel Pentium N6415 @ 1.20GHz,1,4,3532,1539,6.5,543.38,Mobile/Embedded
+Intel Pentium G4560 @ 3.50GHz,1,2,3533,2094,54,65.43,Desktop
+Intel Pentium Gold G6400T @ 3.40GHz,1,2,3541,2101,35,101.17,Desktop
+Intel Core i3-4330 @ 3.50GHz,1,2,3542,1973,54,65.59,Desktop
+AMD A8-7680,1,4,3544,1619,45,78.76,Laptop
+Intel Core i3-4350 @ 3.60GHz,1,2,3548,1973,54,65.7,Desktop
+[Dual CPU] Intel Xeon E5603 @ 1.60GHz,2,4,3548,710,80,44.35,Server
+AMD A10-9700,1,4,3551,1618,65,54.63,Desktop
+Intel Core i3-8130U @ 2.20GHz,1,2,3551,1884,15,236.73,Laptop
+Intel Core i7-2630QM @ 2.00GHz,1,4,3553,1226,45,78.96,Laptop
+AMD Opteron 6176 SE,1,12,3564,507,140,25.46,Server
+AMD PRO A10-8770,1,4,3572,1599,65,54.95,Desktop
+Intel Core i3-1000NG4 @ 1.10GHz,1,2,3572,1769,9,396.89,Laptop
+Intel Core i7-6660U @ 2.40GHz,1,2,3577,1925,15,238.47,Laptop
+Intel Core i3-4170 @ 3.70GHz,1,2,3581,2052,54,66.31,Desktop
+Intel Xeon E5620 @ 2.40GHz,1,4,3592,1103,80,44.9,Server
+AMD Athlon X4 950,1,4,3596,1638,65,55.32,Desktop
+AMD A12-9800,1,2,3597,1668,65,55.34,Desktop
+Intel Pentium Gold G5600T @ 3.30GHz,1,2,3601,2025,35,102.89,Desktop
+Intel Core i7-6650U @ 2.20GHz,1,2,3605,1807,15,240.33,Laptop
+Intel Xeon W3580 @ 3.33GHz,1,4,3609,1557,130,27.76,Server
+Intel Pentium G4600 @ 3.60GHz,1,2,3610,2169,51,70.78,Desktop
+Intel Core i5-7267U @ 3.10GHz,1,2,3632,1971,28,129.71,Laptop
+MediaTek Kompanio 520/528 (MT8186/MT8186T),1,8,3638,1342,4,909.5,Mobile/Embedded
+Intel Core i7-7500U @ 2.70GHz,1,2,3645,1922,15,243,Laptop
+Intel Core i3-4360 @ 3.70GHz,1,2,3647,2091,54,67.54,Desktop
+Intel Core i5-4460T @ 1.90GHz,1,4,3647,1487,35,104.2,Desktop
+Intel Core i5-7300U @ 2.60GHz,1,2,3650,1902,15,243.33,Laptop
+AMD PRO A10-9700,1,2,3652,1644,65,56.18,Desktop
+Intel Core i5-2310 @ 2.90GHz,1,4,3652,1490,95,38.44,Desktop
+Intel Core i3-6100T @ 3.20GHz,1,2,3657,1869,35,104.49,Desktop
+AMD Athlon X4 880K,1,2,3659,1633,95,38.52,Desktop
+Intel Core i5-2320 @ 3.00GHz,1,4,3664,1519,95,38.57,Desktop
+[Dual CPU] AMD Opteron 2374 HE,2,4,3667,915,55,66.67,Server
+Intel Core i7-6567U @ 3.30GHz,1,2,3676,2082,28,131.29,Laptop
+AMD FX-6100 Six-Core,1,3,3684,1317,95,38.78,Desktop
+AMD Ryzen 3 2200U,1,2,3690,1675,15,246,Laptop
+AMD Athlon PRO 200GE,1,2,3693,1736,35,105.51,Desktop
+AMD Opteron 6174,1,12,3697,488,115,32.15,Server
+Intel Pentium Gold G6505T @ 3.60GHz,1,2,3698,2271,35,105.66,Desktop
+AMD PRO A12-9800,1,4,3705,1686,65,57,Desktop
+Intel Core i7-7600U @ 2.80GHz,1,2,3706,2022,15,247.07,Laptop
+Intel Xeon L5638 @ 2.00GHz,1,6,3707,862,60,61.78,Server
+[Dual CPU] Intel Xeon E5506 @ 2.13GHz,2,4,3710,911,80,46.38,Server
+AMD Opteron 3280,1,8,3723,1036,65,57.28,Server
+Intel Xeon E3-1265L @ 2.40GHz,1,4,3726,1395,45,82.8,Server
+Intel Core i5-3335S @ 2.70GHz,1,4,3727,1744,65,57.34,Desktop
+Intel Xeon E5-1607 @ 3.00GHz,1,4,3731,1438,130,28.7,Server
+Intel Pentium Gold G5400 @ 3.70GHz,1,2,3736,2197,54,69.19,Desktop
+Intel Core i7-2670QM @ 2.20GHz,1,4,3737,1311,45,83.04,Laptop
+Intel Pentium Gold G5420 @ 3.80GHz,1,2,3738,2250,54,69.22,Desktop
+Intel Core i5-7287U @ 3.30GHz,1,2,3743,2157,28,133.68,Laptop
+AMD PRO A10-8850B,1,2,3752,1611,95,39.49,Desktop
+Intel Pentium G4620 @ 3.70GHz,1,2,3754,2249,51,73.61,Desktop
+Intel Core i3-7100T @ 3.40GHz,1,2,3757,1940,35,107.34,Desktop
+AMD Phenom II X6 1090T,1,6,3761,1454,125,30.09,Desktop
+Intel Core i7-7560U @ 2.40GHz,1,2,3780,1980,15,252,Laptop
+Intel Xeon E5640 @ 2.67GHz,1,4,3782,1175,80,47.28,Server
+Intel Core i3-8145U @ 2.10GHz,1,2,3790,2098,15,252.67,Laptop
+Intel Xeon E5630 @ 2.53GHz,1,4,3790,1186,80,47.38,Server
+AMD Athlon X4 845,1,2,3792,1678,65,58.34,Desktop
+AMD Ryzen 3 3200U,1,2,3795,1808,15,253,Laptop
+Intel Core i5-2380P @ 3.10GHz,1,4,3797,1607,95,39.97,Desktop
+AMD Ryzen Embedded R1505G,1,2,3810,1828,15,254,"Laptop, Mobile/Embedded"
+AMD Athlon X4 970,1,4,3811,1700,65,58.63,Desktop
+AMD Ryzen 3 3250U,1,2,3815,1775,15,254.33,Laptop
+Intel Xeon E5-2603 v3 @ 1.60GHz,1,6,3817,930,85,44.91,Server
+[Dual CPU] Intel Xeon X5355 @ 2.66GHz,2,4,3819,1055,120,31.82,Server
+Intel Core i5-6287U @ 3.10GHz,1,2,3823,1995,28,136.54,Laptop
+Intel Pentium Gold G5500 @ 3.80GHz,1,2,3823,2247,54,70.8,Desktop
+Intel Pentium Gold G5600 @ 3.90GHz,1,2,3825,2276,54,70.83,Desktop
+Intel Core i7-2675QM @ 2.20GHz,1,4,3828,1288,45,85.07,Laptop
+[Dual CPU] Intel Xeon E5410 @ 2.33GHz,2,4,3829,1013,80,47.86,Server
+Snapdragon 7c Gen 2 @ 2.55 GHz,1,8,3844,1482,7,549.14,"Laptop, Mobile/Embedded"
+Intel Core i5-7360U @ 2.30GHz,1,2,3856,2103,15,257.07,Laptop
+Intel Core i3-4370 @ 3.80GHz,1,2,3857,2156,54,71.43,Desktop
+AMD Phenom II X6 1100T,1,6,3864,1500,125,30.91,Desktop
+AMD Ryzen Embedded R2312,1,2,3865,1943,25,154.6,Mobile/Embedded
+Intel Core i5-2400 @ 3.10GHz,1,4,3866,1579,95,40.69,Desktop
+AMD PRO A12-8870,1,4,3869,1782,65,59.52,Desktop
+Intel Celeron J6412 @ 2.00GHz,1,4,3870,1382,10,387,Mobile/Embedded
+Intel Pentium Gold G6500T @ 3.50GHz,1,2,3874,2238,35,110.69,Desktop
+Intel Core i5-3330S @ 2.70GHz,1,4,3885,1707,65,59.77,Desktop
+AMD FX-6120 Six-Core,1,3,3887,1409,95,40.92,Desktop
+Intel Xeon E3-1220 @ 3.10GHz,1,4,3897,1548,80,48.71,Server
+Intel Atom x6413E @ 1.50GHz,1,4,3903,1509,9,433.67,Mobile/Embedded
+Intel Core i3-10110U @ 2.10GHz,1,2,3903,2199,15,260.2,Laptop
+Intel Atom x6425E @ 2.00GHz,1,4,3905,1516,12,325.42,Mobile/Embedded
+Intel Pentium Gold G6400E @ 3.80GHz,1,2,3908,2384,58,67.38,Mobile/Embedded
+Intel Xeon E3-1225 @ 3.10GHz,1,4,3909,1581,95,41.15,Server
+AMD Opteron 4332 HE,1,6,3911,1362,65,60.17,Server
+AMD Athlon 300U,1,2,3923,1799,15,261.53,Laptop
+Intel Core i5-3340S @ 2.80GHz,1,4,3928,1752,65,60.43,Desktop
+Intel Atom C3958 @ 2.00GHz,1,16,3929,737,31,126.74,Server
+AMD Opteron 4334,1,3,3949,1269,95,41.57,Server
+Intel Core i3-7101TE @ 3.40GHz,1,2,3957,2020,35,113.06,Desktop
+Intel Core i5-3570T @ 2.30GHz,1,4,3962,1695,45,88.04,Desktop
+Intel Core i5-4470 @ 3.30GHz,1,4,3971,1475,84,47.27,Desktop
+[Dual CPU] Intel Xeon L5410 @ 2.33GHz,2,4,3974,1009,50,79.48,Server
+Intel Core i5-7260U @ 2.20GHz,1,2,3987,1987,15,265.8,Laptop
+AMD Athlon Gold 3150U,1,2,3992,1764,15,266.13,Laptop
+Intel Core i7-2720QM @ 2.20GHz,1,4,4000,1368,45,88.89,Laptop
+Intel Core i3-6300T @ 3.30GHz,1,2,4002,2018,35,114.34,Desktop
+Intel Celeron G6900T,1,2,4003,2343,35,114.37,Desktop
+AMD Opteron 6212,1,4,4007,1085,115,34.84,Server
+Intel Core i3-6098P @ 3.60GHz,1,2,4017,2113,54,74.39,Desktop
+[Dual CPU] Intel Xeon L5506 @ 2.13GHz,2,4,4019,967,60,66.98,Server
+Intel Core i7-2710QE @ 2.10GHz,1,4,4044,1393,45,89.87,Laptop
+AMD FX-8100 Eight-Core,1,4,4046,1137,95,42.59,Desktop
+Intel Celeron N5105 @ 2.00GHz,1,4,4055,1510,10,405.5,Mobile/Embedded
+AMD Ryzen 3 PRO 2100GE,1,2,4062,1809,35,116.06,Desktop
+Intel Xeon E3-1260L @ 2.40GHz,1,4,4063,1455,45,90.29,Server
+Intel Core i5-4590T @ 2.00GHz,1,4,4070,1654,35,116.29,Desktop
+AMD Opteron 6234,1,6,4072,547,115,35.41,Server
+Intel Core i7-7660U @ 2.50GHz,1,2,4072,2153,15,271.47,Laptop
+Intel Core i7-7567U @ 3.50GHz,1,2,4073,2194,28,145.46,Laptop
+AMD Athlon PRO 300U,1,2,4080,1931,15,272,Laptop
+Intel Celeron N5095 @ 2.00GHz,1,4,4086,1504,15,272.4,Desktop
+Intel Core i5-3330 @ 3.00GHz,1,4,4098,1721,77,53.22,Desktop
+Intel Core i3-8145UE @ 2.20GHz,1,2,4099,2335,15,273.27,Laptop
+[Dual CPU] Intel Xeon E5420 @ 2.50GHz,2,4,4099,1087,80,51.24,Server
+[Dual CPU] AMD Opteron 2387,2,4,4105,1107,75,54.73,Server
+AMD Opteron 3365,1,4,4105,1132,65,63.15,Server
+AMD FX-6200 Six-Core,1,3,4106,1408,125,32.85,Desktop
+AMD Athlon 200GE,1,2,4115,1803,35,117.57,Desktop
+Intel Celeron N5095A @ 2.00GHz,1,4,4117,1514,15,274.47,Desktop
+Intel Core i5-2500K @ 3.30GHz,1,4,4117,1698,95,43.34,Desktop
+Intel Core i5-2500 @ 3.30GHz,1,4,4118,1704,95,43.35,Desktop
+Intel Pentium Gold G6400 @ 4.00GHz,1,2,4122,2467,58,71.07,Desktop
+Intel Pentium Gold G5600F @ 3.90GHz,1,2,4124,2255,54,76.37,Desktop
+AMD Opteron 3380,1,8,4134,1107,65,63.6,Server
+Intel Core i5-2550K @ 3.40GHz,1,4,4134,1755,95,43.52,Desktop
+Intel Pentium Gold G6500 @ 4.10GHz,1,2,4140,2488,58,71.38,Desktop
+Intel Core i3-6100 @ 3.70GHz,1,2,4141,2189,51,81.2,Desktop
+AMD Ryzen Embedded R1606G,1,2,4144,1894,15,276.27,"Desktop, Mobile/Embedded"
+Intel Xeon E5-1607 v2 @ 3.00GHz,1,4,4173,1636,130,32.1,Server
+Intel Pentium J6426 @ 2.00GHz,1,4,4180,1565,10,418,Mobile/Embedded
+[Dual CPU] AMD Opteron 4130,2,4,4200,1086,95,44.21,Server
+Intel Core i5-2450P @ 3.20GHz,1,4,4203,1679,95,44.24,Desktop
+AMD FX-6300 Six-Core,1,3,4210,1489,95,44.32,Desktop
+Intel Core i3-7300T @ 3.50GHz,1,2,4211,2136,35,120.31,Desktop
+[Dual CPU] Intel Xeon L5420 @ 2.50GHz,2,4,4221,1100,50,84.42,Server
+Intel Core i3-8140U @ 2.10GHz,1,2,4227,2135,15,281.8,Laptop
+Intel Core i5-3340 @ 3.10GHz,1,4,4227,1769,77,54.9,Desktop
+Intel Core i7-2920XM @ 2.50GHz,1,4,4240,1426,55,77.09,Laptop
+Intel Pentium Gold G6405 @ 4.10GHz,1,2,4244,2512,58,73.17,Desktop
+Intel Core i5-6350HQ @ 2.30GHz,1,4,4255,1420,45,94.56,Laptop
+[Dual CPU] Intel Xeon E5507 @ 2.27GHz,2,4,4256,1026,80,53.2,Server
+[Dual CPU] Intel Xeon E5606 @ 2.13GHz,2,4,4258,882,80,53.22,Server
+Intel Core i3-8109U @ 3.00GHz,1,2,4262,2122,28,152.21,Laptop
+[Dual CPU] Intel Xeon L5430 @ 2.66GHz,2,4,4269,1131,50,85.38,Server
+Intel Pentium Gold G5620 @ 4.00GHz,1,2,4272,2461,54,79.11,Desktop
+AMD Athlon 300GE,1,2,4273,1869,35,122.09,Desktop
+Intel Pentium Gold G6600 @ 4.20GHz,1,2,4273,2507,58,73.67,Desktop
+Intel Core i5-3475S @ 2.90GHz,1,4,4277,1836,65,65.8,Desktop
+Intel Core i5-3350P @ 3.10GHz,1,4,4281,1792,69,62.04,Desktop
+Intel Core i5-6400T @ 2.20GHz,1,4,4282,1637,35,122.34,Desktop
+[Dual CPU] Intel Xeon E5430 @ 2.66GHz,2,4,4287,1161,80,53.59,Server
+AMD Athlon PRO 300GE,1,2,4308,1911,35,123.09,Desktop
+Intel Core i3-8100H @ 3.00GHz,1,4,4310,1823,45,95.78,Mobile/Embedded
+Intel Core i3-7100 @ 3.90GHz,1,2,4327,2304,51,84.84,Desktop
+Intel Core i5-4430S @ 2.70GHz,1,4,4335,1767,65,66.69,Desktop
+Intel Core i3-6300 @ 3.80GHz,1,2,4343,2280,51,85.16,Desktop
+Intel Celeron J6413 @ 1.80GHz,1,4,4349,1515,10,434.9,Mobile/Embedded
+[Dual CPU] Intel Xeon X5365 @ 3.00GHz,2,4,4350,1215,150,29,Server
+AMD FX-6130 Six-Core,1,3,4353,1390,125,34.82,Desktop
+Intel Pentium Gold G6505 @ 4.20GHz,1,2,4371,2649,58,75.36,Desktop
+Intel Core i7-2760QM @ 2.40GHz,1,4,4373,1534,45,97.18,Laptop
+Intel Core i5-3450S @ 2.80GHz,1,4,4375,1873,65,67.31,Desktop
+AMD Opteron 4386,1,4,4378,1012,95,46.08,Server
+AMD Athlon 320GE,1,2,4382,1922,35,125.2,Desktop
+Intel Core i7-2820QM @ 2.30GHz,1,4,4385,1488,45,97.44,Laptop
+Intel Core i5-3470S @ 2.90GHz,1,4,4387,1889,65,67.49,Desktop
+Intel Core i3-8121U @ 2.20GHz,1,2,4388,1942,15,292.53,Laptop
+Intel Core i5-4440S @ 2.80GHz,1,4,4396,1801,65,67.63,Desktop
+Intel Xeon L5639 @ 2.13GHz,1,6,4419,1102,60,73.65,Server
+Intel Core i5-3550S @ 3.00GHz,1,4,4422,1961,65,68.03,Desktop
+Intel Xeon E5-1603 v3 @ 2.80GHz,1,4,4423,1616,140,31.59,Server
+AMD Athlon 220GE,1,2,4424,1959,35,126.4,Laptop
+Intel Pentium 6805 @ 1.10GHz,1,2,4424,1834,15,294.93,Laptop
+Intel Core i3-7101E @ 3.90GHz,1,2,4430,2407,54,82.04,Desktop
+Intel Xeon E5-2609 v3 @ 1.90GHz,1,6,4430,1097,80,55.38,Server
+AMD FX-6330 Six-Core,1,3,4433,1531,95,46.66,Desktop
+[Dual CPU] Intel Xeon E5-2603 @ 1.80GHz,2,4,4433,873,80,55.41,Server
+Intel Xeon Bronze 3104 @ 1.70GHz,1,6,4437,1013,85,52.2,Server
+[Dual CPU] Intel Xeon E5440 @ 2.83GHz,2,4,4440,1241,80,55.5,Server
+Intel Core i5-4670T @ 2.30GHz,1,4,4441,1771,45,98.69,Desktop
+Intel Xeon X5647 @ 2.93GHz,1,4,4441,1363,130,34.16,Server
+Intel Core i3-6320 @ 3.90GHz,1,2,4473,2308,51,87.71,Desktop
+Intel Core i5-10210Y @ 1.00GHz,1,4,4475,1858,7,639.29,Laptop
+AMD Athlon 3000G,1,2,4484,1984,35,128.11,Desktop
+Intel Core i5-6442EQ @ 1.90GHz,1,4,4487,1649,25,179.48,Laptop
+[Dual CPU] AMD Opteron 2427,2,6,4499,906,75,59.99,Server
+Intel Core i5-3450 @ 3.10GHz,1,4,4501,1870,77,58.45,Desktop
+AMD Opteron 4280,1,4,4504,1141,95,47.41,Server
+Intel Pentium Gold G6605 @ 4.30GHz,1,2,4509,2619,58,77.74,Desktop
+[Dual CPU] AMD Opteron 2382,2,4,4516,1157,115,39.27,Server
+Intel Core i7-2860QM @ 2.50GHz,1,4,4521,1549,45,100.47,Laptop
+Intel Core i3-1115GRE @ 3.00GHz,1,2,4524,2125,15,301.6,Mobile/Embedded
+Intel Core i3-7300 @ 4.00GHz,1,2,4526,2410,51,88.75,Desktop
+[Dual CPU] Intel Xeon E5462 @ 2.80GHz,2,4,4527,1241,80,56.59,Server
+AMD Athlon 240GE,1,2,4534,1968,35,129.54,Desktop
+Intel Core i5-4570R @ 2.70GHz,1,4,4534,1796,65,69.75,Desktop
+AMD Athlon Silver 3050GE,1,2,4545,2016,35,129.86,Laptop
+AMD FX-6350 Six-Core,1,3,4548,1559,125,36.38,Desktop
+Intel Celeron G6900,1,2,4550,2728,46,98.91,Desktop
+[Dual CPU] Intel Xeon L5520 @ 2.27GHz,2,4,4561,969,60,76.02,Server
+Intel Core i5-4460S @ 2.90GHz,1,4,4581,1846,65,70.48,Desktop
+Intel Core i5-4690T @ 2.50GHz,1,4,4589,1898,45,101.98,Desktop
+[Dual CPU] Intel Xeon E5520 @ 2.27GHz,2,4,4613,1106,80,57.66,Server
+Intel Atom C3758 @ 2.20GHz,1,8,4614,867,25,184.56,Server
+Intel Core i5-3570S @ 3.10GHz,1,4,4625,1990,65,71.15,Desktop
+Intel Core i7-2600S @ 2.80GHz,1,4,4628,1733,65,71.2,Desktop
+Intel Core i7-6970HQ @ 2.80GHz,1,4,4632,1532,45,102.93,Laptop
+AMD Athlon Silver PRO 3125GE,1,2,4633,2074,35,132.37,Desktop
+AMD Ryzen Embedded V1500B,1,4,4633,1211,16,289.56,Mobile/Embedded
+AMD FX-8120 Eight-Core,1,4,4638,1334,125,37.1,Desktop
+Intel Xeon L5640 @ 2.27GHz,1,6,4645,1117,60,77.42,Server
+Intel Core i7-3612QM @ 2.10GHz,1,4,4655,1536,35,133,Laptop
+Intel Core i5-4430 @ 3.00GHz,1,4,4659,1799,84,55.46,Desktop
+Intel Xeon X5667 @ 3.07GHz,1,4,4659,1460,95,49.04,Server
+AMD Opteron 4284,1,4,4665,1181,95,49.11,Server
+Intel Xeon D-1518 @ 2.20GHz,1,4,4674,1356,35,133.54,Server
+Intel Xeon E3-1220 V2 @ 3.10GHz,1,4,4674,1875,69,67.74,Server
+Intel Core i5-3470 @ 3.20GHz,1,4,4675,1940,77,60.71,Desktop
+Intel Xeon E5-1603 v4 @ 2.80GHz,1,4,4683,1753,140,33.45,Server
+Intel Xeon E5-2603 v4 @ 1.70GHz,1,6,4695,1046,85,55.24,Server
+Intel Core i5-6300HQ @ 2.30GHz,1,4,4696,1791,45,104.36,Laptop
+Intel Core i7-3632QM @ 2.20GHz,1,4,4697,1585,35,134.2,Laptop
+Intel Atom C3858 @ 2.00GHz,1,12,4707,652,25,188.28,Server
+[Dual CPU] Intel Xeon E5450 @ 3.00GHz,2,4,4710,1289,80,58.88,Server
+Intel Core i5-7400T @ 2.40GHz,1,4,4724,1761,35,134.97,Desktop
+AMD Athlon Gold 7220U,1,2,4740,2094,15,316,Laptop
+Intel Core i5-4470S @ 3.00GHz,1,4,4742,1756,65,72.95,Desktop
+Intel Xeon E3-1225 V2 @ 3.20GHz,1,4,4750,1933,77,61.69,Server
+AMD Opteron 6220,1,4,4753,1203,115,41.33,Server
+Intel Core i7-2960XM @ 2.70GHz,1,4,4754,1598,55,86.44,Laptop
+[Dual CPU] Intel Xeon E5472 @ 3.00GHz,2,4,4765,1326,80,59.56,Server
+Intel Core i5-6500TE @ 2.30GHz,1,4,4772,1837,35,136.34,Desktop
+Intel Core i5-4440 @ 3.10GHz,1,4,4788,1859,84,57,Desktop
+Intel Core i5-6500T @ 2.50GHz,1,4,4789,1791,35,136.83,Desktop
+Intel Core i3-9100TE @ 2.20GHz,1,4,4791,1676,35,136.89,Laptop
+[Dual CPU] Intel Xeon E5540 @ 2.53GHz,2,4,4793,1104,80,59.91,Server
+[Dual CPU] Intel Xeon X7460 @ 2.66GHz,2,6,4803,922,130,36.95,Server
+Intel Core i5-3550 @ 3.30GHz,1,4,4810,1996,77,62.47,Desktop
+[Dual CPU] Intel Xeon X5450 @ 3.00GHz,2,4,4814,1292,120,40.12,Server
+Intel Core i7-3635QM @ 2.40GHz,1,4,4816,1702,45,107.02,Laptop
+Intel Xeon Bronze 3204 @ 1.90GHz,1,6,4832,1101,85,56.85,Server
+Intel Core i5-7442EQ @ 2.10GHz,1,4,4834,1819,25,193.36,Laptop
+Intel Core i3-7320 @ 4.10GHz,1,2,4844,2504,51,94.98,Desktop
+AMD FX-8140 Eight-Core,1,4,4860,1273,95,51.16,Desktop
+Intel Core i7-4770TE @ 2.30GHz,1,4,4877,1653,45,108.38,Desktop
+Intel Core i5-4460 @ 3.20GHz,1,4,4887,1904,84,58.18,Desktop
+Intel Core i7-10510Y @ 1.20GHz,1,4,4905,1895,7,700.71,Laptop
+Intel Xeon E5-1410 @ 2.80GHz,1,4,4915,1487,80,61.44,Server
+Intel Xeon D-1520 @ 2.20GHz,1,4,4917,1270,45,109.27,Server
+Intel Core i3-1005G1 @ 1.20GHz,1,2,4919,2189,15,327.93,Laptop
+Intel Core i5-3570 @ 3.40GHz,1,4,4929,2046,77,64.01,Desktop
+Intel Core i7-3612QE @ 2.10GHz,1,4,4929,1678,35,140.83,Laptop
+Intel Xeon E5-1607 v3 @ 3.10GHz,1,4,4950,1815,140,35.36,Server
+Intel Core i5-3570K @ 3.40GHz,1,4,4952,2047,77,64.31,Desktop
+Intel Core i3-7350K @ 4.20GHz,1,2,4965,2575,60,82.75,Desktop
+[Dual CPU] Intel Xeon E5607 @ 2.27GHz,2,4,4969,1009,80,62.11,Server
+[Dual CPU] Intel Xeon X5472 @ 3.00GHz,2,4,4979,1326,120,41.49,Server
+Intel Xeon X5672 @ 3.20GHz,1,4,4996,1546,95,52.59,Server
+Intel Xeon E3-1235L v5 @ 2.00GHz,1,4,5013,1761,25,200.52,Server
+Intel Core i5-4570S @ 2.90GHz,1,4,5017,2004,65,77.18,Desktop
+[Dual CPU] Intel Xeon E5-2603 v2 @ 1.80GHz,2,4,5017,991,80,62.71,Server
+Intel Core i7-3610QE @ 2.30GHz,1,4,5026,1582,45,111.69,Laptop
+Intel Xeon E5-2420 @ 1.90GHz,1,6,5030,1089,95,52.95,Server
+Intel Core i5-4670K CPT @ 3.40GHz,1,4,5034,2042,84,59.93,Desktop
+Intel Xeon X5677 @ 3.47GHz,1,4,5043,1618,130,38.79,Server
+Intel Xeon E5645 @ 2.40GHz,1,6,5046,1156,80,63.08,Server
+Intel Xeon E3-1235 @ 3.20GHz,1,4,5053,1607,95,53.19,Server
+[Dual CPU] Intel Xeon X5460 @ 3.16GHz,2,4,5066,1357,120,42.22,Server
+Intel Core i5-5575R @ 2.80GHz,1,4,5078,2094,65,78.12,Desktop
+Intel Xeon W-2102 @ 2.90GHz,1,4,5079,1691,120,42.32,Server
+Intel Xeon E3-1505L v5 @ 2.00GHz,1,4,5083,1548,25,203.32,"Laptop, Server"
+Intel Core i5-7300HQ @ 2.50GHz,1,4,5088,1955,45,113.07,Laptop
+AMD FX-8320E Eight-Core,1,4,5090,1433,95,53.58,Desktop
+[Dual CPU] Intel Xeon X5482 @ 3.20GHz,2,4,5100,1406,150,34,Server
+Intel Core i5-6440HQ @ 2.60GHz,1,4,5106,1962,45,113.47,Laptop
+Intel Atom C3758R @ 2.40GHz,1,8,5116,956,26,196.77,Server
+Intel Core i7-3630QM @ 2.40GHz,1,4,5116,1685,45,113.69,Laptop
+Intel Core i7-3610QM @ 2.30GHz,1,4,5119,1665,45,113.76,Laptop
+[Dual CPU] Intel Xeon X5470 @ 3.33GHz,2,4,5125,1421,120,42.71,Server
+Intel Core i7-4765T @ 2.00GHz,1,4,5127,1629,35,146.49,Desktop
+Intel Core i5-4590S @ 3.00GHz,1,4,5134,2046,65,78.98,Desktop
+Intel Xeon E3-1230 @ 3.20GHz,1,4,5136,1665,80,64.2,Server
+Intel N200,1,4,5145,1917,6,857.5,Mobile/Embedded
+Intel Xeon E3-1265L V2 @ 2.50GHz,1,4,5145,1654,45,114.33,Server
+AMD FX-8310 Eight-Core,1,4,5149,1416,95,54.2,Desktop
+Intel Core i5-4670S @ 3.10GHz,1,4,5160,2089,65,79.38,Desktop
+Intel Core i5-6400 @ 2.70GHz,1,4,5164,1956,65,79.45,Desktop
+Intel Core i7-8665UE @ 1.70GHz,1,4,5170,1621,15,344.67,Laptop
+Intel Xeon E3-1220 v3 @ 3.10GHz,1,4,5179,1953,80,64.74,Server
+Intel Core i7-4702MQ @ 2.20GHz,1,4,5183,1703,37,140.08,Laptop
+Intel Pentium Gold 7505 @ 2.00GHz,1,2,5187,2259,15,345.8,Laptop
+Intel Core i7-3615QM @ 2.30GHz,1,4,5188,1706,45,115.29,Laptop
+Intel Xeon E5-1607 v4 @ 3.10GHz,1,4,5200,1922,140,37.14,Server
+Intel Xeon D-1527 @ 2.20GHz,1,4,5213,1552,35,148.94,Server
+[Dual CPU] Intel Xeon E5530 @ 2.40GHz,2,4,5214,1155,80,65.18,Server
+Intel Core i5-7500T @ 2.70GHz,1,4,5221,1920,35,149.17,Desktop
+Intel Core i5-4570 @ 3.20GHz,1,4,5222,2033,84,62.17,Desktop
+Intel Core i5-4670R @ 3.00GHz,1,4,5233,2164,65,80.51,Desktop
+AMD FX-8150 Eight-Core,1,4,5240,1430,125,41.92,Desktop
+AMD Opteron 6272,1,8,5240,753,115,45.57,Server
+Intel Core i7-6822EQ @ 2.00GHz,1,4,5241,1572,25,209.64,Laptop
+Intel Xeon E3-1230L v3 @ 1.80GHz,1,4,5251,1619,25,210.04,Server
+[Dual CPU] AMD Opteron 2435,2,6,5260,1122,75,70.13,Server
+Intel Xeon E5-2648L @ 1.80GHz,1,8,5262,981,70,75.17,Server
+[Dual CPU] Intel Xeon L5630 @ 2.13GHz,2,4,5267,964,40,131.68,Server
+Intel Core i3-8100T @ 3.10GHz,1,4,5274,1881,35,150.69,Desktop
+[Quad CPU] Intel Xeon E7320 @ 2.13GHz,4,4,5286,811,80,66.08,Server
+Intel Xeon E5-2620 @ 2.00GHz,1,6,5291,1109,95,55.69,Server
+Intel Xeon E3-1225 v3 @ 3.20GHz,1,4,5295,2009,84,63.04,Server
+Intel Core i7-4712MQ @ 2.30GHz,1,4,5299,1805,37,143.22,Laptop
+Intel Xeon E5-2630L @ 2.00GHz,1,6,5305,1119,60,88.42,Server
+AMD FX-8370E Eight-Core,1,4,5306,1463,95,55.85,Desktop
+AMD Opteron 6328,1,4,5306,1419,115,46.14,Server
+Intel Xeon X5687 @ 3.60GHz,1,4,5309,1636,130,40.84,Server
+AMD FX-8300 Eight-Core,1,4,5310,1493,95,55.89,Desktop
+Intel Xeon E3-1245 @ 3.30GHz,1,4,5334,1717,95,56.15,Server
+Intel Core i7-4702HQ @ 2.20GHz,1,4,5339,1633,37,144.3,Laptop
+Intel Core i7-4700MQ @ 2.40GHz,1,4,5345,1760,47,113.72,Laptop
+Intel Core i7-2600 @ 3.40GHz,1,4,5348,1741,95,56.29,Desktop
+Intel Core i7-4712HQ @ 2.30GHz,1,4,5352,1727,37,144.65,Laptop
+Intel Core i5-4590 @ 3.30GHz,1,4,5365,2084,84,63.87,Desktop
+Intel Pentium Silver N6005 @ 2.00GHz,1,4,5367,1769,10,536.7,"Laptop, Mobile/Embedded"
+Intel N95,1,4,5375,1934,15,358.33,"Laptop, Mobile/Embedded"
+Intel Xeon E3-1270 @ 3.40GHz,1,4,5376,1750,80,67.2,Server
+Intel Core i5-6402P @ 2.80GHz,1,4,5379,2004,65,82.75,Desktop
+Intel Xeon E5-2418L v2 @ 2.00GHz,1,6,5380,1078,50,107.6,Server
+[Dual CPU] Intel Xeon E5-2407 @ 2.20GHz,2,4,5394,1041,80,67.42,Server
+[Quad CPU] AMD Opteron 8356,4,4,5397,929,75,71.96,Server
+Intel Xeon E3-1240 @ 3.30GHz,1,4,5403,1723,80,67.54,Server
+Intel Core i7-4700EQ @ 2.40GHz,1,4,5417,1765,47,115.26,Desktop
+Intel Xeon E3-1290 @ 3.60GHz,1,4,5429,1834,95,57.15,Server
+Intel Xeon E5-2643 @ 3.30GHz,1,4,5433,1615,130,41.79,Server
+Intel Xeon E5-2609 v4 @ 1.70GHz,1,8,5443,1020,85,64.04,Server
+Intel Core i7-3770T @ 2.50GHz,1,4,5444,1830,45,120.98,Desktop
+Intel Core i5-6440EQ @ 2.70GHz,1,4,5445,2045,45,121,Laptop
+AMD FX-8320 Eight-Core,1,4,5447,1468,125,43.58,Desktop
+Intel Core i3-9100T @ 3.10GHz,1,4,5458,2067,35,155.94,Desktop
+[Dual CPU] Intel Xeon X5492 @ 3.40GHz,2,4,5469,1467,150,36.46,Server
+Intel Core i5-7400 @ 3.00GHz,1,4,5473,2083,65,84.2,Desktop
+Intel Core i7-2600K @ 3.40GHz,1,4,5489,1745,95,57.78,Desktop
+Intel Core i5-4670 @ 3.40GHz,1,4,5491,2136,84,65.37,Desktop
+Intel Xeon E5-2430 @ 2.20GHz,1,6,5492,1175,95,57.81,Server
+Intel Core i5-7440HQ @ 2.80GHz,1,4,5496,2077,45,122.13,Laptop
+Intel Core i7-4860EQ @ 1.80GHz,1,4,5500,1754,47,117.02,Laptop
+Intel N100,1,4,5501,1948,6,916.83,Mobile/Embedded
+Intel Core i7-4785T @ 2.20GHz,1,4,5503,1757,35,157.23,Desktop
+Intel Core i5-4690S @ 3.20GHz,1,4,5515,2200,65,84.85,Desktop
+Intel Xeon E3-1275 @ 3.40GHz,1,4,5516,1773,95,58.06,Server
+Intel Core i7-4710HQ @ 2.50GHz,1,4,5534,1780,47,117.74,Laptop
+Intel Xeon E5-2430L @ 2.00GHz,1,6,5539,1096,60,92.32,Server
+Intel Xeon E3-1226 v3 @ 3.30GHz,1,4,5540,2105,84,65.95,Server
+AMD Ryzen 3 2300U,1,4,5544,1748,15,369.6,Laptop
+Intel Xeon W-2104 @ 3.20GHz,1,4,5552,1814,120,46.27,Server
+Intel Core i5-5675R @ 3.10GHz,1,4,5561,2256,65,85.55,Desktop
+Intel Core i5-4670K @ 3.40GHz,1,4,5564,2144,84,66.24,Desktop
+Intel Atom x7425E,1,4,5570,2040,12,464.17,Mobile/Embedded
+AMD Opteron 6376,1,8,5572,1165,115,48.45,Server
+Intel Core i5-4690 @ 3.50GHz,1,4,5572,2193,84,66.33,Desktop
+Intel Core i7-3615QE @ 2.30GHz,1,4,5601,1802,45,124.47,Laptop
+Intel Core i5-6600T @ 2.70GHz,1,4,5603,2059,35,160.09,Desktop
+[Dual CPU] Intel Xeon X5550 @ 2.67GHz,2,4,5603,1312,95,58.98,Server
+Intel Core i5-5675C @ 3.10GHz,1,4,5606,2234,65,86.25,Desktop
+AMD Opteron 6366 HE,1,8,5613,1003,85,66.04,Server
+Intel Xeon E3-1280 @ 3.50GHz,1,4,5615,1804,95,59.11,Server
+Intel Core i7-4722HQ @ 2.40GHz,1,4,5620,1844,37,151.89,Laptop
+Intel Core i5-6500 @ 3.20GHz,1,4,5623,2107,65,86.51,Desktop
+AMD Opteron 6238,1,6,5625,1157,115,48.91,Server
+Intel Core i7-3820QM @ 2.70GHz,1,4,5630,1865,45,125.11,Laptop
+Intel Core i7-4700HQ @ 2.40GHz,1,4,5631,1793,47,119.81,Laptop
+AMD Opteron 6274,1,8,5643,871,115,49.07,Server
+Intel Xeon E3-1240L v3 @ 2.00GHz,1,4,5655,1739,25,226.2,Server
+[Dual CPU] AMD Opteron 4174 HE,2,6,5656,950,65,87.02,Server
+Intel Core i7-3720QM @ 2.60GHz,1,4,5667,1866,45,125.93,Laptop
+AMD Ryzen 5 3500C,1,4,5682,1984,15,378.8,Laptop
+Intel Xeon E3-1205 v6 @ 3.00GHz,1,4,5682,1875,65,87.42,Server
+Intel Core i5-4690K @ 3.50GHz,1,4,5685,2192,88,64.6,Desktop
+Intel Xeon E5649 @ 2.53GHz,1,6,5686,1327,80,71.08,Server
+Intel Core i7-4750HQ @ 2.00GHz,1,4,5693,1748,47,121.13,Laptop
+Intel Xeon D-1521 @ 2.40GHz,1,4,5696,1685,45,126.58,Server
+Intel Core i7-3740QM @ 2.70GHz,1,4,5699,1876,45,126.64,Laptop
+AMD Ryzen 3 3300U,1,4,5700,1849,15,380,Laptop
+Intel Core i7-3920XM @ 2.90GHz,1,4,5710,1916,55,103.82,Laptop
+Intel Core i5-7440EQ @ 2.90GHz,1,4,5711,2131,45,126.91,Laptop
+Intel Core i5-8365UE @ 1.60GHz,1,4,5711,2188,15,380.73,Laptop
+Intel Core i7-4800MQ @ 2.70GHz,1,4,5713,1910,47,121.55,Laptop
+Intel Xeon E5-1410 v2 @ 2.80GHz,1,4,5715,1656,80,71.44,Server
+Intel Xeon X5650 @ 2.67GHz,1,6,5715,1294,95,60.16,Server
+Intel Pentium Gold G7400T,1,2,5737,2549,35,163.91,Desktop
+Intel Core i5-1030NG7 @ 1.10GHz,1,4,5740,1763,10,574,Laptop
+Intel Core i7-2700K @ 3.50GHz,1,4,5744,1823,95,60.46,Desktop
+Intel Core i3-8300T @ 3.20GHz,1,4,5749,1987,25,229.96,Desktop
+Microsoft SQ1 @ 3.0 GHz,1,8,5750,1829,15,383.33,Laptop
+Intel Xeon Bronze 3106 @ 1.70GHz,1,8,5753,1002,85,67.68,Server
+Intel Xeon E3-1220 v6 @ 3.00GHz,1,4,5754,1869,72,79.92,Server
+Intel Core i7-3820 @ 3.60GHz,1,4,5763,1744,130,44.33,Desktop
+Intel Xeon E3-1225 v6 @ 3.30GHz,1,4,5765,2038,73,78.97,Server
+[Dual CPU] Intel Xeon L5639 @ 2.13GHz,2,6,5768,1010,60,96.13,Server
+Intel Core i7-4720HQ @ 2.60GHz,1,4,5769,1870,47,122.74,Laptop
+Intel Xeon E3-1268L v3 @ 2.30GHz,1,4,5770,1879,45,128.22,Server
+[Dual CPU] Intel Xeon E5-2637 @ 3.00GHz,2,2,5775,1654,80,72.19,Server
+AMD Opteron 4274 HE,1,4,5776,1060,65,88.86,Server
+AMD Ryzen 3 PRO 2300U,1,4,5795,1834,15,386.33,Laptop
+Intel Core i7-5700EQ @ 2.60GHz,1,4,5803,2092,47,123.47,Laptop
+Intel Xeon E3-1220 v5 @ 3.00GHz,1,4,5805,2064,80,72.56,Server
+Intel N97,1,4,5819,2051,12,484.92,Mobile/Embedded
+AMD Ryzen 3 3350U,1,4,5822,1925,15,388.13,Laptop
+Intel Core i7-3940XM @ 3.00GHz,1,4,5830,1919,55,106,Laptop
+Intel Core i7-4710MQ @ 2.50GHz,1,4,5844,1893,47,124.34,Laptop
+Intel Xeon E5-1620 @ 3.60GHz,1,4,5860,1769,130,45.08,Server
+[Dual CPU] Intel Xeon X5560 @ 2.80GHz,2,4,5864,1390,95,61.73,Server
+Intel Core i5-8250U @ 1.60GHz,1,4,5868,1906,15,391.2,Laptop
+Intel Xeon E5-2450L @ 1.80GHz,1,8,5880,1002,70,84,Server
+Intel Core i3-1115G4E @ 3.00GHz,1,2,5883,2636,15,392.2,Mobile/Embedded
+AMD Opteron 6378,1,8,5889,1127,115,51.21,Server
+[Dual CPU] Intel Xeon E5-2609 @ 2.40GHz,2,4,5891,1151,80,73.64,Server
+Intel Core i7-8550U @ 1.80GHz,1,4,5905,2049,15,393.67,Laptop
+Intel Xeon E-2104G @ 3.20GHz,1,4,5913,1956,65,90.97,Server
+Intel Core i7-3840QM @ 2.80GHz,1,4,5920,1934,45,131.56,Laptop
+Intel Core i5-7600T @ 2.80GHz,1,4,5927,2168,35,169.34,Desktop
+AMD Ryzen 3 PRO 3300U,1,4,5950,1931,15,396.67,Laptop
+Intel Core i5-8265U @ 1.60GHz,1,4,5954,2065,15,396.93,Laptop
+Intel Core i7-4770T @ 2.50GHz,1,4,5973,1931,45,132.73,Desktop
+Intel Xeon E3-1225 v5 @ 3.30GHz,1,4,5982,2122,80,74.78,Server
+AMD Ryzen Embedded V1404I,1,4,6007,1621,15,400.47,"Desktop, Mobile/Embedded"
+Intel Xeon X5660 @ 2.80GHz,1,6,6008,1371,95,63.24,Server
+AMD Ryzen 3 2200GE,1,4,6018,1931,35,171.94,Desktop
+Intel Core i5-7500 @ 3.40GHz,1,4,6037,2264,65,92.88,Desktop
+Intel Core i3-8100B @ 3.60GHz,1,4,6044,2339,65,92.98,Laptop
+Intel Core i5-6600 @ 3.30GHz,1,4,6050,2259,65,93.08,Desktop
+[Dual CPU] AMD Opteron 6134,2,8,6053,898,115,52.63,Server
+Intel Core i7-5700HQ @ 2.70GHz,1,4,6055,2015,47,128.83,Laptop
+Intel Core i3-1115G4 @ 3.00GHz,1,2,6056,2629,15,403.73,Laptop
+Intel Core i7-4810MQ @ 2.80GHz,1,4,6062,2026,47,128.98,Laptop
+AMD FX-8350 Eight-Core,1,4,6063,1581,125,48.5,Desktop
+Intel Core i7-8565U @ 1.80GHz,1,4,6067,2147,15,404.47,Laptop
+AMD Opteron 6344,1,6,6069,1231,115,52.77,Server
+Intel Xeon E5-2658 @ 2.10GHz,1,8,6073,1156,95,63.93,Server
+Intel Core i7-4770HQ @ 2.20GHz,1,4,6074,1916,47,129.23,Laptop
+Intel Xeon E3-1505L v6 @ 2.20GHz,1,4,6088,1848,25,243.52,"Laptop, Server"
+Intel Core i7-5675C @ 3.10GHz,1,4,6089,2249,65,93.68,Desktop
+Intel Xeon E5-2440 @ 2.40GHz,1,6,6091,1304,95,64.12,Server
+Intel Xeon X5670 @ 2.93GHz,1,6,6098,1399,95,64.19,Server
+Intel Core i3-8100 @ 3.60GHz,1,4,6108,2217,65,93.97,Desktop
+Intel Core i5-8365U @ 1.60GHz,1,4,6110,2125,15,407.33,Laptop
+Intel Core i7-4900MQ @ 2.80GHz,1,4,6117,1990,47,130.15,Laptop
+Intel Core i7-4850HQ @ 2.30GHz,1,4,6133,1939,47,130.49,Laptop
+Intel Core i7-6700TE @ 2.40GHz,1,4,6135,2042,35,175.29,Desktop
+[Dual CPU] AMD Opteron 6128,2,8,6141,862,115,53.4,Server
+AMD Ryzen 3 PRO 1200,1,4,6154,1914,65,94.68,Desktop
+Intel Core i3-1215UL,1,6,6161,2046,15,410.73,Mobile/Embedded
+Intel Core i3-9300T @ 3.20GHz,1,4,6164,2302,35,176.11,Desktop
+AMD FX-8370 Eight-Core,1,4,6171,1625,125,49.37,Desktop
+AMD FX-9370 Eight-Core,1,4,6177,1691,220,28.08,Desktop
+Intel Core i7-3770S @ 3.10GHz,1,4,6178,2039,65,95.05,Desktop
+Intel Xeon E5-2630 @ 2.30GHz,1,6,6183,1286,95,65.08,Server
+Intel Core i7-8565UC @ 1.80GHz,1,4,6187,2527,15,412.47,Laptop
+Intel Xeon E5-2430L v2 @ 2.40GHz,1,6,6190,1318,60,103.17,Server
+Intel Xeon E5-2650L @ 1.80GHz,1,8,6192,1083,70,88.46,Server
+Intel Core i5-10210U @ 1.60GHz,1,4,6194,2162,15,412.93,Laptop
+Intel Xeon E3-1230 V2 @ 3.30GHz,1,4,6195,1989,69,89.78,Server
+Intel Xeon E3-1265L v3 @ 2.50GHz,1,4,6204,2062,45,137.87,Server
+Intel Xeon D-1622 @ 2.60GHz,1,4,6205,1875,40,155.12,Server
+Intel Core i5-8350U @ 1.70GHz,1,4,6216,2023,15,414.4,Laptop
+[Dual CPU] Intel Xeon E7- 4807 @ 1.87GHz,2,6,6223,721,95,65.51,Server
+Intel Core i3-10100TE @ 2.30GHz,1,4,6237,1715,35,178.2,Mobile/Embedded
+[Dual CPU] Intel Xeon X5570 @ 2.93GHz,2,4,6238,1447,95,65.66,Server
+Intel Core i7-4910MQ @ 2.90GHz,1,4,6241,2024,47,132.79,Laptop
+Intel Core i7-4860HQ @ 2.40GHz,1,4,6242,1893,47,132.81,Laptop
+Intel Xeon E5-2620 v2 @ 2.10GHz,1,6,6246,1290,80,78.08,Server
+Intel Core i7-8665U @ 1.90GHz,1,4,6250,2186,15,416.67,Laptop
+Intel Xeon E5-1428L v2 @ 2.20GHz,1,6,6255,1096,60,104.25,Server
+Intel Core i7-8650U @ 1.90GHz,1,4,6271,2130,15,418.07,Laptop
+AMD Ryzen 3 1200,1,4,6275,1929,65,96.54,Desktop
+Intel Xeon E3-1275L v3 @ 2.70GHz,1,4,6290,2149,45,139.78,Server
+Intel Core i3-8300 @ 3.70GHz,1,4,6296,2261,62,101.55,Desktop
+Intel Xeon E5-4617 @ 2.90GHz,1,6,6298,1552,130,48.45,Server
+Intel Core i7-4760HQ @ 2.10GHz,1,4,6300,1944,47,134.04,Laptop
+Intel Xeon E3-1245 V2 @ 3.40GHz,1,4,6308,2026,77,81.92,Server
+Intel Core i7-4870HQ @ 2.50GHz,1,4,6310,2051,47,134.26,Laptop
+Intel Core i5-6600K @ 3.50GHz,1,4,6324,2327,91,69.49,Desktop
+Intel Xeon E5-2640 @ 2.50GHz,1,6,6324,1352,95,66.57,Server
+Intel Xeon E-2254ML @ 1.70GHz,1,4,6333,2029,25,253.32,Server
+Intel Xeon E3-1268L v5 @ 2.40GHz,1,4,6334,1721,35,180.97,"Laptop, Server"
+[Dual CPU] AMD Opteron 6128 HE,2,8,6339,883,85,74.58,Server
+[Dual CPU] AMD Opteron 8439 SE,2,6,6340,1204,105,60.38,Server
+Intel Core i7-4960HQ @ 2.60GHz,1,4,6344,2083,47,134.98,Laptop
+AMD Ryzen 7 3700C,1,4,6346,2267,15,423.07,"Laptop, Mobile/Embedded"
+Intel Core i7-4790T @ 2.70GHz,1,4,6346,2094,45,141.02,Desktop
+AMD Opteron 6276,1,8,6348,1033,115,55.2,Server
+Intel Core i7-4930MX @ 3.00GHz,1,4,6348,2060,57,111.37,Laptop
+Intel Xeon E-2276ML @ 2.00GHz,1,6,6353,1222,25,254.12,Server
+Intel Xeon E5-2420 v2 @ 2.20GHz,1,6,6356,1386,80,79.45,Server
+Intel Xeon E3-1240 V2 @ 3.40GHz,1,4,6358,2034,69,92.14,Server
+[Dual CPU] Intel Xeon W5580 @ 3.20GHz,2,4,6384,1485,130,49.11,Server
+AMD Opteron 6282 SE,1,16,6385,953,140,45.61,Server
+[Dual CPU] Intel Xeon E5-2407 v2 @ 2.40GHz,2,4,6395,1282,80,79.94,Server
+AMD Ryzen 3 PRO 2200GE,1,4,6398,2056,35,182.8,Desktop
+Intel Xeon X5675 @ 3.07GHz,1,6,6404,1484,95,67.41,Server
+Intel Core i7-3770 @ 3.40GHz,1,4,6412,2073,77,83.27,Desktop
+Intel Xeon E5-2608L v3 @ 2.00GHz,1,6,6415,1210,52,123.37,Server
+Intel Core i5-10310U @ 1.70GHz,1,4,6434,2199,15,428.93,Laptop
+Intel Xeon W3670 @ 3.20GHz,1,6,6435,1498,130,49.5,Server
+Intel Xeon Silver 4112 @ 2.60GHz,1,4,6446,1707,85,75.84,Server
+Intel Xeon E5-2637 v2 @ 3.50GHz,1,4,6457,1902,130,49.67,Server
+Intel Xeon E5-4610 @ 2.40GHz,1,6,6460,1401,95,68,Server
+Intel Core i7-3770K @ 3.50GHz,1,4,6462,2071,77,83.92,Desktop
+Intel Xeon E3-1270 V2 @ 3.50GHz,1,4,6488,2078,69,94.03,Server
+Intel Core i7-4820K @ 3.70GHz,1,4,6492,1957,130,49.94,Desktop
+Intel Xeon E3-1240L v5 @ 2.10GHz,1,4,6511,1909,25,260.44,Server
+[Dual CPU] Intel Xeon E5620 @ 2.40GHz,2,4,6518,1089,80,81.47,Server
+Intel Core i7-1060NG7 @ 1.20GHz,1,4,6521,1857,10,652.1,Laptop
+Intel Core i7-6700HQ @ 2.60GHz,1,4,6522,1911,45,144.93,Laptop
+Intel Core i7-4980HQ @ 2.80GHz,1,4,6525,2170,47,138.83,Laptop
+Intel Xeon E3-1290 V2 @ 3.70GHz,1,4,6526,2127,87,75.01,Server
+Intel Core i5-7600 @ 3.50GHz,1,4,6537,2460,65,100.57,Desktop
+AMD Ryzen 5 2500U,1,4,6539,1816,15,435.93,Laptop
+Intel Xeon E5-1620 v2 @ 3.70GHz,1,4,6543,2019,130,50.33,Server
+[Quad CPU] Intel Xeon E7340 @ 2.40GHz,4,4,6544,960,80,81.8,Server
+Intel Core i7-970 @ 3.20GHz,1,6,6546,1467,130,50.35,Desktop
+Intel Xeon E3-1280 V2 @ 3.60GHz,1,4,6563,2168,69,95.12,Server
+Intel Core i7-10510U @ 1.80GHz,1,4,6587,2289,15,439.13,Laptop
+Intel Core i7-4770R @ 3.20GHz,1,4,6620,2179,65,101.85,Desktop
+Intel Core i3-9100 @ 3.60GHz,1,4,6623,2482,65,101.89,Desktop
+Intel Xeon E3-1275 V2 @ 3.50GHz,1,4,6631,2120,77,86.12,Server
+AMD Ryzen 5 PRO 2500U,1,4,6638,1791,15,442.53,Laptop
+[Dual CPU] Intel Xeon W5590 @ 3.33GHz,2,4,6640,1612,130,51.08,Server
+Snapdragon 8cx Gen 2 @ 3.15 GHz,1,8,6657,1953,7,951,"Laptop, Mobile/Embedded"
+AMD Ryzen 3 PRO 3200GE,1,4,6668,2123,35,190.51,Laptop
+Intel Xeon D-2123IT @ 2.20GHz,1,4,6676,1725,60,111.27,Server
+AMD Ryzen Embedded V1605B,1,4,6677,1908,15,445.13,"Laptop, Mobile/Embedded"
+AMD Opteron 6380,1,8,6687,1092,115,58.15,Server
+[Dual CPU] Intel Xeon E5-4603 @ 2.00GHz,2,4,6690,995,95,70.42,Server
+Intel Core i7-10610U @ 1.80GHz,1,4,6701,2259,15,446.73,Laptop
+Intel Xeon E5-2630L v2 @ 2.40GHz,1,6,6703,1396,60,111.72,Server
+AMD Ryzen 5 3450U,1,4,6721,1905,15,448.07,Laptop
+Intel Pentium Gold G7400,1,2,6733,2999,46,146.37,Desktop
+Intel Core i3-9100F @ 3.60GHz,1,4,6738,2499,65,103.66,Desktop
+Intel Core i7-4770S @ 3.10GHz,1,4,6747,2123,65,103.8,Desktop
+AMD Ryzen 3 2200G,1,4,6760,2049,65,104,Desktop
+Intel Xeon E5-2448L v2 @ 1.80GHz,1,10,6774,1235,70,96.77,Server
+AMD FX-9590 Eight-Core,1,4,6788,1813,220,30.85,Desktop
+AMD Ryzen 7 2700U,1,4,6789,1809,15,452.6,Laptop
+Intel Xeon E5-2623 v3 @ 3.00GHz,1,4,6790,1866,105,64.67,Server
+[Dual CPU] Intel Xeon E5630 @ 2.53GHz,2,4,6790,1167,80,84.88,Server
+[Quad CPU] Intel Xeon E7330 @ 2.40GHz,4,4,6792,933,80,84.9,Server
+Intel Xeon E3-1285L v3 @ 3.10GHz,1,4,6803,2149,65,104.66,Server
+Intel Core i5-7600K @ 3.80GHz,1,4,6807,2548,91,74.8,Desktop
+Intel Core i7-980X @ 3.33GHz,1,6,6811,1528,130,52.39,Desktop
+AMD Ryzen 3 PRO 2200G,1,4,6812,2066,65,104.8,Desktop
+Intel Xeon E3-1230 v3 @ 3.30GHz,1,4,6816,2079,80,85.2,Server
+Intel Core i7-6820HQ @ 2.70GHz,1,4,6822,1953,45,151.6,Laptop
+Intel Xeon D-1528 @ 1.90GHz,1,6,6823,1487,35,194.94,"Laptop, Server"
+Intel Xeon X5680 @ 3.33GHz,1,6,6833,1533,130,52.56,Server
+[Dual CPU] Intel Xeon E5-2609 v2 @ 2.50GHz,2,4,6844,1383,80,85.55,Server
+Intel Core i7-4940MX @ 3.10GHz,1,4,6846,2184,57,120.11,Laptop
+Intel Core i3-8350K @ 4.00GHz,1,4,6863,2476,91,75.42,Desktop
+Intel Core i7-5850HQ @ 2.70GHz,1,4,6866,2219,47,146.09,Laptop
+Intel Core i3-9100E @ 3.10GHz,1,4,6868,2334,65,105.66,Mobile/Embedded
+Intel Core i7-7700HQ @ 2.80GHz,1,4,6908,2057,45,153.51,Laptop
+Intel Xeon E-2124 @ 3.30GHz,1,4,6915,2495,71,97.39,Server
+Intel Core i5-7640X @ 4.00GHz,1,4,6925,2535,112,61.83,Desktop
+Intel Xeon E3-1286L v3 @ 3.20GHz,1,4,6929,2329,65,106.6,Server
+Intel Core i7-980 @ 3.33GHz,1,6,6930,1539,130,53.31,Desktop
+[Dual CPU] Intel Xeon E5-2603 v3 @ 1.60GHz,2,6,6937,925,85,81.61,Server
+Intel Xeon E5-2623 v4 @ 2.60GHz,1,4,6940,1761,85,81.65,Server
+AMD Ryzen 5 3500U,1,4,6943,1947,15,462.87,Laptop
+Intel Core i5-8305G @ 2.80GHz,1,4,6951,2048,65,106.94,Laptop
+Intel Xeon E3-1265L v4 @ 2.30GHz,1,4,6954,2073,35,198.69,Server
+Intel Xeon E3-1505M v5 @ 2.80GHz,1,4,6956,2004,45,154.58,Server
+AMD Ryzen 7 3780U,1,4,6961,1937,15,464.07,Laptop
+AMD Ryzen 3 1300X,1,4,6974,2126,65,107.29,Desktop
+Intel Xeon E3-1285 v3 @ 3.60GHz,1,4,6974,2213,84,83.02,Server
+Intel Xeon E5-4607 v2 @ 2.60GHz,1,6,6986,1363,95,73.54,Server
+AMD Ryzen 3 PRO 3200G,1,4,6991,2190,65,107.55,Desktop
+Intel Xeon E5-1620 v3 @ 3.50GHz,1,4,6993,2012,140,49.95,Server
+Intel Xeon W3680 @ 3.33GHz,1,6,6995,1570,130,53.81,Server
+AMD Ryzen Embedded R2514,1,4,6998,1933,15,466.53,Mobile/Embedded
+Intel Core i7-6820EQ @ 2.80GHz,1,4,7001,1997,45,155.58,Laptop
+AMD Athlon Gold PRO 3150GE,1,4,7006,2165,35,200.17,Desktop
+AMD Ryzen 5 PRO 3500U,1,4,7009,1953,15,467.27,Laptop
+Intel Core i7-4790S @ 3.20GHz,1,4,7011,2207,65,107.86,Desktop
+Intel Xeon E5-4640 @ 2.40GHz,1,8,7012,1233,95,73.81,Server
+Intel Xeon E3-1245 v3 @ 3.40GHz,1,4,7020,2147,84,83.57,Server
+Intel Xeon X5690 @ 3.47GHz,1,6,7034,1637,130,54.11,Server
+Intel Core i7-5850EQ @ 2.70GHz,1,4,7036,2119,47,149.7,Laptop
+Intel Xeon E5-4620 @ 2.20GHz,1,8,7037,1207,95,74.07,Server
+Intel Xeon E5-2430 v2 @ 2.50GHz,1,6,7039,1425,80,87.99,Server
+Intel Xeon E3-1231 v3 @ 3.40GHz,1,4,7045,2149,80,88.06,Server
+Intel Core i7-6820HK @ 2.70GHz,1,4,7053,1990,45,156.73,Laptop
+Intel Xeon E3-1240 v3 @ 3.40GHz,1,4,7053,2150,80,88.16,Server
+Intel Core i7-4770 @ 3.40GHz,1,4,7058,2169,84,84.02,Desktop
+Intel Core i7-6770HQ @ 2.60GHz,1,4,7087,1944,45,157.49,Laptop
+Intel Xeon X5679 @ 3.20GHz,1,6,7095,1547,115,61.7,Server
+Intel Core i5-8269U @ 2.60GHz,1,4,7111,2377,28,253.96,"Laptop, Mobile/Embedded"
+Intel Core i7-990X @ 3.47GHz,1,6,7111,1579,130,54.7,Desktop
+AMD Athlon Gold 3150G,1,4,7112,2265,65,109.42,Desktop
+AMD Ryzen 3 3200G,1,4,7129,2206,65,109.68,Desktop
+[Dual CPU] AMD Opteron 6282 SE,2,16,7130,517,140,50.93,Server
+Intel Core i7-4770K @ 3.50GHz,1,4,7130,2162,84,84.88,Desktop
+Intel Core i3-9300 @ 3.70GHz,1,4,7137,2561,62,115.11,Desktop
+Intel Core i7-4771 @ 3.50GHz,1,4,7137,2193,84,84.96,Desktop
+Intel Xeon E3-1241 v3 @ 3.50GHz,1,4,7139,2173,80,89.24,Server
+AMD Ryzen 7 3700U,1,4,7156,1976,15,477.07,Laptop
+Intel 300,1,2,7160,3235,46,155.65,Desktop
+Intel Core i7-7820HQ @ 2.90GHz,1,4,7168,2123,45,159.29,Laptop
+Intel Xeon D-1539 @ 1.60GHz,1,8,7175,1179,35,205,Server
+Intel Xeon E5-2628L v2 @ 1.90GHz,1,8,7181,1106,70,102.59,Server
+AMD Ryzen 7 PRO 2700U,1,4,7182,1953,15,478.8,Laptop
+Intel Xeon E3-1275 v3 @ 3.50GHz,1,4,7213,2201,95,75.93,Server
+[Dual CPU] Intel Xeon L5638 @ 2.00GHz,2,6,7217,944,60,120.28,Server
+Intel Core i7-6700T @ 2.80GHz,1,4,7222,2073,35,206.34,Desktop
+Intel Xeon W3690 @ 3.47GHz,1,6,7226,1613,130,55.58,Server
+Intel Xeon E5-4610 v3 @ 1.70GHz,1,10,7229,1027,105,68.85,Server
+[Quad CPU] Intel Xeon E7530 @ 1.87GHz,4,6,7231,887,105,68.87,Server
+AMD Ryzen 3 PRO 1300,1,4,7234,2187,65,111.29,Desktop
+[Dual CPU] AMD Opteron 4238,2,3,7236,1313,95,76.17,Server
+AMD Ryzen 5 Microsoft Surface Edition,1,4,7243,1815,15,482.87,Laptop
+Intel Xeon E5-2637 v3 @ 3.50GHz,1,4,7246,2025,135,53.67,Server
+Intel Core i7-4790 @ 3.60GHz,1,4,7270,2233,84,86.55,Desktop
+AMD Ryzen 5 3580U,1,4,7271,1981,15,484.73,Laptop
+Intel Core i3-10100T @ 3.00GHz,1,4,7273,2259,35,207.8,Laptop
+Intel Xeon E3-1270 v3 @ 3.50GHz,1,4,7274,2192,80,90.92,Server
+Intel Core i7-8706G @ 3.10GHz,1,4,7287,2322,65,112.11,Laptop
+Intel Xeon E3-1246 v3 @ 3.50GHz,1,4,7293,2217,84,86.82,Server
+Intel Xeon Phi 7210 @ 1.30GHz,1,64,7306,460,215,33.98,Server
+AMD Ryzen 3 3200GE,1,4,7309,2206,35,208.83,Desktop
+Intel Xeon E-2224 @ 3.40GHz,1,4,7317,2554,71,103.06,Server
+Intel Core i5-9300HF @ 2.40GHz,1,4,7322,2281,45,162.71,Laptop
+Intel Core i7-6920HQ @ 2.90GHz,1,4,7351,2101,45,163.36,Laptop
+Intel Core i3-9320 @ 3.70GHz,1,4,7358,2711,62,118.68,Desktop
+Intel Core i5-1035G1 @ 1.00GHz,1,4,7374,2234,15,491.6,Laptop
+Intel Xeon E5-2650 @ 2.00GHz,1,8,7375,1223,95,77.63,Server
+Intel Atom P5322,1,8,7378,1198,55,134.15,Server
+Intel Core i7-7920HQ @ 3.10GHz,1,4,7380,2230,45,164,Laptop
+Intel Xeon E5-1620 v4 @ 3.50GHz,1,4,7382,2226,140,52.73,Server
+Intel Core i7-7820HK @ 2.90GHz,1,4,7387,2117,45,164.16,Laptop
+Intel Xeon E5-1630 v3 @ 3.70GHz,1,4,7388,2105,140,52.77,Server
+Intel Xeon E3-1280 v3 @ 3.60GHz,1,4,7393,2275,82,90.16,Server
+Intel Xeon E-2124G @ 3.40GHz,1,4,7418,2687,71,104.48,Server
+Intel Xeon E3-1286 v3 @ 3.70GHz,1,4,7418,2391,84,88.31,Server
+Intel Xeon E5-2637 v4 @ 3.50GHz,1,4,7434,2205,135,55.07,Server
+Intel Core i5-8400T @ 1.70GHz,1,6,7439,1919,35,212.54,Desktop
+AMD Ryzen 3 4300U,1,4,7441,2308,15,496.07,Laptop
+Intel Core i7-8557U @ 1.70GHz,1,4,7444,2376,15,496.27,Laptop
+Intel Xeon D-1537 @ 1.70GHz,1,8,7444,1225,35,212.69,Server
+Intel Xeon E5-2608L v4 @ 1.60GHz,1,8,7447,1092,50,148.94,Server
+Intel Xeon E3-1281 v3 @ 3.70GHz,1,4,7452,2329,82,90.88,Server
+[Dual CPU] Intel Xeon E5640 @ 2.67GHz,2,4,7455,1252,80,93.19,Server
+AMD Ryzen 7 PRO 3700U,1,4,7462,2025,15,497.47,Laptop
+Intel Core i5-8279U @ 2.40GHz,1,4,7465,2294,28,266.61,Laptop
+Intel Xeon E3-1505M v6 @ 3.00GHz,1,4,7466,2230,45,165.91,Server
+Intel Core i5-8300H @ 2.30GHz,1,4,7467,2278,45,165.93,Laptop
+Intel Xeon E5-2630 v2 @ 2.60GHz,1,6,7473,1569,80,93.41,Server
+Intel Core i5-8257U @ 1.40GHz,1,4,7480,2269,15,498.67,Laptop
+Intel Core i5-8260U @ 1.60GHz,1,4,7485,2245,15,499,Laptop
+Intel Xeon E3-1276 v3 @ 3.60GHz,1,4,7508,2283,84,89.38,Server
+Intel Xeon E5-2667 @ 2.90GHz,1,6,7511,1584,130,57.78,Server
+AMD Ryzen 5 2400GE,1,4,7521,2100,35,214.89,Desktop
+Intel Xeon E3-1535M v5 @ 2.90GHz,1,4,7524,2120,45,167.2,"Laptop, Server"
+Intel Xeon E5-2450 @ 2.10GHz,1,8,7534,1180,95,79.31,Server
+Intel Xeon E3-1271 v3 @ 3.60GHz,1,4,7539,2279,80,94.24,Server
+Intel Core i7-7820EQ @ 3.00GHz,1,4,7542,2173,45,167.6,Laptop
+Intel Core i3-9350KF @ 4.00GHz,1,4,7549,2668,91,82.96,Desktop
+[Quad CPU] Intel Xeon E5-4607 v2 @ 2.60GHz,4,6,7557,1378,95,79.55,Server
+AMD Ryzen 3 2300X,1,4,7568,2357,65,116.43,Desktop
+Intel Core i5-9300H @ 2.40GHz,1,4,7578,2290,45,168.4,Laptop
+Intel Xeon E5-1630 v4 @ 3.70GHz,1,4,7581,2319,140,54.15,Server
+Intel Xeon E5-2650L v2 @ 1.70GHz,1,10,7586,979,70,108.37,Server
+Intel Xeon E5-2640 v2 @ 2.00GHz,1,8,7590,1270,95,79.89,Server
+Intel Xeon D-1531 @ 2.20GHz,1,6,7592,1482,45,168.71,Server
+Intel Core i7-5775R @ 3.30GHz,1,4,7596,2247,65,116.86,Desktop
+Intel Core i7-7700T @ 2.90GHz,1,4,7597,2147,35,217.06,Desktop
+Intel Xeon E-2224G @ 3.50GHz,1,4,7643,2734,71,107.65,Server
+Intel Core i5-8400H @ 2.50GHz,1,4,7644,2350,45,169.87,Laptop
+AMD Ryzen 5 PRO 2400GE,1,4,7649,2121,35,218.54,Desktop
+Intel Xeon E5-2440 v2 @ 1.90GHz,1,8,7655,1139,95,80.58,Server
+Intel Xeon E3-1270L v4 @ 3.00GHz,1,4,7662,2378,45,170.27,Server
+Intel Core i7-8705G @ 3.10GHz,1,4,7669,2212,65,117.98,Laptop
+AMD Ryzen 5 3550U,1,4,7681,2053,15,512.07,Laptop
+Intel Core i7-5775C @ 3.30GHz,1,4,7693,2276,65,118.35,Desktop
+Intel Core i3-9350K @ 4.00GHz,1,4,7700,2783,91,84.62,Desktop
+AMD Athlon Gold PRO 3150G,1,4,7702,2321,65,118.49,Desktop
+Intel Core i5-8500T @ 2.10GHz,1,6,7719,2011,35,220.54,Desktop
+[Quad CPU] AMD Opteron 8378,4,4,7726,1044,115,67.18,Server
+AMD Ryzen 5 1400,1,4,7753,1896,65,119.28,Desktop
+AMD Ryzen 5 3550H,1,4,7765,2028,35,221.86,Laptop
+Intel Xeon E5-2620 v3 @ 2.40GHz,1,6,7804,1690,85,91.81,Server
+Intel Core i7-5950HQ @ 2.90GHz,1,4,7807,2310,47,166.11,Laptop
+Intel Xeon E3-1285 v4 @ 3.50GHz,1,4,7808,2313,95,82.19,Server
+Intel Xeon E3-1545M v5 @ 2.90GHz,1,4,7813,2117,45,173.62,"Laptop, Server"
+[Dual CPU] AMD Opteron 6176 SE,2,12,7818,963,140,55.84,Server
+[Quad CPU] Intel Xeon X7350 @ 2.93GHz,4,4,7836,1186,130,60.28,Server
+AMD Opteron 6348,1,6,7850,1333,115,68.26,Server
+AMD Ryzen 5 2600H,1,4,7860,2075,45,174.67,Laptop
+[Dual CPU] Intel Xeon X7550 @ 2.00GHz,2,8,7873,1067,130,60.56,Server
+Intel Core i5-1035G4 @ 1.10GHz,1,4,7874,2193,15,524.93,Laptop
+Intel Core i5-8259U @ 2.30GHz,1,4,7875,2201,28,281.25,Laptop
+Intel Core i7-9850HL @ 1.90GHz,1,6,7897,1723,25,315.88,"Desktop, Laptop"
+Intel Core i5-9400H @ 2.50GHz,1,4,7912,2408,45,175.82,Laptop
+Intel Xeon E3-1230 v5 @ 3.40GHz,1,4,7921,2193,80,99.01,Server
+Intel Xeon E3-1515M v5 @ 2.80GHz,1,4,7938,2148,45,176.4,Server
+Intel Core i7-8709G @ 3.10GHz,1,4,7947,2313,100,79.47,Laptop
+[Dual CPU] AMD Opteron 6220,2,4,7951,1235,115,69.14,Server
+Intel Xeon E3-1535M v6 @ 3.10GHz,1,4,7952,2299,35,227.2,"Laptop, Server"
+[Dual CPU] AMD Opteron 6136,2,8,7964,1059,115,69.25,Server
+Intel Core i3-10300T @ 3.00GHz,1,4,7975,2337,35,227.86,Desktop
+Intel Xeon D-2712T @ 1.90GHz,1,4,7990,1956,65,122.92,Server
+Intel Core i3-10105T @ 3.00GHz,1,4,7992,2353,35,228.34,Desktop
+[Dual CPU] Intel Xeon E5-2603 v4 @ 1.70GHz,2,6,7992,1081,85,94.02,Server
+Intel Xeon E3-1575M v5 @ 3.00GHz,1,4,8006,2204,45,177.91,Server
+AMD Ryzen 7 2800H,1,4,8013,2173,45,178.07,Laptop
+Intel Xeon D-1559 @ 1.50GHz,1,12,8015,1033,45,178.11,Server
+Intel Xeon E3-1245 v5 @ 3.50GHz,1,4,8024,2242,80,100.3,Server
+[Dual CPU] Intel Xeon X7560 @ 2.27GHz,2,8,8028,892,130,61.75,Server
+Intel Core i7-4790K @ 4.00GHz,1,4,8068,2466,88,91.68,Desktop
+Intel Xeon E3-1285L v4 @ 3.40GHz,1,4,8074,2350,65,124.22,Server
+[Dual CPU] Intel Xeon Bronze 3104 @ 1.70GHz,2,6,8079,1054,85,95.05,Server
+Intel Core i7-6700 @ 3.40GHz,1,4,8080,2290,65,124.31,Desktop
+Intel Xeon E3-1585L v5 @ 3.00GHz,1,4,8083,2188,45,179.62,Server
+AMD Ryzen 7 3750H,1,4,8103,2080,35,231.51,Laptop
+Intel Xeon E5-1650 @ 3.20GHz,1,6,8112,1736,130,62.4,Server
+Intel Core i5-1035G7 @ 1.20GHz,1,4,8132,2210,15,542.13,Laptop
+Intel Core i3-10305T @ 3.00GHz,1,4,8136,2457,35,232.46,Desktop
+Intel Core i5-10200H @ 2.40GHz,1,4,8139,2435,45,180.87,Laptop
+Intel Xeon E-2314 @ 2.80GHz,1,4,8146,2732,65,125.32,Server
+Intel Xeon E5-2660 @ 2.20GHz,1,8,8149,1397,95,85.78,Server
+Intel Core i7-10810U @ 1.10GHz,1,6,8165,2274,15,544.33,Laptop
+Intel Xeon E-2276ME @ 2.80GHz,1,6,8167,1604,45,181.49,"Server, Mobile/Embedded"
+Intel Core i7-1185GRE @ 2.80GHz,1,4,8179,2286,15,545.27,Mobile/Embedded
+Intel Core i5-9500T @ 2.20GHz,1,6,8201,2163,35,234.31,Desktop
+Intel Core i7-3930K @ 3.20GHz,1,6,8205,1747,130,63.12,Desktop
+[Dual CPU] AMD Opteron 6238,2,6,8206,1076,115,71.36,Server
+Intel Xeon E3-1230 v6 @ 3.50GHz,1,4,8212,2203,72,114.06,Server
+Intel Xeon E3-1260L v5 @ 2.90GHz,1,4,8222,2310,45,182.71,Server
+Intel Core i7-8569U @ 2.80GHz,1,4,8230,2599,28,293.93,Laptop
+Intel Xeon E3-1240 v5 @ 3.50GHz,1,4,8247,2295,80,103.09,Server
+AMD Athlon Gold PRO 4150GE,1,4,8259,2384,35,235.97,Laptop
