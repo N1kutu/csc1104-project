@@ -1,3 +1,6 @@
+# [1]R. Python, “The k-Nearest Neighbors (kNN) Algorithm in Python – Real Python,” realpython.com. https://realpython.com/knn-python/
+‌
+
 import pandas as pd
 import matplotlib
 
@@ -39,7 +42,7 @@ distances = np.linalg.norm(X - new_data_point, axis=1)
 k = 2
 nearest_neighbor_ids = distances.argsort()[:k]
 
-# Find the groun truth based on the three nearest neighbors
+# Find the ground truth based on the three nearest neighbors
 nearest_neighbor_mark = y[nearest_neighbor_ids]
 prediction = nearest_neighbor_mark.mean()
 
