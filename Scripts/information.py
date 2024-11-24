@@ -1,5 +1,4 @@
 # [1]R. Python, “The k-Nearest Neighbors (kNN) Algorithm in Python – Real Python,” realpython.com. https://realpython.com/knn-python/
-‌
 
 import pandas as pd
 import matplotlib
@@ -9,6 +8,10 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv("../Data/Data.csv")
 # print(df.nunique())
+
+fig, ax = plt.subplots(1, sharex=True, sharey=True)
+cpumin = df["CPU Mark"].min()
+ax.fill_between(df["CPU Mark"], cpumin, df["CPU Mark"], alpha=0.7)
 
 correlation_matrix = df.corr(numeric_only=True)
 correlation_matrix["CPU Mark"]
@@ -51,6 +54,14 @@ from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test, cpu_names_train, cpu_names_test = train_test_split(
     X, y, cpu_names, test_size=0.2, random_state=12345
 )
+
+test_data = pd.DataFrame(
+    {
+        "CPU Name": cpu_names_test.values,
+        "Actual CPU Mark": y_test,
+    }
+)
+test_data.to_csv("../Data/Test.csv")
 
 from sklearn.neighbors import KNeighborsRegressor
 
