@@ -24,8 +24,8 @@ Week 11: Project Final report due on the 24th November 2024
   
   <tr>
     <td>66%</td>
-    <td></td>
-    <td></td>
+    <td>72</td>
+    <td>70</td>
   </tr>
 </table>
 
